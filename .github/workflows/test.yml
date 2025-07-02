@@ -1,0 +1,16 @@
+name: test
+
+on:
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    steps:
+      - name: TESTTEST
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+        run: |
+          echo "${{ secrets.FEISHU_APP_ID }}"
