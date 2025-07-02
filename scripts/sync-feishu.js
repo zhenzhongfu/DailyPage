@@ -1,5 +1,8 @@
 // 引入依赖
-require('dotenv').config();
+// 仅在非 CI 环境中加载 .env 文件
+if (!process.env.CI) {
+  require('dotenv').config();
+}
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
@@ -13,7 +16,7 @@ const DAILY_TABLE_ID = process.env.FEISHU_DAILY_TABLE_ID || ''; // 新增：每�
 const FEISHU_OBJ_TYPE = process.env.FEISHU_OBJ_TYPE || 'bitable';
 
 if (!APP_ID || !APP_SECRET || !NODE_TOKEN || !TABLE_ID || !VIEW_ID) {
-  console.error('请在.env文件中配置所有飞书API参数');
+  console.error('缺少必要的飞书API参数，请在环境变量或.env文件中配置');
   process.exit(1);
 }
 
@@ -58,15 +61,25 @@ async function requestWithToken(config, retry = true) {
 
 // 1. 获取 obj_token
 async function getObjToken() {
-  const res = await requestWithToken({
-    method: 'get',
-    url: 'https://open.feishu.cn/open-apis/wiki/v2/spaces/get_node',
-    params: {
-      obj_type: FEISHU_OBJ_TYPE,
-      token: NODE_TOKEN,
+  console.log(`请求 obj_token，使用参数 obj_type: ${FEISHU_OBJ_TYPE}, token: ${NODE_TOKEN.substring(0, 3)}***`);
+  try {
+    const res = await requestWithToken({
+      method: 'get',
+      url: 'https://open.feishu.cn/open-apis/wiki/v2/spaces/get_node',
+      params: {
+        obj_type: FEISHU_OBJ_TYPE,
+        token: NODE_TOKEN,
+      }
+    });
+    if (!res.data || !res.data.data || !res.data.data.node) {
+      console.error('获取 obj_token 响应格式异常:', JSON.stringify(res.data));
+      throw new Error('API响应格式异常');
     }
-  });
-  return res.data.data.node.obj_token;
+    return res.data.data.node.obj_token;
+  } catch (error) {
+    console.error('获取 obj_token 失败:', error.response?.data || error.message);
+    throw error;
+  }
 }
 
 // 2. 查询主内容数据
@@ -130,25 +143,43 @@ async function fetchDailyThoughts(obj_token) {
 
 (async () => {
   try {
+    console.log('开始获取 obj_token...');
     const obj_token = await getObjToken();
+    console.log('成功获取 obj_token');
 
     // 获取主内容和每日思考
+    console.log('开始获取飞书表格数据...');
     const contentData = await fetchBitableData(obj_token);
+    console.log(`成功获取到 ${contentData.length} 条内容数据`);
     // const dailyThoughtsData = await fetchDailyThoughts(obj_token);
 
     // 确保 public 目录存在
     const publicDir = path.join(__dirname, '..', 'public');
-    if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir);
+    if (!fs.existsSync(publicDir)) {
+      console.log(`创建目录: ${publicDir}`);
+      fs.mkdirSync(publicDir);
+    }
 
     // 写入文件
-    fs.writeFileSync(path.join(publicDir, 'content-data.json'), JSON.stringify(contentData, null, 2));
+    const contentDataPath = path.join(publicDir, 'content-data.json');
+    console.log(`写入数据到: ${contentDataPath}`);
+    fs.writeFileSync(contentDataPath, JSON.stringify(contentData, null, 2));
     console.log('主内容数据已保存到 public/content-data.json');
 
     // fs.writeFileSync(path.join(publicDir, 'daily-thoughts.json'), JSON.stringify(dailyThoughtsData, null, 2));
     // console.log('每日思考数据已保存到 public/daily-thoughts.json');
 
   } catch (e) {
-    console.error('同步失败:', e.response?.data || e.message);
+    console.error('同步失败:');
+    if (e.response?.data) {
+      console.error('API 响应错误:', JSON.stringify(e.response.data, null, 2));
+    } else if (e.message) {
+      console.error('错误信息:', e.message);
+      console.error('错误堆栈:', e.stack);
+    } else {
+      console.error('未知错误:', e);
+    }
+    process.exit(1);
   }
 })();
  
