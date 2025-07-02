@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { ExternalLink, Calendar, User, Loader2, AlertCircle, ChevronDown } from "lucide-react"
+import { ExternalLink, Calendar, User, Loader2, AlertCircle, ChevronDown, ChevronUp } from "lucide-react"
 import { useState, useEffect, useRef, useCallback } from "react"
 import type { ContentItem } from "./types/content"
 import ReactMarkdown from 'react-markdown'
@@ -220,6 +220,11 @@ export default function Component() {
   const loadMoreRef = useRef<HTMLDivElement>(null); // 用于监测滚动位置的ref
   const ITEMS_PER_LOAD = 9; // 每次加载的内容数量
   const [activeDate, setActiveDate] = useState<string | null>(null); // 当前可见的日期组
+  const [expandedCards, setExpandedCards] = useState<Record<string, boolean>>({});
+
+  const toggleCardExpansion = (recordId: string) => {
+    setExpandedCards(prev => ({ ...prev, [recordId]: !prev[recordId] }));
+  };
 
   // 从JSON文件加载数据
   useEffect(() => {
@@ -618,23 +623,48 @@ export default function Component() {
                           {/* 正文内容 */}
                           {item.fields.正文 && item.fields.正文.length > 0 && (
                             <div>
-                              {item.fields.正文.map((content, index) => {
-                                // 检查内容类型，如果包含markdown标记则使用ReactMarkdown
-                                const hasMarkdown = /[*#\[\]_~`>]/.test(content.text);
-                                
-                                return hasMarkdown ? (
-                                  <ReactMarkdown
-                                    key={index}
-                                    components={markdownComponents}
-                                  >
-                                    {content.text}
-                                  </ReactMarkdown>
-                                ) : (
-                                  <div key={index} className="text-gray-700 dark:text-gray-300 leading-relaxed text-[15px] px-1 py-0.5 mb-1">
-                                    {processTextWithLinks(content.text)}
-                                  </div>
-                                );
-                              })}
+                              {(() => {
+                                const totalTextLength = item.fields.正文.reduce((acc, curr) => acc + curr.text.length, 0);
+                                const isLongText = totalTextLength > 300;
+                                const isExpanded = expandedCards[item.record_id];
+
+                                return (
+                                  <>
+                                    <div className={`relative ${isLongText && !isExpanded ? 'max-h-40 overflow-hidden' : ''}`}>
+                                      {item.fields.正文.map((content, index) => {
+                                        const hasMarkdown = /[*#\[\]_~`>]/.test(content.text);
+                                        return hasMarkdown ? (
+                                          <ReactMarkdown key={index} components={markdownComponents}>
+                                            {content.text}
+                                          </ReactMarkdown>
+                                        ) : (
+                                          <div key={index} className="text-gray-700 dark:text-gray-300 leading-relaxed text-[15px] px-1 py-0.5 mb-1">
+                                            {processTextWithLinks(content.text)}
+                                          </div>
+                                        );
+                                      })}
+                                      {isLongText && !isExpanded && (
+                                          <div className="absolute bottom-0 left-0 w-full h-12 bg-gradient-to-t from-white dark:from-gray-800 to-transparent"></div>
+                                      )}
+                                    </div>
+                                    {isLongText && (
+                                      <div className="text-right mt-1">
+                                        <Button variant="link" size="sm" onClick={() => toggleCardExpansion(item.record_id)} className="text-blue-600 dark:text-blue-400 h-auto p-0 text-xs flex items-center gap-1">
+                                          {isExpanded ? (
+                                            <>
+                                              收起 <ChevronUp className="w-3 h-3" />
+                                            </>
+                                          ) : (
+                                            <>
+                                              展开全文 <ChevronDown className="w-3 h-3" />
+                                            </>
+                                          )}
+                                        </Button>
+                                      </div>
+                                    )}
+                                  </>
+                                )
+                              })()}
                             </div>
                           )}
 
