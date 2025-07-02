@@ -21,18 +21,18 @@ jobs:
       - name: 安装依赖
         run: npm install
         
-      - name: 执行同步脚本
+      - name: 检查 Secrets
         run: |
-          echo "开始执行同步脚本..."
-          echo "检查环境变量是否设置（仅显示是否有值，不显示具体内容）"
-          echo "FEISHU_APP_ID: $([[ -n "$FEISHU_APP_ID" ]] && echo "已设置" || echo "未设置")"
-          echo "FEISHU_APP_SECRET: $([[ -n "$FEISHU_APP_SECRET" ]] && echo "已设置" || echo "未设置")"
-          echo "FEISHU_NODE_TOKEN: $([[ -n "$FEISHU_NODE_TOKEN" ]] && echo "已设置" || echo "未设置")"
-          echo "FEISHU_TABLE_ID: $([[ -n "$FEISHU_TABLE_ID" ]] && echo "已设置" || echo "未设置")"
-          echo "FEISHU_VIEW_ID: $([[ -n "$FEISHU_VIEW_ID" ]] && echo "已设置" || echo "未设置")"
-          node scripts/sync-feishu.js
+          echo "检查 GitHub Secrets 是否已在仓库中设置..."
+          if [ -z "${{ secrets.FEISHU_APP_ID }}" ]; then echo "警告：FEISHU_APP_ID 未设置"; fi
+          if [ -z "${{ secrets.FEISHU_APP_SECRET }}" ]; then echo "警告：FEISHU_APP_SECRET 未设置"; fi
+          if [ -z "${{ secrets.FEISHU_NODE_TOKEN }}" ]; then echo "警告：FEISHU_NODE_TOKEN 未设置"; fi
+          if [ -z "${{ secrets.FEISHU_TABLE_ID }}" ]; then echo "警告：FEISHU_TABLE_ID 未设置"; fi
+          if [ -z "${{ secrets.FEISHU_VIEW_ID }}" ]; then echo "警告：FEISHU_VIEW_ID 未设置"; fi
+          
+      - name: 执行同步脚本
+        run: node scripts/sync-feishu.js
         env:
-          CI: true
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_NODE_TOKEN: ${{ secrets.FEISHU_NODE_TOKEN }}

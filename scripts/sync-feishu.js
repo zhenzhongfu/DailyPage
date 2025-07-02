@@ -15,8 +15,17 @@ const VIEW_ID = process.env.FEISHU_VIEW_ID;
 const DAILY_TABLE_ID = process.env.FEISHU_DAILY_TABLE_ID || ''; // 新增：每日思考的表格ID
 const FEISHU_OBJ_TYPE = process.env.FEISHU_OBJ_TYPE || 'bitable';
 
+// 打印环境变量状态（安全地隐藏敏感信息）
+console.log('环境变量检查:');
+console.log('FEISHU_APP_ID:', APP_ID ? '已设置（长度：' + APP_ID.length + '）' : '未设置');
+console.log('FEISHU_APP_SECRET:', APP_SECRET ? '已设置（长度：' + APP_SECRET.length + '）' : '未设置');
+console.log('FEISHU_NODE_TOKEN:', NODE_TOKEN ? '已设置（长度：' + NODE_TOKEN.length + '）' : '未设置');
+console.log('FEISHU_TABLE_ID:', TABLE_ID ? '已设置（长度：' + TABLE_ID.length + '）' : '未设置');
+console.log('FEISHU_VIEW_ID:', VIEW_ID ? '已设置（长度：' + VIEW_ID.length + '）' : '未设置');
+console.log('FEISHU_OBJ_TYPE:', FEISHU_OBJ_TYPE || '未设置（使用默认值 bitable）');
+
 if (!APP_ID || !APP_SECRET || !NODE_TOKEN || !TABLE_ID || !VIEW_ID) {
-  console.error('缺少必要的飞书API参数，请在环境变量或.env文件中配置');
+  console.error('缺少必要的飞书API参数，请在 GitHub Secrets 或环境变量中配置');
   process.exit(1);
 }
 
