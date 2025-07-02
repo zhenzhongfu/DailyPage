@@ -9,7 +9,8 @@ const APP_SECRET = process.env.FEISHU_APP_SECRET;
 const NODE_TOKEN = process.env.FEISHU_NODE_TOKEN;
 const TABLE_ID = process.env.FEISHU_TABLE_ID;
 const VIEW_ID = process.env.FEISHU_VIEW_ID;
-const DAILY_TABLE_ID = process.env.FEISHU_DAILY_TABLE_ID; // 新增：每日思考的表格ID
+const DAILY_TABLE_ID = process.env.FEISHU_DAILY_TABLE_ID || ''; // 新增：每日思考的表格ID
+const FEISHU_OBJ_TYPE = process.env.FEISHU_OBJ_TYPE || 'bitable';
 
 if (!APP_ID || !APP_SECRET || !NODE_TOKEN || !TABLE_ID || !VIEW_ID) {
   console.error('请在.env文件中配置所有飞书API参数');
@@ -61,8 +62,8 @@ async function getObjToken() {
     method: 'get',
     url: 'https://open.feishu.cn/open-apis/wiki/v2/spaces/get_node',
     params: {
-      obj_type: process.env.FEISHU_OBJ_TYPE,
-      token: process.env.FEISHU_NODE_TOKEN,
+      obj_type: FEISHU_OBJ_TYPE,
+      token: NODE_TOKEN,
     }
   });
   return res.data.data.node.obj_token;
