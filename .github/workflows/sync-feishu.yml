@@ -2,8 +2,8 @@ name: 每日同步飞书数据
 
 on:
   schedule:
-    # 每天北京时间早上 8 点执行（UTC 时间 0 点）
-    - cron: '15 2 * * *'
+    # 每天北京时间早上 0 点执行（UTC 时间 16 点）
+    - cron: '0 16 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
