@@ -1,6 +1,45 @@
 [
   {
     "fields": {
+      "id": "953",
+      "发布时间": 1751450400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "自媒体",
+        "写作",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "dontbesilent on X: \"《如何用 AI 实现时薪 500 元》😂\n\n这个代写爆款开头的帖子，我在小红书也发了一份\n\n现在过去了 4 个小时，AI 课卖了 1996 元\n\n我回复了笔记下面的每一条评论，现在共 97 条\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "《如何用 AI 实现时薪 500 元》😂 这个代写爆款开头的帖子，我在小红书也发了一份\n现在过去了 4 个小时，AI 课卖了 1996 元\n我回复了笔记下面的每一条评论，现在共 97 条\n\n我用 AI 帮我研究了 9100 个爆款短视频的开头 5 秒，今天又干到凌晨 4 点，我觉得发现了做爆款的共同规律\n已经在抖音、小红书、B站都试验成功，用于推特写文案也一样适用\n欢迎在评论区留下你的文案，我会回复你，提供一个爆款 5 秒开头，保证你的完播率在任何一个平台都可以遥遥领先 💡 提示",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://dontbesilent",
+        "text": "dontbesilent",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dontbesilent12/status/1940349818007638381?t=QI1UvJX9LfjaBAwZocG6Uw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuPPz28HU96a"
+  },
+  {
+    "fields": {
       "id": "951",
       "发布时间": 1751341500000,
       "平台": [
@@ -35,6 +74,39 @@
       ]
     },
     "record_id": "recuPFrBsAVUnA"
+  },
+  {
+    "fields": {
+      "id": "954",
+      "发布时间": 1751319900000,
+      "平台": [
+        "X"
+      ],
+      "标题": [
+        {
+          "text": "飛鳥 on X: \"这期的抽丝剥茧现原形又来了 https://t.co/WnflUpzY8w\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "这期的抽丝剥茧现原形又来了",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/askaiwy",
+        "text": "飛鳥",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/askaiwy/status/1939802586397417806?t=GeXQkieMQLJju1Ib8nc6zw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuPPOGrQ1iEW"
   },
   {
     "fields": {
