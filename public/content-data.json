@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "955",
+      "发布时间": 1751595180000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Jackywine on X: \"再来几个优秀的前端模版站：\nhttps://t.co/KQZkaTM4vg\nhttps://t.co/H4aLf2AuNu\nhttps://t.co/zEzildn27J\nhttps://t.co/8aebHJRHYh\nhttps://t.co/LCzKY6EjJa\nhttps://t.co/Oos1ItAH0h\nhttps://t.co/IZwl30sfZ8\nhttps://t.co/aLmIPMtaIt\nhttps://t.co/jrEwKSQreb\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "再来几个优秀的前端模版站： https://magicui.design\nhttps://ui.aceternity.com\nhttps://pro.aceternity.com\nhttps://animata.design\nhttps://nextui.pro\nhttps://daisyui.com\nhttps://tailwindui.com\nhttps://ui.shadcn.com\nhttps://ui.mantine.dev\n\n几个提高你 Vibecoding 界面设计水准的网站 方法也简单，让 AI 套模版，下面是几个高质量的素材站，可以直接给 AI 参考 拿走不谢\nhttps://reactbits.dev\nhttps://21st.dev\nhttps://tweakcn.com\nhttps://pro.magicui.design\nhttps://pro.alignui.com\nhttps://bentogrids.com",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Jackywine",
+        "text": "Jackywine",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Jackywine/status/1940957217794281721?t=vxXDcMMSufmynowjzLaHuA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuPXYY8Q2Vmg"
+  },
+  {
+    "fields": {
       "id": "953",
       "发布时间": 1751450400000,
       "平台": [
