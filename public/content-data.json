@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "965",
+      "发布时间": 1751877035018,
+      "平台": [
+        "微博"
+      ],
+      "标签": [
+        "其他"
+      ],
+      "标题": [
+        {
+          "text": "人最迷人的时候，不是好看，是发光。",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "人最迷人的时候，不是好看，是发光。 \n\n米乐多多烦恼bye-bye : 怨气冲天 25-7-7 15:48 来自北京 \n醋是最好吃的调味料啊 : 25-7-7 16:27 来自江苏 \n七个小矮人- : 转发微博 25-7-7 15:26 来自河北 \n河北人的家常便饭 : 转发微博 25-7-7 15:25 来自河北",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://江湖李傅相",
+        "text": "江湖李傅相",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/5132656758/5185790876319786",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQfDvjYqurU"
+  },
+  {
+    "fields": {
       "id": "959",
       "发布时间": 1751701063715,
       "平台": [
@@ -264,6 +300,9 @@
       "发布时间": 1751319900000,
       "平台": [
         "X"
+      ],
+      "标签": [
+        "其他"
       ],
       "标题": [
         {
@@ -5810,6 +5849,49 @@
       ]
     },
     "record_id": "recuL3ZFRcj4do"
+  },
+  {
+    "fields": {
+      "id": "960",
+      "发布时间": 1747031685000,
+      "封面": [
+        {
+          "text": "http://sns-webpic-qc.xhscdn.com/202507071418/831d3a8488fe8394ad6779e69df11607/notes_pre_post/1040g3k031gmll6313q105ovsh207uaercmlmm5g!nd_dft_wlteh_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202507071418/f38807c197eb6359c961f06a53bda051/notes_pre_post/1040g3k031gmll6313q1g5ovsh207uaerkesj4h0!nd_dft_wlteh_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202507071418/56413ac839bf733c0cfe83bc398ce855/notes_pre_post/1040g3k031gmll6313q205ovsh207uaerd73d4ho!nd_dft_wgth_jpg_3",
+          "type": "text"
+        }
+      ],
+      "平台": [
+        "小红书"
+      ],
+      "标签": [
+        "自媒体",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "AI 知识库是真正能让普通人快速起号的神器",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "#dontbesilent[话题]# #赚钱思维[话题]# #自媒体运营[话题]# #快速起号[话题]# #AI知识库[话题]# #你做自媒体时，有没有用 AI 辅助[投票]#",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://dontbesilent 聊赚钱",
+        "text": "dontbesilent 聊赚钱",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://www.xiaohongshu.com/discovery/item/680b3fac000000000900dfaa?source=webshare&xhsshare=pc_web&xsec_token=ABBeFhS9JIAWmF83cswd432Lh4ULDGc_OxWMeZqLjto80=&xsec_source=pc_share",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQf6ghrjQCg"
   },
   {
     "fields": {
