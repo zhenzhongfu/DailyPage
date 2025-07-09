@@ -1,6 +1,194 @@
 [
   {
     "fields": {
+      "id": "982",
+      "发布时间": 1752074914713,
+      "平台": [
+        "即刻"
+      ],
+      "标签": [
+        "思考",
+        "工具",
+        "AI",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "工作流已死，VibeCoding才是未来",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "说实话，我最近有个可怕的发现。\n那些还在折腾n8n、Make这些工作流工具的人，\n可能正在浪费生命。\n\n我给你算笔账。\n用Reddit采集数据，\nn8n搞半天，一天采集6000条。\nVibeCoding呢?\n10分钟写完，一天10万条。\n这是20倍的差距。\n\n更可怕的是什么?\n你说n8n也能采集10万条。\n没错。\n但你要花多少时间调试?\n要踩多少坑?\n要学多少节点配置?\n\n真正的高手早就明白了:\n工作流=新时代的低代码\n看起来降低门槛，\n实际上是个伪需求。\n\n为什么?\n因为AI时代，\n写代码的门槛已经无限接近于0。\n你用自然语言描述需求，\nClaude、GPT直接给你能跑的代码。\n调试?让AI帮你。\n优化?还是AI。\n\n那些还在拖拽节点的人，\n和10年前用Dreamweaver拖网页的人，\n有什么区别?\n\n我的建议很简单:\n1.立即停止学习任何工作流工具\n2.下载claudecode，花1小时学会VibeCoding基础\n3.直接用AI写你要的功能\n\n记住一句话:\n当写代码比配置还简单时，\n所有的无代码都是负担。\n\n别等了。\n等你配置完第100个节点时，\nVibeCoding的人已经交付10个项目了。\n\n选择效率，还是选择折腾?\n聪明人已经在行动了。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://云翼320",
+        "text": "云翼320",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://m.okjike.com/originalPosts/686e6f4cd4f81d25fb3a5f12?s=eyJ1IjoiNTY3ZmRiODA3MGQ1MjQxMTAwMjI2OGZkIn0%3D",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQt1MRXWi3S"
+  },
+  {
+    "fields": {
+      "id": "981",
+      "发布时间": 1752072376871,
+      "平台": [
+        "微博"
+      ],
+      "标签": [
+        "教程",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "关于Gemini使用次数及白嫖方法的分享",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "如果使用 Google 登录，免费 1000 次/天，但是会有时切换到 flash 模型。如果使用 API KEY，每天只有 100 次的 pro 模型。下面的方式白嫖 1000 次 gemini pro:\n1. npm root -g 找到全局 npm 安装路径\n2. 找到 gemini-cli-core 路径:在 @google /gemini-cli/node_modules/ @google /gemini-cli-core/dist/src/config/models.js\n3. 把 flash 改成 pro[奸笑]\n\n评论：\n - 在扑腾的龙套 : 最有效的 hack 方法往往只需要最简朴的手段 25-7-9 17:48 来自上海\n - 秋风Stone : 管用? 25-7-9 22:32 来自河北\n - 西山_渔夫 : 验证完毕，没用 25-7-9 20:50 来自北京\n - 詹姆斯不是张震岳 : 让我想起了chrome恐龙游戏 25-7-9 20:40 来自上海",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://justjavac",
+        "text": "justjavac",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/1361535293/5186535776848207",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQsR8F0hgfb"
+  },
+  {
+    "fields": {
+      "id": "978",
+      "发布时间": 1752045360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "dontbesilent on X: \"我在群里和直播里，回答过几千个问题了\n\n负责任地讲，好问题＞好答案，这不是一句鸡汤\n\n一个好的问题要满足两个条件：\n\n1、同时具备目标和子目标\n2、子目标可以推导出明确可执行的手段\n\n比如：我想知道如何模仿我的某个同行，在小红书卖宠物零食，希望这个月可以开单\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我在群里和直播里，回答过几千个问题了 负责任地讲，好问题＞好答案，这不是一句鸡汤 一个好的问题要满足两个条件： 1、同时具备目标和子目标 2、子目标可以推导出明确可执行的手段 比如：我想知道如何模仿我的某个同行，在小红书卖宠物零食，希望这个月可以开单 这就是一个明确的子目标，既可以推导出执行的动作，也有与之对应的宏观目标 在小红书卖宠物零食 ➡️ 做内容电商赚钱 ➡️ 赚钱 ➡️ 作为人生体验的一部分 常见的反面案例：如何做抖音短视频？ 1、这不是宏观目标，和人生规划、职业规划，扯不到一起 2、这也不是子目标，因为推导不出具体的动作，做短视频有 1 万种方法，你指的是哪一个？ 既不是目标、也不是子目标、也不是手段，所以这就不是个 question，而是个 problem",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://dontbesilent",
+        "text": "dontbesilent",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dontbesilent12/status/1942845240014168398?t=3tKCHFaWGIEewKo54gozJg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQr7fRV7Dbt"
+  },
+  {
+    "fields": {
+      "id": "980",
+      "发布时间": 1751988240000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "新闻",
+        "文章"
+      ],
+      "标题": [
+        {
+          "text": "白骏知识分享 on X: \"BBC重磅出品少儿科普动画《小奇迹 Tiny Wonders》通过视频与音频生动揭秘科学知识，点燃孩子的探索热情。\n\n荣获国际教育奖项，全球数百万家庭热播，被《卫报》等权威媒体誉为“儿童科学启蒙标杆”。适合孩子们观看学习，激发好奇心与创造力\n\n立即学习！👇\n链接：https://t.co/spRtcPh2ex https://t.co/qfRKMy20QF\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "BBC重磅出品少儿科普动画《小奇迹 Tiny Wonders》通过视频与音频生动揭秘科学知识，点燃孩子的探索热情。 荣获国际教育奖项，全球数百万家庭热播，被《卫报》等权威媒体誉为“儿童科学启蒙标杆”。适合孩子们观看学习，激发好奇心与创造力 立即学习！👇 链接：https://pan.quark.cn/s/9683e447ccdf 【链接有时效，保存即永久✅】",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/cj3214567667",
+        "text": "白骏知识分享",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/cj3214567667/status/1942605639068573927?t=PKmPZiKzwIGvpNEJ3kNOaw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQrYbeuHQ4F"
+  },
+  {
+    "fields": {
+      "id": "976",
+      "发布时间": 1751973000000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "商业",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "MSB on X: \"我发现了一个很变态，但一定能赚钱的思路\n\n用 flowith 复制任意开放 API 接口的AI工具\n\n然后在国内运营，赚Token差价 https://t.co/bNh0k7SkgW\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我发现了一个很变态，但一定能赚钱的思路 用 flowith 复制任意开放 API 接口的AI工具 然后在国内运营，赚Token差价",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/KeWai386772",
+        "text": "MSB",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/KeWai386772/status/1942541783239626864?t=u_0pIv6HOD0_gdj2af-4DQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQpg2FR1mNX"
+  },
+  {
+    "fields": {
       "id": "975",
       "发布时间": 1751968800000,
       "平台": [
@@ -38,6 +226,43 @@
   },
   {
     "fields": {
+      "id": "979",
+      "发布时间": 1751949780000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "molight on X: \"n8n 自动定时发推工作流，\n-使用自然语言，不到 3 分钟生成\n-直通 n8n 后台，太牛了！🐂\n\n视频演示⬇️ https://t.co/BrjHcGEjTE\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "n8n 自动定时发推工作流， \n-使用自然语言，不到 3 分钟生成 \n-直通 n8n 后台，太牛了！🐂 \n视频演示⬇️ https://t.co/BrjHcGEjTE\n\nn8n 可以帮你节省大量重复劳动，但是很多人不懂搭建工作流。这两个 MCP 可以辅佐你 \n1️⃣ n8n-mcp - 相当于翻译官，用自然语言，帮你搭建工作流，一键生成/导入 json； \n- Cursor/Windsurf/Claude 任何支持 MCP 的都可以集成； \n2️⃣ n8n-nodes-mcp - 可以作为一个节点添加到你的 n8n ，让你的工作流本身支持",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/molightme/status/1942429042835386866",
+        "text": "molight",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/molightme/status/1942444405807276195?t=H2-4xzPgqG2hxCeyolFRvw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQr8zzvNCUF"
+  },
+  {
+    "fields": {
       "id": "971",
       "发布时间": 1751946120000,
       "平台": [
@@ -72,6 +297,43 @@
       ]
     },
     "record_id": "recuQlnavlq3ys"
+  },
+  {
+    "fields": {
+      "id": "977",
+      "发布时间": 1751943360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Cell 细胞 on X: \"昨天，我花 5 块钱在闲鱼找人帮我下载了 4 小时多视频号直播回放，上午我发现了这个开源软件⬇️\n爱享素材下载器\n一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。\n\n✨ 功能特色\n🚀 简单易用：操作简单，界面清晰美观\n🖥️ 多平台支持：Windows / macOS / Linux\n🌐\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "昨天，我花 5 块钱在闲鱼找人帮我下载了 4 小时多视频号直播回放，上午我发现了这个开源软件⬇️ 爱享素材下载器 一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。\n✨ 功能特色 \n🚀 简单易用：操作简单，界面清晰美观 \n🖥️ 多平台支持：Windows / macOS / Linux \n🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等 \n📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ 音乐等 \n🌍 代理抓包：支持设置代理获取受限网络下的资源 地址⬇️",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/cellinlab",
+        "text": "Cell 细胞",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/cellinlab/status/1942417511380553759?t=IyBsGEqxu6So3FFbZDlfJA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQpZW3qjrmw"
   },
   {
     "fields": {
