@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "984",
+      "发布时间": 1752075480000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章"
+      ],
+      "标题": [
+        {
+          "text": "Truman on X: \"记录一下，今晚买了两个域名，而且都已经把网站上线了，晚安💤 https://t.co/GlhIbj3TqG\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "记录一下，今晚买了两个域名，而且都已经把网站上线了，晚安💤",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/rumanT260775",
+        "text": "Truman",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/rumanT260775/status/1942971519979979233?t=1XNXt0yZQCGrO09mqVSvQA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQviiwkAIl7"
+  },
+  {
+    "fields": {
       "id": "982",
       "发布时间": 1752074914713,
       "平台": [
@@ -74,6 +110,80 @@
       ]
     },
     "record_id": "recuQsR8F0hgfb"
+  },
+  {
+    "fields": {
+      "id": "985",
+      "发布时间": 1752065580000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "其他"
+      ],
+      "标题": [
+        {
+          "text": "Ivanvolt on X: \"终于收到了🙂 https://t.co/NhDWiU2BnM\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "终于收到了🙂",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/ivanvolt815",
+        "text": "Ivanvolt",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/ivanvolt815/status/1942930119691268347?t=CL1vIyyG63w7Fwfn44dwqw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQx5k44Y5nM"
+  },
+  {
+    "fields": {
+      "id": "983",
+      "发布时间": 1752055200000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"又发现一个颇为实用的 MCP 服务器：Chrome MCP Server，基于 Chrome 插件实现。\n\n通过它能让 Claude 等 AI 助手直接使用我们的浏览器，实现自动化操作、内容分析和语义搜索等功能。\n\nGitHub：https://t.co/0WlwMtkr7T\n\n主要特性：\n\n- 让 AI 直接操控 Chrome 浏览器，保留所有登录状态和配置\n- https://t.co/gj4VlSzwAS\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "又发现一个颇为实用的 MCP 服务器：Chrome MCP Server，基于 Chrome 插件实现。 通过它能让 Claude 等 AI 助手直接使用我们的浏览器，实现自动化操作、内容分析和语义搜索等功能。 GitHub：[http://github.com/hangwin/mcp-ch rome…](https://t.co/I0PmpkqFfp) 主要特性： - 让 AI 直接操控 Chrome 浏览器，保留所有登录状态和配置 - 支持截图、网络监控、内容分析等 20 多种自动化操作 - 自动化交互操作，包括点击、填表、键盘输入等 - 浏览历史和书签管理，AI 可帮你整理和搜索 - 跨标签页操作，支持批量管理和内容提取 通过 npm 全局安装并加载 Chrome 扩展，然后在任何 MCP 客户端中简单配置下即可使用。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://GitHubDaily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1942886451609276813?t=GnDfSym1FKeATjkNMm0h1g&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQuSOgAKGhD"
   },
   {
     "fields": {
