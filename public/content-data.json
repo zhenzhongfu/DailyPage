@@ -1,6 +1,117 @@
 [
   {
     "fields": {
+      "id": "987",
+      "发布时间": 1752220569237,
+      "平台": [
+        "公众号"
+      ],
+      "标签": [
+        "其他"
+      ],
+      "标题": [
+        {
+          "text": "网站变现新手必读：AdSense 网站审核要点速览",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "长按关注“谷歌发布商”公众号\n跟随谷歌去出海，您的未来更精彩",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://哥飞",
+        "text": "哥飞",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://mp.weixin.qq.com/s/O5FMbFcQHHAs2qFkFaI4JA",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQCSWOn6SWo"
+  },
+  {
+    "fields": {
+      "id": "988",
+      "发布时间": 1752198240000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Corey Chiu on X: \"更新一版我的最新Vibe Coding最佳实践方案（性价比版）\n\n1️⃣使用 trae（相比 cursor，trae pro 首月才3刀，后续续费每月10刀，600次的快速请求，能用 Claude4，Gemini 2.5pro 等）\n2️⃣ terminal 里打开Claude code 公益版或者 Gemini cli，跟他说需求，生成实现方案（Gemini 的 agent 能力还是要比 https://t.co/glMTY8xVlV\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "更新一版我的最新Vibe Coding最佳实践方案（性价比版） \n1️⃣使用 trae（相比 cursor，trae pro 首月才3刀，后续续费每月10刀，600次的快速请求，能用 Claude4，Gemini 2.5pro 等） \n2️⃣ terminal 里打开Claude code 公益版或者 Gemini cli，跟他说需求，生成实现方案（Gemini 的 agent 能力还是要比 claude 差点，不过胜在免费） \n3️⃣ 把方案给 trae review，生成最终方案（体感上用 Gemini 2.5pro 更好一点，幻觉更低） \n4️⃣ 将最终方案丢给cc/gc 实现 \n5️⃣ 让trae review生成的代码",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/realcoreychiu",
+        "text": "Corey Chiu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/realcoreychiu/status/1943486611813208510?t=ffMtjJbRWPC-Qo53T-uSBA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQCUwrWGm8F"
+  },
+  {
+    "fields": {
+      "id": "986",
+      "发布时间": 1752193740000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "毅行出海 Sven on X: \"熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 \n\nSoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️\n\n👇🏻链接： https://t.co/xJbnGvq6Ag\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 SoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️ 👇🏻链接： https://t.co/xJbnGvq6Ag\n看完如果还不会，... 那就再看一遍哈！😎 如果对您有用，欢迎点赞+关注+转发收藏起来！ #SEO #外链 #backlink",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/sven_ai",
+        "text": "毅行出海 Sven",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/sven_ai/status/1943467721867563135?t=D6WbKhNHQFVPQPUKwu5png&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQB7ZtfDnVq"
+  },
+  {
+    "fields": {
       "id": "984",
       "发布时间": 1752075480000,
       "平台": [
