@@ -1,6 +1,157 @@
 [
   {
     "fields": {
+      "id": "990",
+      "发布时间": 1752409020000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "写作",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "Yangyi on X: \"当下做“看起来有用”的营销工具，是容易的\n这个Reddit Writer也是刚刚与ClaudeCode聊了3小时完成的\n\n总共四部分组成\n- Reddit搜索：进行帖子检索\n- 帖子分析Agent：对帖子和评论进行分析\n- 文章Agent：综合分析结果，原数据，和产品信息，撰写seo文章\n- 推特推文Agent：基于文章再生成推特Threads https://t.co/axvPbYMn4j\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "当下做“看起来有用”的营销工具，是容易的\n这个Reddit Writer也是刚刚与ClaudeCode聊了3小时完成的\n总共四部分组成\n - Reddit搜索：进行帖子检索\n - 帖子分析Agent：对帖子和评论进行分析\n - 文章Agent：综合分析结果，原数据，和产品信息，撰写seo文章\n - 推特推文Agent：基于文章再生成推特Threads\n做它是为了进一步做内容营销，但真正有价值的内容营销，需要持续优化打磨提示词\n如果你自己写不出可以引爆的东西，即便让它工程化，也是无济于事，在最后一公里上，只有拥有对内容理解的专业能力，才能写出优质的Prompt，完成玩具到效能工具的转变",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Yangyixxxx",
+        "text": "Yangyi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Yangyixxxx/status/1944370559128903759?t=9EAruVULG8WL0lLTIhBFug&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQSo50uVG72"
+  },
+  {
+    "fields": {
+      "id": "989",
+      "发布时间": 1752392400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考",
+        "AI",
+        "自媒体",
+        "写作"
+      ],
+      "标题": [
+        {
+          "text": "dontbesilent on X: \"整理了一下我数据最好的那些视频，看了看选题都是从哪来的\n\n41% 来源于在付费群里面的答疑，被问的次数太多了，就发个视频\n35% 来源于把日常思考写成推文，推文热度高了，就发个视频\n\n回答问题和写推文，就是我平时花时间最多但是又“不赚钱”的两件事情\n这两件事情覆盖了我 76% 的短视频流量\n\n所以 1️⃣ https://t.co/7dSPxGbhth\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "整理了一下我数据最好的那些视频，看了看选题都是从哪来的 \n41% 来源于在付费群里面的答疑，被问的次数太多了，就发个视频 \n35% 来源于把日常思考写成推文，推文热度高了，就发个视频 \n回答问题和写推文，就是我平时花时间最多但是又“不赚钱”的两件事情 \n这两件事情覆盖了我 76% 的短视频流量 \n所以 \n1️⃣ 为什么不用助理 + AI 知识库答疑 \n2️⃣ 为什么不用 AI 写文案发推 \n这两个问题就顺便回答了",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/dontbesilent12",
+        "text": "dontbesilent",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dontbesilent12/status/1944300881060802753?t=uq68WDb9RiLEgGwWdbtP3w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQSgYFpkKJB"
+  },
+  {
+    "fields": {
+      "id": "991",
+      "发布时间": 1752380880000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Yangyi on X: \"总是有人说AI这不行 那不行\n你只要不是在做什么高精尖的复杂工程\n掌握好的使用技巧 绝大部分情况AI其实都能处理的\n\n早上五点开claude code  6小时后就这样了\n100%全量AI 没人工改过一行代码\n这如果换作哥飞社群里的朋友们 估计比我要快更多\n现在的上站速度和23年比较的话 已经不知道快了多少倍 https://t.co/nV6PiniH7y\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "总是有人说AI这不行 那不行 你只要不是在做什么高精尖的复杂工程 掌握好的使用技巧 绝大部分情况AI其实都能处理的 早上五点开claude code 6小时后就这样了 100%全量AI 没人工改过一行代码 这如果换作哥飞社群里的朋友们 估计比我要快更多 现在的上站速度和23年比较的话 已经不知道快了多少倍 当产能不再受限，对流量的获取就会形成巨大的竞争 我仍相信需要人机内容协同的自动化系统在红利期中尽快占领出自己的领地 你要有一席之地，才能更好更快的分发好酒 如果我没在创造有杠杆效应的资产，那时间就应当是在投入实验，如果也不是，那这份花在工作上的时间就是被浪费了 [https://dognames.vip](https://t.co/HDkX2BIxWm)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Yangyixxxx",
+        "text": "Yangyi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Yangyixxxx/status/1944252584950374435?t=BRp-HD-l6oVLiaffD64Kvg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQSBqRNgCZI"
+  },
+  {
+    "fields": {
+      "id": "992",
+      "发布时间": 1752323160000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "kAI on X: \"让 Claude Code 干完活叮一下提示\n\n如果你和我一样，使用 Claude Code 经常忘记回来按个 Yes 或者不知道他干没干完活，那可以用 Hooks 功能添加一个提示音🔔\n\n（假设你用Mac）把👇图中的 hooks 加入 claude/settings.json 中即可，也可以把音频换成其他，甚至语音提示 `say '老板搞定了'` https://t.co/nMCDxeAOwF\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "让 Claude Code 干完活叮一下提示 \n如果你和我一样，使用 Claude Code 经常忘记回来按个 Yes 或者不知道他干没干完活，那可以用 Hooks 功能添加一个提示音🔔 （假设你用Mac）把👇图中的 hooks 加入 claude/settings.json 中即可，也可以把音频换成其他，甚至语音提示 `say '老板搞定了'` ",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/_kaichen",
+        "text": "kAI",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/_kaichen/status/1944010478671606231?t=4CI1XVzGoMOZPxBn7IPBYA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuQSKJtoVqsS"
+  },
+  {
+    "fields": {
       "id": "987",
       "发布时间": 1752220569237,
       "平台": [
