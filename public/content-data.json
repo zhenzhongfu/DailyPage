@@ -1,6 +1,79 @@
 [
   {
     "fields": {
+      "id": "999",
+      "发布时间": 1752651720000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考",
+        "写作"
+      ],
+      "标题": [
+        {
+          "text": "章工 on X: \"如果你想传达自己的观点和方法，尽量通过故事来传达。\n多说段子和故事，少说观点和方法过程，这样大家才能记得你这个人。过程信息密度太大了，你讲了大家也没印象，白浪费时间了。\n普通人的表达干巴巴，表达高手会和人分享听众能共情的经历。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "如果你想传达自己的观点和方法，尽量通过故事来传达。 多说段子和故事，少说观点和方法过程，这样大家才能记得你这个人。过程信息密度太大了，你讲了大家也没印象，白浪费时间了。 普通人的表达干巴巴，表达高手会和人分享听众能共情的经历。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/435hz",
+        "text": "章工",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/435hz/status/1945388431657316698?t=iQDd3BhP2G5zTdJ3Grh0-w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuR6b4gAf8bG"
+  },
+  {
+    "fields": {
+      "id": "1000",
+      "发布时间": 1752625980000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Morris on X: \"人类进步的唯一标准，就是工作的时间越来越短，生活的时间越来越长。任何背道而驰的说法，一切都是扯淡。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "人类进步的唯一标准，就是工作的时间越来越短，生活的时间越来越长。任何背道而驰的说法，一切都是扯淡。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Morris_LT",
+        "text": "Morris",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Morris_LT/status/1945280559607111759?t=kT_3CmQmt6R-QJFewn4hkg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuR7yQ29Pt5H"
+  },
+  {
+    "fields": {
       "id": "997",
       "发布时间": 1752590687707,
       "平台": [
@@ -35,6 +108,42 @@
       ]
     },
     "record_id": "recuR1VVm9reVf"
+  },
+  {
+    "fields": {
+      "id": "998",
+      "发布时间": 1752587100000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "NoKuGua on X: \"@yihui_indie 新手一般只有Windows电脑，推一下插件https://t.co/P07NCqRXMe🥳🥳\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "新手一般只有Windows电脑，推一下插件[https://github.com/LKbaba/Claude-code-ChatInWindows…](https://t.co/P07NCqRXMe)![Image 2: 🥳](https://abs-0.twimg.com/emoji/v2/svg/1f973.svg)![Image 3: 🥳](https://abs-0.twimg.com/emoji/v2/svg/1f973.svg)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/liuke59004839",
+        "text": "NoKuGua",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/liuke59004839/status/1945117448157475309?t=YkXTDMYpyfMDf-lQndlHkA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuR635WS63uu"
   },
   {
     "fields": {
