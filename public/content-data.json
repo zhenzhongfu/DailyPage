@@ -1,6 +1,83 @@
 [
   {
     "fields": {
+      "id": "1016",
+      "发布时间": 1752834660000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "教程",
+        "AI",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "ThirdBro on X: \"最快速度让AI写的代码拥有牛逼的设计 \n1.先用 v0/bolt 甩两句话，分分钟出个 MVP 原型，连产品思路都给你理得明明白白 \n2.然后找套好看的模板（买也行，网上扒也行），扔给 Claude Code，说 “把这模板套我代码上，弄潮点”。 搞定！前后半小时不到\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "最快速度让AI写的代码拥有牛逼的设计 1.先用 v0/bolt 甩两句话，分分钟出个 MVP 原型，连产品思路都给你理得明明白白 2.然后找套好看的模板（买也行，网上扒也行），扔给 Claude Code，说 “把这模板套我代码上，弄潮点”。 搞定！前后半小时不到",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/dngzsn37461",
+        "text": "ThirdBro",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dngzsn37461/status/1946155878065078599?t=HWEd5Nj69vMTGRCt9sBIfg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRlyCB0NVS7"
+  },
+  {
+    "fields": {
+      "id": "1015",
+      "发布时间": 1752821700000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "商业",
+        "AI",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "Glowin on X: \"💡 想到一个绝妙 Idea，但发现找一个好域名越来越难？\n\n每天有 5w 个域名过期，大多数是垃圾，但其中隐藏着具有真实流量、干净的外链、有人愿意花数千美元购买的域名。\n\nJosh Pigford 发现这个点子后，24 小时打造了 NameSnag，并收集了 12,000+ 域名，上线后 1 小时内就收到了第一笔订阅，上线 12 https://t.co/vN5R8QLd98\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "💡 想到一个绝妙 Idea，但发现找一个好域名越来越难？ 每天有 5w 个域名过期，大多数是垃圾，但其中隐藏着具有真实流量、干净的外链、有人愿意花数千美元购买的域名。\nJosh Pigford 发现这个点子后，24 小时打造了 NameSnag，并收集了 12,000+ 域名，上线后 1 小时内就收到了第一笔订阅，上线 12 小时后，收入就超过了 1000 美金，一天后就积累了 500 用户。\n🚀 AI + 速度，NameSnag 靠 AI 嗅出过期域名金矿\n核心：24/7 监控每天新增的 50,000 过期域名\n技术：Majestic SEO + SimilarWeb 数据加持\n结果：MVP 一天搞定，Vibe Coding 巅峰\n🌱 增长密码，solo 创业者的爆炸式增长，一人干翻团队\n痛点：人工筛选太慢，错过好域名\n增长：全程 Build in Public，快速上线抢占市场\n变现：$49/月订阅，1,000 用户 = $588,000 ARR\n🤖 技术栈，NameSnag 的 Vibe 武器\nJosh Pigford 用 Claude Code + Stripe + Google 登录和成熟的前后端开发框架组合拳，借助 AI 快速开发，技术 + 执行，24 小时内打造一个产品。\n🤔 灵魂提问\n你敢不敢 24 小时搞个 MVP？ 评论区聊聊你的 Vibe 创业故事！",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/glow1n",
+        "text": "Glowin",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/glow1n/status/1946101612789039289?t=HWEd5Nj69vMTGRCt9sBIfg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRlypv24jzA"
+  },
+  {
+    "fields": {
       "id": "1014",
       "发布时间": 1752808520141,
       "标签": [
