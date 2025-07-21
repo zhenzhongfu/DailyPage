@@ -1,6 +1,117 @@
 [
   {
     "fields": {
+      "id": "1018",
+      "发布时间": 1753005600000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"n8n-MCP 这个开源的 MCP 服务器，对使用 n8n 构建工作流的开发者来说简直是一位得力助手。\n\n通过 MCP 协议，让 Claude 等 AI 助手能访问 525+ 个 n8n 节点的完整文档和配置验证功能，直接管理工作流的创建、更新和执行。\n\nGitHub：https://t.co/SdZy4NnBjO\n\n主要功能：\n\n- https://t.co/T50zxcxNrK\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "n8n-MCP 这个开源的 MCP 服务器，对使用 n8n 构建工作流的开发者来说简直是一位得力助手。 通过 MCP 协议，让 Claude 等 AI 助手能访问 525+ 个 n8n 节点的完整文档和配置验证功能，直接管理工作流的创建、更新和执行。\nGitHub：[http://github.com/czlonkowski/n8n-mcp…](https://t.co/3GuUppvg65)\n主要功能： \n- 智能节点搜索，快速找到需要的自动化组件\n- 节点配置验证，避免部署前的参数错误\n- 预配置模板，常见任务一键应用\n- 工作流管理，直接在 AI 对话中创建和修改流程\n- AI 工具检测，发现 263 个 AI 功能节点\n- 实时文档查询，90% 的官方文档覆盖率 \n提供 Docker、npx 或本地运行等多种安装方式，配置到 Claude Desktop、Cursor 等 MCP 客户端即可使用。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1946872719439737185?t=9VWvn_cfWJIJItnT4m7e2w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRwVT1zZ9Ks"
+  },
+  {
+    "fields": {
+      "id": "1019",
+      "发布时间": 1752997980000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "文章",
+        "写作"
+      ],
+      "标题": [
+        {
+          "text": "歸藏(guizang.ai) on X: \"才发现官方 Dia 有专门收集 Skills 技能提示词的页面\n\n里面有很多很有用的提示词\n\n比如有个检测文章写作问题的提示词我就很需要。 https://t.co/Y6IBSjuY2A\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "才发现官方 Dia 有专门收集 Skills 技能提示词的页面 里面有很多很有用的提示词 比如有个检测文章写作问题的提示词我就很需要。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/op7418",
+        "text": "歸藏(guizang.ai)",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/op7418/status/1946840981304992211?t=egxz5bt-ie91RgYaoAmqcA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRx2DKvp3dA"
+  },
+  {
+    "fields": {
+      "id": "1017",
+      "发布时间": 1752988320000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Nexmoe - Daydreamer & Creator on X: \"爬不到整页数据时我抓狂了。\n以前用别家不是收费就是残页。现在我一句`crwl https://t.co/YCJcWnhbVe --deep-crawl bfs`，整站干净 Markdown 秒到，省 16 刀会员。开源、无需账号，它就是 Crawl4AI\nhttps://t.co/0Ern4IcUPu\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "爬不到整页数据时我抓狂了。 以前用别家不是收费就是残页。现在我一句`crwl [https://bbc.com](https://t.co/YCJcWnhbVe) --deep-crawl bfs`，整站干净 Markdown 秒到，省 16 刀会员。开源、无需账号，它就是 Crawl4AI",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/nexmoe",
+        "text": "Nexmoe - Daydreamer & Creator",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/nexmoe/status/1946800286938570798?t=9VWvn_cfWJIJItnT4m7e2w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRwVJapoXFL"
+  },
+  {
+    "fields": {
       "id": "1016",
       "发布时间": 1752834660000,
       "平台": [
