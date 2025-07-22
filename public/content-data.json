@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "1020",
+      "发布时间": 1753092240000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Nexmoe - Daydreamer & Creator on X: \"做网站头部设计真头疼！\n1 以前耗时几周找灵感  \n2 现在直接参考精选案例库  \n3 还能按风格筛选  \n\n全部来自 Supahero 精选集\nhttps://t.co/LGXnXv26BD https://t.co/Cnfp5Y4OXi\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "做网站头部设计真头疼！ 1 以前耗时几周找灵感 2 现在直接参考精选案例库 3 还能按风格筛选 全部来自 Supahero 精选集 [https://supahero.io](https://t.co/LGXnXv26BD)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/nexmoe",
+        "text": "Nexmoe - Daydreamer & Creator",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/nexmoe/status/1947236124088578236?t=yEmPAoicSJbfsKHLm5Vgzw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuREueVdeTTE"
+  },
+  {
+    "fields": {
       "id": "1018",
       "发布时间": 1753005600000,
       "平台": [
