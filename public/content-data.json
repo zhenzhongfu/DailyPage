@@ -1,6 +1,116 @@
 [
   {
     "fields": {
+      "id": "1022",
+      "发布时间": 1753213260000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "其他"
+      ],
+      "标题": [
+        {
+          "text": "BECOOL on X: \"手头一部分 .im 域名：\n\nhttps://t.co/lTeruYI2i6 已开发\nhttps://t.co/MJcgrTCXo6 已开发(重构中)\nshare .im\nsub .im\npfp .im\nhref .im\navatar .im\nhosting .im\nsession .im\nopensource .im\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "手头一部分 .im 域名： [http://favicon.im](https://t.co/lTeruYI2i6) 已开发 [http://small.im](https://t.co/MJcgrTCXo6) 已开发(重构中) share .im sub .im pfp .im href .im avatar .im hosting .im session .im opensource .im",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/becool_me",
+        "text": "BECOOL",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/becool_me/status/1947743810773258483",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRIZLgAJ4FL"
+  },
+  {
+    "fields": {
+      "id": "1021",
+      "发布时间": 1753173360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "LinearUncle on X: \"刚用了下OpenRouter 上免费的 qwen/qwen3-235b-a22b-07-25:free模型，模型读代码的能力比我预期高很多。\n\n过去我给千问的标签一直是“辣鸡，一个能打的都没有”，这次可能得撕掉。  \n\n缺憾也明显：网友发现阿里云官方 API 还没同步这版模型，不知道在搞什么飞机。  \n\n等更多 provider https://t.co/9fakYC9lwW\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "刚用了下OpenRouter 上免费的 qwen/qwen3-235b-a22b-07-25:free模型，模型读代码的能力比我预期高很多。 过去我给千问的标签一直是“辣鸡，一个能打的都没有”，这次可能得撕掉。 缺憾也明显：网友发现阿里云官方 API 还没同步这版模型，不知道在搞什么飞机。 等更多 provider 上线后，我打算把它塞进 Claude Code，测试下Tool Call能力，看能不能在 Kimi K2 之后，再添一个低成本“打手”。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/LinearUncle",
+        "text": "LinearUncle",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/LinearUncle/status/1947576373167423810?t=JCkrNPQiRH5oKQvxlXOr6g&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRIVMzro5bJ"
+  },
+  {
+    "fields": {
+      "id": "1023",
+      "发布时间": 1753093680000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Huazi on X: \"点开帖子教会你如何像我这样 https://t.co/TuYVv94rgi\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "点开帖子教会你如何像我这样",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/HeyHuazi",
+        "text": "Huazi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "link": "https://x.com/HeyHuazi/status/1947242229849895132",
+          "text": "https://x.com/HeyHuazi/status/1947242229849895132",
+          "type": "url"
+        }
+      ]
+    },
+    "record_id": "recuRJY8WRgvC9"
+  },
+  {
+    "fields": {
       "id": "1020",
       "发布时间": 1753092240000,
       "平台": [
