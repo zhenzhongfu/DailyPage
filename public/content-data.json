@@ -1,6 +1,79 @@
 [
   {
     "fields": {
+      "id": "1025",
+      "发布时间": 1753290180000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Tom Dörr on X: \"turn any github repo into a podcast in seconds https://t.co/pdxM3YME8u\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "turn any github repo into a podcast in seconds\nhttps://t.co/pdxM3YME8u",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/tom_doerr",
+        "text": "Tom Dörr",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/tom_doerr/status/1948066460355490177",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuROCk3Ews9r"
+  },
+  {
+    "fields": {
+      "id": "1024",
+      "发布时间": 1753242360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "教程",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Justin on X: \"分享一下我现在录制视频到发布私有平台的工作流程：\n\n- 视频录制：OBS\n- 视频剪辑：剪映\n- 字幕提取：剪映\n- 视频总结：gpt-o3\n- 视频封面：gpt-4o\n- 视频分片：ffmpeg\n- 视频存储：Cloudflare R2\n- 会员平台：Wordpress\n\n其中，剪映提取的 srt 直接给 o3 总结完，马上生成视频封面 https://t.co/aGPj5u4alJ\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "分享一下我现在录制视频到发布私有平台的工作流程： - 视频录制：OBS - 视频剪辑：剪映 - 字幕提取：剪映 - 视频总结：gpt-o3 - 视频封面：gpt-4o - 视频分片：ffmpeg - 视频存储：Cloudflare R2 - 会员平台：Wordpress 其中，剪映提取的 srt 直接给 o3 总结完，马上生成视频封面 一套下来，除了剪映会员、R2 存储费、VPS 以外没有其他成本",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/interjc",
+        "text": "Justin",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/interjc/status/1947865893284790654",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuROupFMTctu"
+  },
+  {
+    "fields": {
       "id": "1022",
       "发布时间": 1753213260000,
       "平台": [
