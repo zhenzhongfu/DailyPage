@@ -1,6 +1,154 @@
 [
   {
     "fields": {
+      "id": "1026",
+      "发布时间": 1753370100000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"开发AI工具必备！大模型API密钥获取大全\n\nVibe Coding开发、或者客户端调用大模型\n\n往往需要获取大模型 API key，有可能是官方，也可能是第三方聚合平台。\n\n整理一份相对知名的‍⁣⁤⁤⁡⁡⁡​​​⁤‍​⁡⁡‍‍⁤⁡⁢‍​​​⁣⁡⁣⁤⁣⁢​​⁣​⁡​大模型API 和秘钥获取链接。\n\n地址见评论，建议收藏！ https://t.co/aorgI6oxt1\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "开发AI工具必备！大模型API密钥获取大全 Vibe Coding开发、或者客户端调用大模型 往往需要获取大模型 API key，有可能是官方，也可能是第三方聚合平台。 整理一份相对知名的‍⁣⁤⁤⁡⁡⁡​​​⁤‍​⁡⁡‍‍⁤⁡⁢‍​​​⁣⁡⁣⁤⁣⁢​​⁣​⁡​大模型API 和秘钥获取链接。 地址见评论，建议收藏！",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1948401540211040266",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRUAxVCdkhK"
+  },
+  {
+    "fields": {
+      "id": "1029",
+      "发布时间": 1753363920000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "林晚晚的猫 on X: \"发现很多悟性高、感知力强的人，\n都有一个巨大的缺点：\n就是他不能累。\n\n烦心事儿不能多，\n他只要杂事儿一多，心态就不好，\n整个人就垮了。\n\n其实这种人，都是身弱之人。\n因为他的人才官很旺，\n所以他比别人更敏感。\n\n身弱的人想要变好啊，\n第一就是不要跟烂人烂事儿纠缠，\n第二就是学会休息。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "发现很多悟性高、感知力强的人， 都有一个巨大的缺点： 就是他不能累。 烦心事儿不能多， 他只要杂事儿一多，心态就不好， 整个人就垮了。 其实这种人，都是身弱之人。 因为他的人才官很旺， 所以他比别人更敏感。 身弱的人想要变好啊， 第一就是不要跟烂人烂事儿纠缠， 第二就是学会休息。 就是要以照顾自己的情绪和身体为优先级， 多做让自己心态变好、经历变得更好的事儿。 身弱的人不是懒， 而是特别需要那种松弛的环境。 他本身就不是那种靠勤劳来获得能量的人。 所以对于他们来说， 能吃得好、穿得好、睡得好， 生活才会越来越好。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/linwanwan823",
+        "text": "linwanwan823",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/linwanwan823/status/1948375740363489513",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRV5lECxDKM"
+  },
+  {
+    "fields": {
+      "id": "1027",
+      "发布时间": 1753362000000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"使用 Windows 11 系统时间一长，就会出现卡顿现象，内存占用越来越高，不知不觉下安装一堆用不到的应用，整个系统变得臃肿不堪。\n\n要想解决这些问题，可以试下 Win11Debloat 这个强大脚本，帮我们优化系统臃肿，让电脑重新变得流畅干净。 https://t.co/wcqieY9baR\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "使用 Windows 11 系统时间一长，就会出现卡顿现象，内存占用越来越高，不知不觉下安装一堆用不到的应用，整个系统变得臃肿不堪。 要想解决这些问题，可以试下 Win11Debloat 这个强大脚本，帮我们优化系统臃肿，让电脑重新变得流畅干净。 只需执行一条命令，即可批量移除各种预装和后装的无用软件，同时关闭后台数据收集和广告推送服务，有效释放系统资源。 GitHub：[http://github.com/Raphire/Win11Debloat…](https://t.co/WMTanw3rRN) 主要功能： - 移除系统预装的臃肿应用和第三方软件 - 关闭遥测服务和后台数据收集，释放内存资源 - 禁用广告推送、Bing 搜索和 Cortana 等占用资源的功能 - 优化开始菜单、任务栏和文件管理器界面设置 - 支持批量处理和企业级部署配置 - 所有操作完全可逆，不用担心误删重要功能 可以通过 PowerShell 一键下载脚本运行，在运行时，建议仔细确认一下，删除的资源中是否有自己比较重要的内容。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1948367571411251360",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRUYCabk6Jz"
+  },
+  {
+    "fields": {
+      "id": "1028",
+      "发布时间": 1753358100000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"Vibe Coding大赛结束了。\n\n一共提交了几十个作品。\n\n随便列几个自己觉得有趣的Vibe coding项目。\n还有没安装成功，暂时还没体验\n\n1. 品牌共鸣器，输入品牌故事，生成品牌视频\n\n体验网址：https://t.co/flEej9bj9a\n产品介绍 https://t.co/qMGcjk3qiZ\n\n2. 幼儿学习英语语法的网站\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Vibe Coding大赛结束了。一共提交了几十个作品。随便列几个自己觉得有趣的Vibe coding项目。还有没安装成功，暂时还没体验\n1. 品牌共鸣器，输入品牌故事，生成品牌视频\n体验网址：[https://youbrand.top](https://t.co/HpfxLNzqXx)\n产品介绍 [https://waytoagi.feishu.cn/wiki/Ue2Swyf04 iedYxkW0DDce9zfnJb…](https://t.co/RptPuAk7Fc)\n2. 幼儿学习英语语法的网站\n蜜桃妹的英语语法学习园地 | Peach's Grammar Garden [https://english-grammar-gaden.netlify.app](https://t.co/FkQZS03WcK)\n3.一个选股票的辅助App\n[https://x4l83piwee.feishu.cn/wiki/EC1CwZ0Ed iyH2GkKaozcI1b8nle…](https://t.co/o4SqHsvxSY)\n4. 一个设计很好的Markdown编辑器\n[https://rvydadp9uxb.feishu.cn/wiki/OLNcwsluo iuSuak7zGecPJCRnuc…](https://t.co/HjL289EnMX)\n体验地址：[https://md2wechat.cn](https://t.co/zdhL5zqz1h)\n5. 一个网盘资源站\nedu-knowlege - 大坝的资源收集站 | 免费资源下载 [https://doc.869hr.uk/edu-knowlege/](https://t.co/7t5H3I5Grw)\n6. 上传任何图片，变成春夏秋冬背景。\n[https://season-shifter.lovable.app/generator](https://t.co/nMUXEZ7vxO)\n7. 遇事不决，问问AI，Decision Compass - 决策指南针\n[https://decisioncompass.vercel.app](https://t.co/BOY5ngUPFH)\n8. 一个极简番茄钟\n[https://github.com/youngfly93/Flo ato…](https://t.co/0AfipcfwFb)\n9. 记录展示自己的大模型开销\nAiSpends - AI Subscription Cost Tracker [https://aispends.kandaoai.com](https://t.co/knkgLTfObm)\n10. Moment - 一键直达小红书搜索结果的安卓应用\n[https://momentapp.xiaoweigezzz.xyz](https://t.co/TBF75vxVpS)\n11. ⁣‍2小时从零开始vibe coding一个Mac App —— FocusPilot (焦点领航)\n开发故事 - 飞书云文档 [https://udhips348i.feishu.cn/wiki/](https://t.co/rMq4INssqI)\n12. 文章转信息图\nURL2Infographic [https://url2infographic.com](https://t.co/sjtmsSiTut)\n\n乔木AI编程群发起Vibe Coding迷你黑客松比赛。由X非著名设计、Vibe Coding爱好者 @Jackywine 牵头。\n目前赞助：\n① C大的juchats会员 @Cydiar404\n② 铁锤的demoget录屏软件。 @lxfater\n参赛入群39元，一半用来发群红包。感兴趣加微信vista8，欢迎参赛、赞助或围观。活动文档见评论",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1948351334446764236",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuRV3lz5A6Hn"
+  },
+  {
+    "fields": {
       "id": "1025",
       "发布时间": 1753290180000,
       "平台": [
