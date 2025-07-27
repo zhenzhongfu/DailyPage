@@ -1,6 +1,154 @@
 [
   {
     "fields": {
+      "id": "1031",
+      "发布时间": 1753542300000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "新闻",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "蓝点网 on X: \"#服务器 服务器提供商CC(即 @Cloudcone )推出两款洛杉矶DC2机房特价服务器，年付仅需11美元。\n\n这些特价服务器均为普通线路并采用动态路由优化，国内平均延迟在170毫秒左右。\n\n特价款1： Flash-Q3-2025-VPS-1\n\n1核心1GB内存60GB固态盘3TB流量/月1Gbps带宽支持IPv6\n\n售价：10.99美元/年\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "#服务器 服务器提供商CC(即 @Cloudcone )推出两款洛杉矶DC2机房特价服务器，年付仅需11美元。 这些特价服务器均为普通线路并采用动态路由优化，国内平均延迟在170毫秒左右。 特价款1： Flash-Q3-2025-VPS-1 1核心1GB内存60GB固态盘3TB流量/月1Gbps带宽支持IPv6 售价：10.99美元/年 购买链接：[https://ourl.co/ccv405](https://t.co/oti1PrM3Km) 特价款2： Flash-Q3-2025-VPS-1 2核心2GB内存120GB固态盘3TB流量/月1Gbps带宽支持IPv6 售价：14.99美元 购买地址：[https://ourl.co/ccv406](https://t.co/h0hbrJlIIs) 以上服务器续费同价、均位于洛杉矶DC2机房。 CC服务器购买时需要先注册账号并充值余额，例如购买10.99美元这款就进入账号中心先充值10.99美元，点头像、Billings、Add funds、Alipay 测试服务器IP：148.135.114.75",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/landiantech",
+        "text": "蓝点网",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/landiantech/status/1949123898295144950?t=LvbS6oAYaZdvn0yRJTsulA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuS6dt6ugfZN"
+  },
+  {
+    "fields": {
+      "id": "1030",
+      "发布时间": 1753539360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Nexmoe - Daydreamer & Creator on X: \"自部署印钞机！\n以前接国际支付总卡壳，现用这款 SaaS 模板，跑通订阅、收费仅 5 分钟，直接开卖，名叫 Next Money\nhttps://t.co/vvON5m7Xpo\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "自部署印钞机！ 以前接国际支付总卡壳，现用这款 SaaS 模板，跑通订阅、收费仅 5 分钟，直接开卖，名叫 Next Money",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/nexmoe",
+        "text": "Nexmoe - Daydreamer & Creator",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/nexmoe/status/1949111703658246470?t=LvbS6oAYaZdvn0yRJTsulA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuS6byoP1N5X"
+  },
+  {
+    "fields": {
+      "id": "1032",
+      "发布时间": 1753447860000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "麦格 on X: \"初尝 figma， 太好玩了🥺 https://t.co/05dwatS1Hj\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "初尝figma， 太好玩了🥺\n各类记账软件能不能把消费具象化，就是除了显示消费数字外，顺便把钱以图片的形式展示出来比如花了200就是两张100人民币的icon，应该很爽",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://麦格",
+        "text": "麦格",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/unflwMaige/status/1948546539460460672?t=EJS0nxdUEG7gkdUxNm36DQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuS6m4SX6xNY"
+  },
+  {
+    "fields": {
+      "id": "1033",
+      "发布时间": 1753445640000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "AIGCLINK on X: \"谷歌发布了一个“傻瓜式”构建AI小应用的工具：Opal，不用写代码，自然语言+可视化编辑\n\n这个工具相当于可以一站式使用谷歌AI模型的所有功能\n\nOpal会把自然语言描述，转换为一个可视化的工作流，然后自动调用相应的谷歌模型来完成任务\n\n有编辑器界面，可供查看修改应用的工作流，以及每一步的提示和指令 https://t.co/jxII1xWMwO\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "谷歌发布了一个“傻瓜式”构建AI小应用的工具：Opal，不用写代码，自然语言+可视化编辑 \n这个工具相当于可以一站式使用谷歌AI模型的所有功能 \nOpal会把自然语言描述，转换为一个可视化的工作流，然后自动调用相应的谷歌模型来完成任务 \n有编辑器界面，可供查看修改应用的工作流，以及每一步的提示和指令 \n它有模板库可以直接修改用，也可以新建 \n构建出来的AI小应用还可以通过链接分享，协作 \n这个工具目前仅在美国提供了公开测试版 \n[#Opal](https://x.com/hashtag/Opal?src=hashtag_click)[#AI应用构建](https://x.com/hashtag/AI%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA?src=hashtag_click)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/aigclink",
+        "text": "AIGCLINK",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/aigclink/status/1948537380040048857?t=EJS0nxdUEG7gkdUxNm36DQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuS6nGz9jnLK"
+  },
+  {
+    "fields": {
       "id": "1026",
       "发布时间": 1753370100000,
       "平台": [
