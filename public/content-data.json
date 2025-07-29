@@ -1,6 +1,154 @@
 [
   {
     "fields": {
+      "id": "1048",
+      "发布时间": 1753794243944,
+      "平台": [
+        "微博"
+      ],
+      "标签": [
+        "商业",
+        "讨论",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "关于扣子平台部署及相关讨论",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "已经在本地部署好扣子平台，可以向客户交付智能体了。 又一个赚钱的生意来了。 \n\n财潇湘 : 牛哥，有课程教吗? 25-7-29 20:16 来自湖南 \n挨踢牛魔王 : 现在还没有。 25-7-29 20:28 来自江苏 \n就是我红透半边天 : 回复 @挨踢牛魔王 :出个教程 25-7-29 20:38 来自江西 \n呜哩咙咚呛 : 太厉害了，会有哪些场景呢 25-7-29 18:52 来自浙江 \n挨踢牛魔王 : 定制，什么场景都可以 25-7-29 19:03 来自江苏 \n各木吾言 : 个人电脑能跑通吗 25-7-29 19:53 来自广东 \n挨踢牛魔王 : 能，完全没问题。 25-7-29 20:28 来自江苏",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://挨踢牛魔王",
+        "text": "挨踢牛魔王",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/3207410361/5193808266659875",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSlnUWA4VgH"
+  },
+  {
+    "fields": {
+      "id": "1046",
+      "发布时间": 1753752720000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "新闻",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "沉浸式翻译 on X: \"最近真是神仙打架\nKimi K2:   7.12发布\nQwen3-Coder:  7.23发布\nGLM-4.5:   7.28发布\n\n现阶段智谱GLM-4.5性价比最高\n\n甚至\n\nGLM-4.5-Flash   API完全免费（有动手能力的小伙伴可以试试）\n\nQwen3已经适配好了，等待浏览器插件审核通过，大家就能用了。\n\n今天又开始GLM-4.5的适配\n\n等我好消息！！\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "最近真是神仙打架\nKimi K2: 7.12发布\nQwen3-Coder: 7.23发布\nGLM-4.5: 7.28发布\n现阶段智谱GLM-4.5性价比最高\n甚至GLM-4.5-Flash API完全免费（有动手能力的小伙伴可以试试）\nQwen3已经适配好了，等待浏览器插件审核通过，大家就能用了。\n今天又开始GLM-4.5的适配\n等我好消息！！",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/immersivetran",
+        "text": "沉浸式翻译",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/immersivetran/status/1950006543476232514?t=RpA_9kBuEAVv32L4PEvIRg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSkb0faeeKk"
+  },
+  {
+    "fields": {
+      "id": "1047",
+      "发布时间": 1753738440000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Olivert on X: \"一个可以搜索飞书文档的网站，能搜出不少好东西。\n\nhttps://t.co/Vtoav8VeAA https://t.co/WHobf5RAlj\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "一个可以搜索飞书文档的网站，能搜出不少好东西。 [https://feisoo.com](https://t.co/Vtoav8VeAA)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/indiehackercase",
+        "text": "Olivert",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/indiehackercase/status/1949946469953286203?t=4tfDOkG0VWoPxw-t7FuI2A&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSkeqZvX0Wm"
+  },
+  {
+    "fields": {
+      "id": "1045",
+      "发布时间": 1753719720000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "michael s galpert on X: \"since a bunch of people have been dm-ng me about this i created a public template you can download and try it yourself https://t.co/b6cCv4FpSL\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "since a bunch of people have been dm-ng me about this i created a public template you can download and try it yourself\nhttps://t.co/b6cCv4FpSL",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/msg",
+        "text": "michael s galpert",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/msg/status/1949868110825312647?t=iMADiX2JRUfOKxVLGH7ziA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSipuSRMr5u"
+  },
+  {
+    "fields": {
       "id": "1044",
       "发布时间": 1753686840000,
       "平台": [
