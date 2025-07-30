@@ -39,6 +39,44 @@
   },
   {
     "fields": {
+      "id": "1049",
+      "发布时间": 1753792740000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "AI",
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "AIGCLINK on X: \"微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力\n\nAI助手可以对打开的多个标签页进行整合、总结、推理\n\n比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向\n\n还有一个Copilot https://t.co/qPTXVE7QYE\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力。AI助手可以对打开的多个标签页进行整合、总结、推理。比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向。还有一个Copilot Vision功能，Copilot可以看到你的屏幕，并且能根据屏幕内容即时扫描、分析，辅助提供建议。还有AI视频摘要、AI标签页分组、Copilot Discover、即时提问等一些实用功能。未来应该还会增加一些内置操作，比如在浏览网页时就能委派任务等。[#AI浏览器](https://x.com/hashtag/AI%E6%B5%8F%E8%A7%88%E5%99%A8?src=hashtag_click)[#AIEdge](https://x.com/hashtag/AIEdge?src=hashtag_click)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/aigclink",
+        "text": "aigclink",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/aigclink/status/1949993062606000320?t=DCY0F_YP57BBNbaiMdd3cg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSogwYR1JhC"
+  },
+  {
+    "fields": {
       "id": "1046",
       "发布时间": 1753752720000,
       "平台": [
@@ -667,6 +705,44 @@
       ]
     },
     "record_id": "recuS6nGz9jnLK"
+  },
+  {
+    "fields": {
+      "id": "1050",
+      "发布时间": 1753425900000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "商业",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Mmina_SCRM_Globalization on X: \"一人公司出海持续发现需求最高效的方式！\n多看榜单，照着干，少走弯路\n#一人公司  #出海 https://t.co/9MFvOWz6vP\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "一人公司出海持续发现需求最高效的方式！ 多看榜单，照着干，少走弯路 [#一人公司](https://x.com/i/communities/1661871962073825281/hashtag/%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8)[#出海](https://x.com/i/communities/1661871962073825281/hashtag/%E5%87%BA%E6%B5%B7)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Wwwadesk",
+        "text": "Mmina_SCRM_Globalization",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Wwwadesk/status/1948635581023748544",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSpXhixOhgE"
   },
   {
     "fields": {
