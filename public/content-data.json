@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "1051",
+      "发布时间": 1753869600000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Bear Liu on X: \"7月要结束了，我的百万美元挑战的实际进度这个月一般，只是几百刀入账，目前完成了4千多。\n\n不过下个月有新产品上线，另外还有一些其他收入，应该可以再完成几个格子（每个格子一千刀）。 https://t.co/NyEXxmkOsj\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "7月要结束了，我的百万美元挑战的实际进度这个月一般，只是几百刀入账，目前完成了4千多。 不过下个月有新产品上线，另外还有一些其他收入，应该可以再完成几个格子（每个格子一千刀）。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/bearbig",
+        "text": "Bear Liu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/bearbig/status/1950496629494100369?t=GINRh4Fw13SevZSpr-plLw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSvOhrBQbgX"
+  },
+  {
+    "fields": {
       "id": "1048",
       "发布时间": 1753794243944,
       "平台": [
@@ -47,17 +84,68 @@
       "标签": [
         "文章",
         "AI",
-        "新闻"
+        "工具"
       ],
       "标题": [
         {
-          "text": "AIGCLINK on X: \"微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力\n\nAI助手可以对打开的多个标签页进行整合、总结、推理\n\n比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向\n\n还有一个Copilot https://t.co/qPTXVE7QYE\" / X",
+          "text": "AIGCLINK on X: \"微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力\n",
+          "type": "text"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "AI助手可以对打开的多个标签页进行整合、总结、推理\n",
+          "type": "text"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向\n",
+          "type": "text"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "还有一个Copilot ",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/qPTXVE7QYE",
+          "text": "https://t.co/qPTXVE7QYE",
+          "type": "url"
+        },
+        {
+          "text": "\" / X",
           "type": "text"
         }
       ],
       "正文": [
         {
-          "text": "微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力。AI助手可以对打开的多个标签页进行整合、总结、推理。比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向。还有一个Copilot Vision功能，Copilot可以看到你的屏幕，并且能根据屏幕内容即时扫描、分析，辅助提供建议。还有AI视频摘要、AI标签页分组、Copilot Discover、即时提问等一些实用功能。未来应该还会增加一些内置操作，比如在浏览网页时就能委派任务等。[#AI浏览器](https://x.com/hashtag/AI%E6%B5%8F%E8%A7%88%E5%99%A8?src=hashtag_click)[#AIEdge](https://x.com/hashtag/AIEdge?src=hashtag_click)",
+          "text": "微软的AI浏览器出来了，在Edge中加入了Copilot模式，最亮眼的是其多标签RAG和视觉辅助能力。AI助手可以对打开的多个标签页进行整合、总结、推理。比如，可以同时打开多篇论文让Copilot总结关键信息，比较不同或是提出新研究方向。还有一个Copilot Vision功能，Copilot可以看到你的屏幕，并且能根据屏幕内容即时扫描、分析，辅助提供建议。还有AI视频摘要、AI标签页分组、Copilot Discover、即时提问等一些实用功能。未来应该还会增加一些内置操作，比如在浏览网页时就能委派任务等。[#AI浏览器](",
+          "type": "text"
+        },
+        {
+          "link": "https://x.com/hashtag/AI%E6%B5%8F%E8%A7%88%E5%99%A8?src=hashtag_click",
+          "text": "https://x.com/hashtag/AI%E6%B5%8F%E8%A7%88%E5%99%A8?src=hashtag_click",
+          "type": "url"
+        },
+        {
+          "text": ")[#AIEdge](",
+          "type": "text"
+        },
+        {
+          "link": "https://x.com/hashtag/AIEdge?src=hashtag_click)",
+          "text": "https://x.com/hashtag/AIEdge?src=hashtag_click)",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
