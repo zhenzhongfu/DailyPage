@@ -39,6 +39,43 @@
   },
   {
     "fields": {
+      "id": "1055",
+      "发布时间": 1754032680000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "WquGuru🦀 on X: \"@Jackywine 对我来说是Vibe Kanban，原来的Vibecoding只能提升效率，但是Vibe Kanban结合Claude Code真正实现把Vibecoding驯化成自己的编程小弟  👉 https://t.co/yhyUm4RAiY\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "对我来说是Vibe Kanban，原来的Vibecoding只能提升效率，但是Vibe Kanban结合Claude Code真正实现把Vibecoding驯化成自己的编程小弟 👉 [GitHub - BloopAI/vibe-kanban: Kanban board to manage your AI coding agents](https://t.co/yhyUm4RAiY)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/wquguru",
+        "text": "WquGuru",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/wquguru/status/1951180706387820690?t=_R8VKa-T9YqiWwKS5FY9kw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSG7gVxrHKM"
+  },
+  {
+    "fields": {
       "id": "1053",
       "发布时间": 1753927320000,
       "平台": [
