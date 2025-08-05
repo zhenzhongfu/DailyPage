@@ -1,6 +1,192 @@
 [
   {
     "fields": {
+      "id": "1061",
+      "发布时间": 1754409578431,
+      "平台": [
+        "即刻"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "自制公众号排版工具介绍",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "今天觉得自己公众号排版不好看，各种公众号排版工具乱七八糟还收费，干脆用Cursor搓了一个：nutllwhy.github.io\n支持4种样式，还支持给图片加对应样式的边框\n已开源，明天发教程：github.com",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://未提及",
+        "text": "未提及",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://m.okjike.com/originalPosts/6888fed567132b7a3c14fcca?s=eyJ1IjoiNTY3ZmRiODA3MGQ1MjQxMTAwMjI2OGZkIn0%3D",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuT11NynRlYa"
+  },
+  {
+    "fields": {
+      "id": "1060",
+      "发布时间": 1754360760000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Morris on X: \"自信的本质是大量的学习，大量的研究，不断的重复，不断的实践，不断的复盘，从而建立自己稳定的内核，在克服逆境的过程中爱上自己。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "自信的本质是大量的学习，大量的研究，不断的重复，不断的实践，不断的复盘，从而建立自己稳定的内核，在克服逆境的过程中爱上自己。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Morris_LT",
+        "text": "Morris",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Morris_LT/status/1952556750391095370?t=mueMkAgzKWon3QrAfkhK2A&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSZ6Fz9huYP"
+  },
+  {
+    "fields": {
+      "id": "1059",
+      "发布时间": 1754310240000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "karminski-牙医 on X: \"claude-code 必备工具！来看—— claude-code-templates！\n\n简单来讲，claude-code-templates 这个工具可以帮你分析现有项目的框架和架构，然后生成专门为 claude code 设计的 https://t.co/23YIvZWYy7 文件，包含该项目的最佳实践、编码规范、可用命令等信息，为 Claude https://t.co/iRFdwFPwI9\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "claude-code 必备工具！来看—— claude-code-templates！\n简单来讲，claude-code-templates 这个工具可以帮你分析现有项目的框架和架构，然后生成专门为 claude code 设计的 [http://CLAUDE.md](https://t.co/jHA6bpNotM) 文件，包含该项目的最佳实践、编码规范、可用命令等信息，为 Claude 提供具体的上下文，引导它在后续生成代码或进行修改时遵循项目的规范。\n此外，这个项目还可以帮你给 claude 安装当前项目可能需要的 Agent, Commands, MCP 等等，更好的与当前项目集成。比如可以自动安装 /generate-tests （生成测试），/optimize-bundle (优化打包文件) 这类命令。\n项目地址：[http://github.com/davila7/claude-code-templates…](https://t.co/gGfu8DfK5e)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/karminski3",
+        "text": "karminski-牙医",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/karminski3/status/1952163705371959453?t=Ijbc37faKP3lgeepbtH4Lg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSXdq4Mv6Uj"
+  },
+  {
+    "fields": {
+      "id": "1058",
+      "发布时间": 1754293260000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"跟大家分享 GitHub 上一个专为 Claude Code 打造的命令扩展工具：CCPlugins。\n\n提供了 24 条精心设计的命令，能有效提升 Claude Code 输出结果的质量，并为我们节省大量重复工作的时间。\n\nGitHub：https://t.co/VLR7hMVFEn\n\n主要功能：\n\n- 智能代码重构，自动识别重构范围并验证迁移结果\n- https://t.co/mizdWLxByn\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "跟大家分享 GitHub 上一个专为 Claude Code 打造的命令扩展工具：CCPlugins。\n提供了 24 条精心设计的命令，能有效提升 Claude Code 输出结果的质量，并为我们节省大量重复工作的时间。\nGitHub：[http://github.com/brennercruvine l/CCPlugins…](https://t.co/jYfJr6Jhd6)\n主要功能：\n- 智能代码重构，自动识别重构范围并验证迁移结果\n- 自动格式化项目代码，支持多种语言和格式器\n- 多维度代码审查，包含安全、性能、质量分析\n- 功能脚手架生成，基于项目模式快速创建完整功能\n- 会话持续管理，支持跨 session 的上下文跟踪\n- 自动生成 GitHub issue、智能 TODO 管理\n通过 curl 命令一键安装即可使用，正在使用 Claude Code 的开发者，不妨看下这个工具是否有帮助。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1952273628047049056?t=O04SMGyOzlOhrS2-JVqDIA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSWUAkDfIm8"
+  },
+  {
+    "fields": {
+      "id": "1057",
+      "发布时间": 1754272380000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "工具",
+        "商业",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Yangyi on X: \"再分享个打工人失业赚钱的思路\n\n用vibecoding搞iOS客户端程序，就搞那种骨架\n啥是骨架，比如分类图库，比如分类听音频的\n就是一个列表把内容分类好，方便用户找\n\n一个骨架出来，里面不换替换内容就可以了\n现在vibecoding搞这个很快，而且很容易帮你调整，appstore查重也比较难，相当于AI换皮\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "再分享个打工人失业赚钱的思路 用vibecoding搞iOS客户端程序，就搞那种骨架 啥是骨架，比如分类图库，比如分类听音频的 就是一个列表把内容分类好，方便用户找 一个骨架出来，里面不换替换内容就可以了 现在vibecoding搞这个很快，而且很容易帮你调整，appstore查重也比较难，相当于AI换皮 你只需要做的事情就是整理内容，把内容全部都打包进去 然后开个七麦啥的去查查ASO的关键词 就往上铺就完了 产品免费，里面全是广告，8块钱永久会员去广告 你可以做什么这老友记那摩登时代，或者搞点儿什么名人的课程，别觉得盗版，没事的 甚至你还可以搞李逵李鬼，去蹭别人的品牌词，下载下来是垃圾也没关系，尽情让他们卸载 之前有人vibecoding了appconnect的生成工具，就用它不断做上架内容，这过程也不占啥时间了 你第一天搞，可能搞3天上架一个，后面就是3小时就能上架一个新应用，你就这么搞他百八十个应用，总是有能抓到关键词排名的长尾，这东西积少成多，最核心的点是你都打包到本地了，也没任何资源消耗，0成本的资产 找到有什么能跑起量的，你再投入认真优化优化 AI时代像这种套利机会实在是太多了，一边干一边学，没啥搞不定的 最重要的是相信自己，也相信ai，别自己跟那放大困难 干它20个自然会找到门路和经验\n这年头不给厂子打工就没活路了吗？ 那么多能养活自己的路子，怎么拧螺丝拧的都死脑筋呢 只要没人给稳定生活费一天10小时出售时间，还就活不了了 真的没路子的时候就去搬运，这种活儿总是有手就能干吧 不知道搬什么，就看市场需要啥你就搬啥 这么多人要AI出海呢",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Yangyixxxx",
+        "text": "Yangyi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Yangyixxxx/status/1952186159364554879?t=O04SMGyOzlOhrS2-JVqDIA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuSWOD2cjg4N"
+  },
+  {
+    "fields": {
       "id": "1056",
       "发布时间": 1754192220000,
       "平台": [
