@@ -2756,6 +2756,43 @@
   },
   {
     "fields": {
+      "id": "1062",
+      "发布时间": 1752193740000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "毅行出海 Sven on X: \"熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 \n\nSoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️\n\n👇🏻链接： https://t.co/xJbnGvq6Ag\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 SoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️ 👇🏻链接： https://t.co/xJbnGvq6Ag\n看完如果还不会，... 那就再看一遍哈！😎 如果对您有用，欢迎点赞+关注+转发收藏起来！ [#SEO](https://x.com/hashtag/SEO?src=hashtag_click)[#外链](https://x.com/hashtag/%E5%A4%96%E9%93%BE?src=hashtag_click)[#backlink](https://x.com/hashtag/backlink?src=hashtag_click)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/sven_ai",
+        "text": "毅行出海 Sven",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/sven_ai/status/1943467721867563135?t=WhP_cOMM0d8s-v7_l8yviw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuT38sV2WxRa"
+  },
+  {
+    "fields": {
       "id": "984",
       "发布时间": 1752075480000,
       "平台": [
@@ -10595,6 +10632,43 @@
       ]
     },
     "record_id": "recuII7032cnqR"
+  },
+  {
+    "fields": {
+      "id": "1063",
+      "发布时间": 1744780140000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Corey Chiu on X: \"免费获得DR92的dofollow外链的小技巧： \n\n创建一个substack(dot)com的账号，会有一个个人profile页，在里面的social links中有一个website栏，可以写下你的网站链接，然后将这个profile放到能被索引到的地方✅\n\n比如这是我的：https://t.co/Bu4Yk6a3tm \n\n #每日一个外链小技巧 https://t.co/tfhtROR8wU\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "免费获得DR92的dofollow外链的小技巧： 创建一个substack(dot)com的账号，会有一个个人profile页，在里面的social links中有一个website栏，可以写下你的网站链接，然后将这个profile放到能被索引到的地方✅ 比如这是我的：https://t.co/Bu4Yk6a3tm #每日一个外链小技巧 https://t.co/tfhtROR8wU",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/realcoreychiu",
+        "text": "Corey Chiu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/realcoreychiu/status/1912372747843637291?t=HwAqCvOkJ3pfWUA86SDPVw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuT39HqE7aFF"
   },
   {
     "fields": {
