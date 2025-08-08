@@ -1,6 +1,117 @@
 [
   {
     "fields": {
+      "id": "1066",
+      "发布时间": 1754638200000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\n\nGitHub：https://t.co/PYaUiDHcm0\n\n主要功能：\n\n- https://t.co/j4dYkhjZaq\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\nGitHub：[http://github.com/scriptscat/scriptcat…](https://t.co/OmcUJHhFT4)\n主要功能： \n- 支持后台运行和定时任务，网页操作自动化\n- 脚本云同步与订阅合集，跨设备使用方便\n- 内置智能代码编辑器，开发同时还能调试\n- 完全兼容油猴，脚本迁移无压力\n- 沙盒运行+权限管理，安全可靠有保障 \n支持 Chrome、Edge、Firefox 等主流浏览器，直接在浏览器扩展商店下载安装即可使用。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1953720333485453754?t=lJj6lg852SMwa6AlhbPIHA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTgFSgMfVfs"
+  },
+  {
+    "fields": {
+      "id": "1064",
+      "发布时间": 1754581680000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "文章"
+      ],
+      "标题": [
+        {
+          "text": "大帅老猿 on X: \"Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。\n\n别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。\n\n非常值得搞不下来 adsense 的朋友\nhttps://t.co/9IkBDo5q34 https://t.co/00G3UZe7b4\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。 别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。 非常值得搞不下来 adsense 的朋友 [https://beta.publishers.adsterra.com/referral/NSYqB uKuA4…](https://t.co/9IkBDo5q34)\n\n [https://t.co/00G3UZe7b4](https://t.co/00G3UZe7b4)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/ezshine",
+        "text": "大帅老猿",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/ezshine/status/1953483466529501607?t=yL1PibnErQmjc4O4CbyMSA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTeoVsklKv2"
+  },
+  {
+    "fields": {
+      "id": "1065",
+      "发布时间": 1754581680000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "大帅老猿 on X: \"Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。\n\n别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。\n\n非常值得搞不下来 adsense 的朋友\nhttps://t.co/9IkBDo5q34 https://t.co/00G3UZe7b4\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。 别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。 非常值得搞不下来 adsense 的朋友 [https://beta.publishers.adsterra.com/referral/NSYqB uKuA4…](https://t.co/9IkBDo5q34)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/ezshine",
+        "text": "大帅老猿",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/ezshine/status/1953483466529501607?t=yL1PibnErQmjc4O4CbyMSA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTeFr5OOo8E"
+  },
+  {
+    "fields": {
       "id": "1061",
       "发布时间": 1754409578431,
       "平台": [
