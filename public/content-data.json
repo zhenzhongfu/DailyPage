@@ -1,6 +1,45 @@
 [
   {
     "fields": {
+      "id": "1068",
+      "发布时间": 1754710800000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "商业",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "饼干哥哥🍪 on X: \"复盘从0到3个SaaS月入25w+：Samuel的产品复制与增长全流程\n\nSamuel Rondot 最初是一名验光师，完全没有编程背景。几年前，他一边看 YouTube 教程一边动手做项目，开始做自己的 SaaS。如今，他独立运营 3 个应用，月收入稳定在 35K 美元（约 25w+ 元）。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "复盘从0到3个SaaS月入25w+：Samuel的产品复制与增长全流程\nSamuel Rondot最初是一名验光师，完全没有编程背景。几年前，他一边看YouTube教程一边动手做项目，开始做自己的SaaS。如今，他独立运营3个应用，月收入稳定在35K美元（约25w+元）。\n他的核心理念很简单——不要从零创造，而是找到已经成功的产品，做1%的改进。\n1. Samuel的三款产品数据\n[http://UseArtemis.co](https://t.co/ebQVuZ0mH2)：LinkedIn数据抓取工具\nMRR：$15k\n客户数：10k\n成本：$4k/月\n[http://StoryShort.ai](https://t.co/ppDcgIw7i0)：AI视频生成工具\nMRR：$20k\n客户数：4k\n成本：$5k/月\n[http://Capacity.so](https://t.co/a21fSUwedo)：AI编码工具\nMRR：$900\n客户数：50\n2. 筛选项目的4个硬标准\nSamuel的选题主要来源是X上的独立创客社群（Solopreneur、Build in Public等）。一旦看到有意思的项目，他会用4个标准筛选：\n- 自己会用：能满足自己真实需求，才有耐心长期打磨。\n- 市场已验证：创始人公开的MRR或Stripe收款截图，是他最信赖的信号。\n- 获客方式可复制：用Ahrefs检查流量来源。最佳情况是广告+SEO双轮驱动，这说明需求强、模式稳，也更容易快速复刻。\n- 易于维护：避免后端复杂、维护成本高的产品。\n案例：他发现一个自动生成无露脸短视频的工具，流量几乎全来自Facebook广告——意味着只要投放，就能立刻获得用户。这种模式复制成本低、见效快，他立刻行动，最终快速跑通增长。\n3. 从0到1：快速验证市场\n确定项目后，Samuel会在2周内做出最小可行版本（MVP），不做任何非核心功能（如设置页、密码重置），然后立即启动广告验证：\n- 广告渠道：Google Ads和Meta Ads（Facebook/Instagram）是他的首选，测试哪个平台的转化更高。\n- 验证目标：不是立刻赚钱，而是确认市场愿意为产品付费。一旦LTV > CPA，就进入下一阶段。\n3. 从1到100：构建长期获客体系\nMVP广告验证成功后，他会立刻搭建多渠道增长：\n- SEO：在有稳定现金流后，开始做内容与搜索优化，获取复利式免费流量，并提升产品估值。\n- YouTube矩阵：用[http://StoryShort.ai](https://t.co/ppDcgIw7i0)生成每日UGC风格的无露脸视频，在多个频道和TikTok、Instagram上分发，引流到产品。\n- 联盟营销：设立高比例分成，让博主和YouTuber主动产出内容推广产品，带来病毒式传播。\n5. 技术与工具栈\n- 开发：Next.js + Node.js\n- SEO分析：Ahrefs\n- SEO自动化写作：[http://Outrank.so](https://t.co/DAbLswhj51)（自动写文章并发布）\n- 部署：Vercel\n- 支付：Stripe\n✅ 可复用的行动蓝图\n- 锁定高转化细分需求：先看市场是否已验证，确认流量可复制。\n- 两周内上线MVP：砍掉一切非核心功能，用广告快速验证付费意愿。\n- 广告跑通→布局SEO：先用现金流养活自己，再用SEO搭建长期流量池。\n- 用内容矩阵和联盟放大声量：让别人替你卖产品，形成网络效应。\n这种打法的精髓是：创意不稀缺，执行和市场验证才是核心壁垒。找到被验证的市场，做出比原版更好一点的产品，然后用一套可复制的增长系统持续放大，这就是Samuel能把“一人公司”做到月入25w+的根本原因。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/binggandata",
+        "text": "饼干哥哥🍪",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/binggandata/status/1954024921086210109?t=IRKkwocowT3xmt3AxulMXQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTnEbv8BNOg"
+  },
+  {
+    "fields": {
       "id": "1066",
       "发布时间": 1754638200000,
       "平台": [
@@ -35,6 +74,43 @@
       ]
     },
     "record_id": "recuTgFSgMfVfs"
+  },
+  {
+    "fields": {
+      "id": "1067",
+      "发布时间": 1754638200000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "文章"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\n\nGitHub：https://t.co/PYaUiDHcm0\n\n主要功能：\n\n- https://t.co/j4dYkhjZaq\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\nGitHub：[http://github.com/scriptscat/scriptcat…](https://t.co/OmcUJHhFT4)\n主要功能： \n- 支持后台运行和定时任务，网页操作自动化\n- 脚本云同步与订阅合集，跨设备使用方便\n- 内置智能代码编辑器，开发同时还能调试\n- 完全兼容油猴，脚本迁移无压力\n- 沙盒运行+权限管理，安全可靠有保障\n支持 Chrome、Edge、Firefox 等主流浏览器，直接在浏览器扩展商店下载安装即可使用。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1953720333485453754?t=lJj6lg852SMwa6AlhbPIHA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTkJ1JtVejd"
   },
   {
     "fields": {
