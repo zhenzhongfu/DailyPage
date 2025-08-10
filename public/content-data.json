@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "1070",
+      "发布时间": 1754738040000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "饼干哥哥🍪 on X: \"这逻辑不错，缩短了交付流程，甚至可以批量交付\n\n截几个图，客户满意了就收钱交货。前后可能没有半小时\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "这逻辑不错，缩短了交付流程，甚至可以批量交付 截几个图，客户满意了就收钱交货。前后可能没有半小时",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/binggandata",
+        "text": "饼干哥哥🍪",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/binggandata/status/1954139097175609806?t=zclgbGD9gXcw99gZgqy2yg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTqzHxRbiFW"
+  },
+  {
+    "fields": {
       "id": "1068",
       "发布时间": 1754710800000,
       "平台": [
@@ -37,6 +73,43 @@
       ]
     },
     "record_id": "recuTnEbv8BNOg"
+  },
+  {
+    "fields": {
+      "id": "1069",
+      "发布时间": 1754656380000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "ding.one on X: \"最好的翻译工具 Trancy 又做了一个新产品 Grabcube，音视频下载与 AI 转录翻译工具，设计真不错，没有一点 AI 味儿：https://t.co/ZFRlaPyikF\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "最好的翻译工具 Trancy 又做了一个新产品 Grabcube，音视频下载与 AI 转录翻译工具，设计真不错，没有一点 AI 味儿：https://t.co/ZFRlaPyikF",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/dingyi",
+        "text": "ding.one",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dingyi/status/1953796765997838372?t=zclgbGD9gXcw99gZgqy2yg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTqz8SUgNnr"
   },
   {
     "fields": {
