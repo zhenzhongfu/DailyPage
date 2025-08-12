@@ -1,6 +1,83 @@
 [
   {
     "fields": {
+      "id": "1076",
+      "发布时间": 1754911920000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "AI",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "凡人小北 on X: \"小红书上刷到张咋啦总结的 YouTube AI 频道合集，全是一手 AI 信息，密度太高了。\n\n不仅涵盖我订阅的大部分频道，还挖出了不少我之前根本没关注到的深水区。\n\n我照着她分类做了个整理，直接把链接找出来放下面了，建议订阅，反复刷、持续进化。\n\n1. 访谈大佬的视频播客\n- Lenny’s Podcast\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "小红书上刷到张咋啦总结的 YouTube AI 频道合集，全是一手 AI 信息，密度太高了。 不仅涵盖我订阅的大部分频道，还挖出了不少我之前根本没关注到的深水区。 我照着她分类做了个整理，直接把链接找出来放下面了，建议订阅，反复刷、持续进化。\n1. 访谈大佬的视频播客 -\nLenny’s Podcast [https://youtube.com/@LennysPodcast](https://t.co/vHhZZ5PCYj) -\nPeter Yang [https://youtube.com/@PeterYangYT](https://t.co/abF8AbUC7q) -\nAI and I（by Every） [https://youtube.com/@EveryInc](https://t.co/jLIY8Kf5mo) -\nUnsupervised Learning（by RedPoint Capital） [https://youtube.com/@RedpointAI](https://t.co/wwHoFFvR3t) -\nTraining Data（by Sequoia Capital） [https://youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8…](https://t.co/vxjCrr0pZR) -\nMinus One（by South Park Commons） [https://youtube.com/watch?v=TmWcsv jJG7E&list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7…](https://t.co/MIkXkG93GF) -\nGoogle DeepMind: The Podcast [https://youtube.com/watch?v=1O27hf 17BaY&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj…](https://t.co/Nvc84WifnW) -\nNo Priors [https://youtube.com/watch?v=l8fG5D cjucA&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1…](https://t.co/YvE4PobvmU) -\nAI+a16z [https://youtube.com/watch?v=8Je9Hz xYfm8&list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ&index=2…](https://t.co/jaWuqHSgJc) -\nLatent Space [https://youtube.com/@LatentSpacePod](https://t.co/8mh3MDqkYX) -\nThe AI Daily Brief [https://youtube.com/@AIDailyBrief](https://t.co/LuNUW7eDB3) -\nLightcone Podcast（Y Combinator） [https://youtube.com/watch?v=ShYKkP PhOoc&list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK…](https://t.co/L6Tuy65f1C) -\nLex Fridman [https://youtube.com/@lexfridman](https://t.co/oil5DgeGwd) -\nDwarkesh Podcast [https://youtube.com/watch?v=kWcPg8 t1kJ4&list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF…](https://t.co/67Qj2jVEJa)\n2. 大佬在活动 / 大会上演讲的录像 -\nYC Startup School [https://youtube.com/watch?v=BJjsfN O5JTo&list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB…](https://t.co/0ldLX5nSho) -\nAI Engineers World Fair [https://youtube.com/watch?v=U-fMsb Y-kHY…](https://t.co/lbxmIJTzlb) -\nSequoia AI Ascent [https://youtube.com/watch?v=v9JBMn xuPX8&list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08…](https://t.co/FA3lNBL7Ct) -\nStripe Sessions [https://youtube.com/watch?v=ONIexC hUpuw&list=PLcoWp8pBTM3CYTQho8i-a_lzx4cq7-ePh…](https://t.co/7BNsTIHVXH) -\nFigma Config [https://youtube.com/watch?v=5q8YAU TYAyk&list=PLXDU_eVOJTx6rKQR1JEIktXodeHUawC_T…](https://t.co/r8u3DgLu8A)\n3. OpenAI / Anthropic 的官方频道\n[https://youtube.com/@OpenAI](https://t.co/I2jqD9t0VO)\n[https://youtube.com/@anthropic-ai](https://t.co/xcMZeJQuMB)\n4. 手把手教你用 AI 工具的干货教程 -\nRiley Brown [https://youtube.com/@rileybrownai](https://t.co/TWcVHM6IQJ) -\nGreg Isenberg [https://youtube.com/@GregIsenberg](https://t.co/9ceHIRvod3) -\nRas Mic [https://youtube.com/@rasmic](https://t.co/Z203YAF8RI) -\nMckay Wrigley [https://youtube.com/@realmckaywrig ley…](https://t.co/gNbv5uxvVR)\n5. Andrej Karpathy\n[https://youtube.com/@AndrejKarpathy](https://t.co/2fIwFU0VBJ)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/frxiaobei",
+        "text": "凡人小北",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/frxiaobei/status/1954868587338088789",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTE0S01bgIO"
+  },
+  {
+    "fields": {
+      "id": "1073",
+      "发布时间": 1754818380000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "教程",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "meng shao on X: \"[开源推荐] N8N Workflow: 收集了 2053 个 n8n 工作流 的开源项目，堪称自动化爱好者的宝藏库！把从 n8n 官网、社区论坛、GitHub 以及其他公开来源收集的工作流整合在一起，提供了丰富的灵感、学习资源和可直接复用的自动化方案。\n\n核心亮点\n1. 海量工作流，覆盖广泛  \n   项目收录了 2053 https://t.co/amt99RQS8T\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "[开源推荐] N8N Workflow: 收集了 2053 个 n8n 工作流 的开源项目，堪称自动化爱好者的宝藏库！把从 n8n 官网、社区论坛、GitHub 以及其他公开来源收集的工作流整合在一起，提供了丰富的灵感、学习资源和可直接复用的自动化方案。 \n核心亮点 \n1. 海量工作流，覆盖广泛 \n项目收录了 2053 个工作流，涉及 365 种不同的服务和 API，比如 Telegram、Slack、Google Sheets、OpenAI、Airtable 等。这些工作流涵盖了从简单的数据同步到复杂的多触发器企业级自动化，适合各种场景，包括： \n· 通信：如自动发送消息到 Slack 或 WhatsApp \n· 数据处理：如 Google Sheets 数据整理或数据库操作 \n· AI/ML：如利用 OpenAI 进行内容生成 \n· 电商/社交媒体：如 Shopify 订单处理或 X 自动发帖 \n2. 高效的文档与搜索系统 \n这个项目不仅仅是堆积了一堆 JSON 文件，它还开发了一个 高性能文档系统，让用户可以快速浏览、搜索和分析工作流： \n· 超快搜索：基于 SQLite FTS5 的全文搜索，响应时间不到 100 毫秒 \n· 智能分类：工作流按触发类型（手动、Webhook、定时等）和复杂度（低、中、高）自动分类，还支持按服务类型（如通信、AI、数据库）过滤 \n· 可视化支持：可以通过 Mermaid 图表生成工作流的可视化结构 \n· 响应式设计：界面适配手机和桌面，支持深色/浅色主题，体验非常友好 \n3. 智能命名与组织 \n每个工作流的 JSON 文件名都被智能转换为易读的标题。如 2051_Telegram_Webhook_Automation_Webhook.json 会变成 Telegram Webhook Automation，既直观又方便搜索。工作流还被自动归类到 12 个服务类别（如通信、云存储、CRM 等），让你轻松找到适合自己需求的方案。 \n4. 统计与洞察 \n项目提供了详细的统计数据，比如： \n· 总计 29,445 个节点，平均每个工作流 14.3 个节点 \n· 触发类型分布：40.5% 是复杂多触发器工作流，25.3% 是 Webhook 触发，23.2% 是手动触发，11% 是定时触发 \n· 复杂度分析：35% 简单（≤5 节点），45% 中等（6-15 节点），20% 复杂（16+ 节点） \n为什么重要？ \n这个项目之所以重要，是因为它极大地降低了自动化开发的门槛： \n· 节省时间：无需从零开始设计复杂的工作流，直接复用现成的方案 \n· 学习资源：通过研究这些工作流，你可以快速掌握 n8n 的用法和最佳实践 \n· 社区驱动：开源的本质让它成为一个不断扩展的资源库，适合个人开发者、自由职业者以及企业用户 \n· 商业潜力：作者允许商业使用，你可以基于这些工作流为客户开发解决方案，甚至创建附加价值（如教程或模板库） \n不足与注意事项 \n· 安全性：工作流可能包含过时的节点或需要特定 n8n 版本支持，使用前需要仔细检查 \n· 技术门槛：虽然文档系统很友好，但运行服务器和导入工作流需要一定的技术基础（比如安装 Python 和依赖） \n· 无官方发布版本：目前仓库没有正式的 Release，可能需要用户自己处理更新和兼容性问题",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/shao__meng",
+        "text": "meng shao",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "link": "https://x.com/shao__meng/status/1954476309532594366?t=rnA4BdRXZqoNhIjrFkKS-w&s=19",
+          "text": "https://x.com/shao__meng/status/1954476309532594366?t=rnA4BdRXZqoNhIjrFkKS-w&s=19",
+          "type": "url"
+        }
+      ]
+    },
+    "record_id": "recuTCKU4XrDew"
+  },
+  {
+    "fields": {
       "id": "1071",
       "发布时间": 1754811720000,
       "平台": [
@@ -84,7 +161,7 @@
         "文章",
         "商业",
         "工具",
-        "教程"
+        "AI"
       ],
       "标题": [
         {
@@ -94,7 +171,265 @@
       ],
       "正文": [
         {
-          "text": "复盘从0到3个SaaS月入25w+：Samuel的产品复制与增长全流程\nSamuel Rondot最初是一名验光师，完全没有编程背景。几年前，他一边看YouTube教程一边动手做项目，开始做自己的SaaS。如今，他独立运营3个应用，月收入稳定在35K美元（约25w+元）。\n他的核心理念很简单——不要从零创造，而是找到已经成功的产品，做1%的改进。\n1. Samuel的三款产品数据\n[http://UseArtemis.co](https://t.co/ebQVuZ0mH2)：LinkedIn数据抓取工具\nMRR：$15k\n客户数：10k\n成本：$4k/月\n[http://StoryShort.ai](https://t.co/ppDcgIw7i0)：AI视频生成工具\nMRR：$20k\n客户数：4k\n成本：$5k/月\n[http://Capacity.so](https://t.co/a21fSUwedo)：AI编码工具\nMRR：$900\n客户数：50\n2. 筛选项目的4个硬标准\nSamuel的选题主要来源是X上的独立创客社群（Solopreneur、Build in Public等）。一旦看到有意思的项目，他会用4个标准筛选：\n- 自己会用：能满足自己真实需求，才有耐心长期打磨。\n- 市场已验证：创始人公开的MRR或Stripe收款截图，是他最信赖的信号。\n- 获客方式可复制：用Ahrefs检查流量来源。最佳情况是广告+SEO双轮驱动，这说明需求强、模式稳，也更容易快速复刻。\n- 易于维护：避免后端复杂、维护成本高的产品。\n案例：他发现一个自动生成无露脸短视频的工具，流量几乎全来自Facebook广告——意味着只要投放，就能立刻获得用户。这种模式复制成本低、见效快，他立刻行动，最终快速跑通增长。\n3. 从0到1：快速验证市场\n确定项目后，Samuel会在2周内做出最小可行版本（MVP），不做任何非核心功能（如设置页、密码重置），然后立即启动广告验证：\n- 广告渠道：Google Ads和Meta Ads（Facebook/Instagram）是他的首选，测试哪个平台的转化更高。\n- 验证目标：不是立刻赚钱，而是确认市场愿意为产品付费。一旦LTV > CPA，就进入下一阶段。\n3. 从1到100：构建长期获客体系\nMVP广告验证成功后，他会立刻搭建多渠道增长：\n- SEO：在有稳定现金流后，开始做内容与搜索优化，获取复利式免费流量，并提升产品估值。\n- YouTube矩阵：用[http://StoryShort.ai](https://t.co/ppDcgIw7i0)生成每日UGC风格的无露脸视频，在多个频道和TikTok、Instagram上分发，引流到产品。\n- 联盟营销：设立高比例分成，让博主和YouTuber主动产出内容推广产品，带来病毒式传播。\n5. 技术与工具栈\n- 开发：Next.js + Node.js\n- SEO分析：Ahrefs\n- SEO自动化写作：[http://Outrank.so](https://t.co/DAbLswhj51)（自动写文章并发布）\n- 部署：Vercel\n- 支付：Stripe\n✅ 可复用的行动蓝图\n- 锁定高转化细分需求：先看市场是否已验证，确认流量可复制。\n- 两周内上线MVP：砍掉一切非核心功能，用广告快速验证付费意愿。\n- 广告跑通→布局SEO：先用现金流养活自己，再用SEO搭建长期流量池。\n- 用内容矩阵和联盟放大声量：让别人替你卖产品，形成网络效应。\n这种打法的精髓是：创意不稀缺，执行和市场验证才是核心壁垒。找到被验证的市场，做出比原版更好一点的产品，然后用一套可复制的增长系统持续放大，这就是Samuel能把“一人公司”做到月入25w+的根本原因。",
+          "text": "复盘从0到3个SaaS月入25w+：Samuel的产品复制与增长全流程\n",
+          "type": "text"
+        },
+        {
+          "text": "Samuel Rondot最初是一名验光师，完全没有编程背景。几年前，他一边看YouTube教程一边动手做项目，开始做自己的SaaS。如今，他独立运营3个应用，月收入稳定在35K美元（约25w+元）。\n",
+          "type": "text"
+        },
+        {
+          "text": "他的核心理念很简单——不要从零创造，而是找到已经成功的产品，做1%的改进。\n",
+          "type": "text"
+        },
+        {
+          "text": "1. Samuel的三款产品数据\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://UseArtemis.co",
+          "text": "http://UseArtemis.co",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/ebQVuZ0mH2",
+          "text": "https://t.co/ebQVuZ0mH2",
+          "type": "url"
+        },
+        {
+          "text": ")：LinkedIn数据抓取工具\n",
+          "type": "text"
+        },
+        {
+          "text": "MRR：$15k\n",
+          "type": "text"
+        },
+        {
+          "text": "客户数：10k\n",
+          "type": "text"
+        },
+        {
+          "text": "成本：$4k/月\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://StoryShort.ai",
+          "text": "http://StoryShort.ai",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/ppDcgIw7i0",
+          "text": "https://t.co/ppDcgIw7i0",
+          "type": "url"
+        },
+        {
+          "text": ")：AI视频生成工具\n",
+          "type": "text"
+        },
+        {
+          "text": "MRR：$20k\n",
+          "type": "text"
+        },
+        {
+          "text": "客户数：4k\n",
+          "type": "text"
+        },
+        {
+          "text": "成本：$5k/月\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://Capacity.so",
+          "text": "http://Capacity.so",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/a21fSUwedo",
+          "text": "https://t.co/a21fSUwedo",
+          "type": "url"
+        },
+        {
+          "text": ")：AI编码工具\n",
+          "type": "text"
+        },
+        {
+          "text": "MRR：$900\n",
+          "type": "text"
+        },
+        {
+          "text": "客户数：50\n",
+          "type": "text"
+        },
+        {
+          "text": "2. 筛选项目的4个硬标准\n",
+          "type": "text"
+        },
+        {
+          "text": "Samuel的选题主要来源是X上的独立创客社群（Solopreneur、Build in Public等）。一旦看到有意思的项目，他会用4个标准筛选：\n",
+          "type": "text"
+        },
+        {
+          "text": "- 自己会用：能满足自己真实需求，才有耐心长期打磨。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 市场已验证：创始人公开的MRR或Stripe收款截图，是他最信赖的信号。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 获客方式可复制：用Ahrefs检查流量来源。最佳情况是广告+SEO双轮驱动，这说明需求强、模式稳，也更容易快速复刻。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 易于维护：避免后端复杂、维护成本高的产品。\n",
+          "type": "text"
+        },
+        {
+          "text": "案例：他发现一个自动生成无露脸短视频的工具，流量几乎全来自Facebook广告——意味着只要投放，就能立刻获得用户。这种模式复制成本低、见效快，他立刻行动，最终快速跑通增长。\n",
+          "type": "text"
+        },
+        {
+          "text": "3. 从0到1：快速验证市场\n",
+          "type": "text"
+        },
+        {
+          "text": "确定项目后，Samuel会在2周内做出最小可行版本（MVP），不做任何非核心功能（如设置页、密码重置），然后立即启动广告验证：\n",
+          "type": "text"
+        },
+        {
+          "text": "- 广告渠道：Google Ads和Meta Ads（Facebook/Instagram）是他的首选，测试哪个平台的转化更高。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 验证目标：不是立刻赚钱，而是确认市场愿意为产品付费。一旦LTV > CPA，就进入下一阶段。\n",
+          "type": "text"
+        },
+        {
+          "text": "3. 从1到100：构建长期获客体系\n",
+          "type": "text"
+        },
+        {
+          "text": "MVP广告验证成功后，他会立刻搭建多渠道增长：\n",
+          "type": "text"
+        },
+        {
+          "text": "- SEO：在有稳定现金流后，开始做内容与搜索优化，获取复利式免费流量，并提升产品估值。\n",
+          "type": "text"
+        },
+        {
+          "text": "- YouTube矩阵：用[",
+          "type": "text"
+        },
+        {
+          "link": "http://StoryShort.ai",
+          "text": "http://StoryShort.ai",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/ppDcgIw7i0",
+          "text": "https://t.co/ppDcgIw7i0",
+          "type": "url"
+        },
+        {
+          "text": ")生成每日UGC风格的无露脸视频，在多个频道和TikTok、Instagram上分发，引流到产品。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 联盟营销：设立高比例分成，让博主和YouTuber主动产出内容推广产品，带来病毒式传播。\n",
+          "type": "text"
+        },
+        {
+          "text": "5. 技术与工具栈\n",
+          "type": "text"
+        },
+        {
+          "text": "- 开发：Next.js + Node.js\n",
+          "type": "text"
+        },
+        {
+          "text": "- SEO分析：Ahrefs\n",
+          "type": "text"
+        },
+        {
+          "text": "- SEO自动化写作：[",
+          "type": "text"
+        },
+        {
+          "link": "http://Outrank.so",
+          "text": "http://Outrank.so",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/DAbLswhj51",
+          "text": "https://t.co/DAbLswhj51",
+          "type": "url"
+        },
+        {
+          "text": ")（自动写文章并发布）\n",
+          "type": "text"
+        },
+        {
+          "text": "- 部署：Vercel\n",
+          "type": "text"
+        },
+        {
+          "text": "- 支付：Stripe\n",
+          "type": "text"
+        },
+        {
+          "text": "✅ 可复用的行动蓝图\n",
+          "type": "text"
+        },
+        {
+          "text": "- 锁定高转化细分需求：先看市场是否已验证，确认流量可复制。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 两周内上线MVP：砍掉一切非核心功能，用广告快速验证付费意愿。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 广告跑通→布局SEO：先用现金流养活自己，再用SEO搭建长期流量池。\n",
+          "type": "text"
+        },
+        {
+          "text": "- 用内容矩阵和联盟放大声量：让别人替你卖产品，形成网络效应。\n",
+          "type": "text"
+        },
+        {
+          "text": "这种打法的精髓是：创意不稀缺，执行和市场验证才是核心壁垒。找到被验证的市场，做出比原版更好一点的产品，然后用一套可复制的增长系统持续放大，这就是Samuel能把“一人公司”做到月入25w+的根本原因。",
           "type": "text"
         }
       ],
@@ -131,7 +466,16 @@
       ],
       "正文": [
         {
-          "text": "最好的翻译工具 Trancy 又做了一个新产品 Grabcube，音视频下载与 AI 转录翻译工具，设计真不错，没有一点 AI 味儿：https://t.co/ZFRlaPyikF",
+          "text": "最好的翻译工具 Trancy 又做了一个新产品 Grabcube，音视频下载与 AI 转录翻译工具，设计真不错，没有一点 AI 味儿：",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/ZFRlaPyikF",
+          "text": "https://t.co/ZFRlaPyikF",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
@@ -148,43 +492,6 @@
       ]
     },
     "record_id": "recuTqz8SUgNnr"
-  },
-  {
-    "fields": {
-      "id": "1066",
-      "发布时间": 1754638200000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "工具",
-        "教程"
-      ],
-      "标题": [
-        {
-          "text": "GitHubDaily on X: \"在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\n\nGitHub：https://t.co/PYaUiDHcm0\n\n主要功能：\n\n- https://t.co/j4dYkhjZaq\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "在 GitHub 上发现一个比油猴（Tampermonkey）还要强大的浏览器脚本插件：ScriptCat。\n完全兼容油猴脚本，最大亮点支持后台脚本，即使关闭网页也能持续运行，并结合云同步和脚本订阅功能，可以轻松实现脚本管理。\nGitHub：[http://github.com/scriptscat/scriptcat…](https://t.co/OmcUJHhFT4)\n主要功能： \n- 支持后台运行和定时任务，网页操作自动化\n- 脚本云同步与订阅合集，跨设备使用方便\n- 内置智能代码编辑器，开发同时还能调试\n- 完全兼容油猴，脚本迁移无压力\n- 沙盒运行+权限管理，安全可靠有保障 \n支持 Chrome、Edge、Firefox 等主流浏览器，直接在浏览器扩展商店下载安装即可使用。",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/GitHub_Daily",
-        "text": "GitHubDaily",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/GitHub_Daily/status/1953720333485453754?t=lJj6lg852SMwa6AlhbPIHA&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuTgFSgMfVfs"
   },
   {
     "fields": {
@@ -242,7 +549,51 @@
       ],
       "正文": [
         {
-          "text": "Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。 别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。 非常值得搞不下来 adsense 的朋友 [https://beta.publishers.adsterra.com/referral/NSYqB uKuA4…](https://t.co/9IkBDo5q34)\n\n [https://t.co/00G3UZe7b4](https://t.co/00G3UZe7b4)",
+          "text": "Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。 别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。 非常值得搞不下来 adsense 的朋友 [",
+          "type": "text"
+        },
+        {
+          "link": "https://beta.publishers.adsterra.com/referral/NSYqB",
+          "text": "https://beta.publishers.adsterra.com/referral/NSYqB",
+          "type": "url"
+        },
+        {
+          "text": " uKuA4…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/9IkBDo5q34",
+          "text": "https://t.co/9IkBDo5q34",
+          "type": "url"
+        },
+        {
+          "text": ")\n",
+          "type": "text"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": " [",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/00G3UZe7b4",
+          "text": "https://t.co/00G3UZe7b4",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/00G3UZe7b4)",
+          "text": "https://t.co/00G3UZe7b4)",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
@@ -259,43 +610,6 @@
       ]
     },
     "record_id": "recuTeoVsklKv2"
-  },
-  {
-    "fields": {
-      "id": "1065",
-      "发布时间": 1754581680000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "文章",
-        "商业"
-      ],
-      "标题": [
-        {
-          "text": "大帅老猿 on X: \"Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。\n\n别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。\n\n非常值得搞不下来 adsense 的朋友\nhttps://t.co/9IkBDo5q34 https://t.co/00G3UZe7b4\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "Vibe Coding 建站很容易，但是网站要申请开通谷歌广告赚钱很难。申请要等好久不说，最后还就是不给通过。 别再死磕了，这个替代品叫 adsterra ，我今天刚刚注册，几分钟内就通过了，立马接入了一个 banner 广告位试试，马上就开始进钱了。 非常值得搞不下来 adsense 的朋友 [https://beta.publishers.adsterra.com/referral/NSYqB uKuA4…](https://t.co/9IkBDo5q34)",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/ezshine",
-        "text": "大帅老猿",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/ezshine/status/1953483466529501607?t=yL1PibnErQmjc4O4CbyMSA&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuTeFr5OOo8E"
   },
   {
     "fields": {
@@ -3071,7 +3385,47 @@
       ],
       "正文": [
         {
-          "text": "熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 SoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️ 👇🏻链接： https://t.co/xJbnGvq6Ag\n看完如果还不会，... 那就再看一遍哈！😎 如果对您有用，欢迎点赞+关注+转发收藏起来！ [#SEO](https://x.com/hashtag/SEO?src=hashtag_click)[#外链](https://x.com/hashtag/%E5%A4%96%E9%93%BE?src=hashtag_click)[#backlink](https://x.com/hashtag/backlink?src=hashtag_click)",
+          "text": "熬夜爆肝，终于把《不会找外链？万字长文手把手教你“外链挖掘三板斧”，精准挖掘大量高质量外链资源！》这篇文章写完了🎉🎉 SoPilot的外链目录资源 + 外链搜索核心算法... 🤫 都在这篇万字长文里了，把我压箱底的“外链挖掘三板斧”🔥 毫无保留地分享给大家！别再说找不到高质量外链了！🙅‍♀️ 👇🏻链接： ",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/xJbnGvq6Ag",
+          "text": "https://t.co/xJbnGvq6Ag",
+          "type": "url"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "看完如果还不会，... 那就再看一遍哈！😎 如果对您有用，欢迎点赞+关注+转发收藏起来！ [#SEO](",
+          "type": "text"
+        },
+        {
+          "link": "https://x.com/hashtag/SEO?src=hashtag_click",
+          "text": "https://x.com/hashtag/SEO?src=hashtag_click",
+          "type": "url"
+        },
+        {
+          "text": ")[#外链](",
+          "type": "text"
+        },
+        {
+          "link": "https://x.com/hashtag/%E5%A4%96%E9%93%BE?src=hashtag_click",
+          "text": "https://x.com/hashtag/%E5%A4%96%E9%93%BE?src=hashtag_click",
+          "type": "url"
+        },
+        {
+          "text": ")[#backlink](",
+          "type": "text"
+        },
+        {
+          "link": "https://x.com/hashtag/backlink?src=hashtag_click)",
+          "text": "https://x.com/hashtag/backlink?src=hashtag_click)",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
@@ -10939,8 +11293,8 @@
         "X"
       ],
       "标签": [
-        "工具",
-        "教程"
+        "教程",
+        "工具"
       ],
       "标题": [
         {
@@ -10950,7 +11304,25 @@
       ],
       "正文": [
         {
-          "text": "免费获得DR92的dofollow外链的小技巧： 创建一个substack(dot)com的账号，会有一个个人profile页，在里面的social links中有一个website栏，可以写下你的网站链接，然后将这个profile放到能被索引到的地方✅ 比如这是我的：https://t.co/Bu4Yk6a3tm #每日一个外链小技巧 https://t.co/tfhtROR8wU",
+          "text": "免费获得DR92的dofollow外链的小技巧： 创建一个substack(dot)com的账号，会有一个个人profile页，在里面的social links中有一个website栏，可以写下你的网站链接，然后将这个profile放到能被索引到的地方✅ 比如这是我的：",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/Bu4Yk6a3tm",
+          "text": "https://t.co/Bu4Yk6a3tm",
+          "type": "url"
+        },
+        {
+          "text": " #每日一个外链小技巧 ",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/tfhtROR8wU",
+          "text": "https://t.co/tfhtROR8wU",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
