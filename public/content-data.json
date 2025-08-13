@@ -1,14 +1,358 @@
 [
   {
     "fields": {
+      "id": "1085",
+      "发布时间": 1755078000000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考",
+        "AI",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "Andy四海为家 on X: \"【出海一周年，实现月入万刀】\n\n大家好，我是 Andy四海为家。从去年 7 月离职做出海到现在，刚好 1 年。今年的 7 月份网站订阅收入加起来超过一万美金，也算是实现了一个里程碑。\n\n我之前在哥飞公众号也有两篇文章\n「产品经理从0开始做网站」\n「3个月实现每天从谷歌获取流量破千的网站」\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "【出海一周年，实现月入万刀】 大家好，我是 Andy 四海为家。从去年 7 月离职做出海到现在，刚好 1 年。今年的 7 月份网站订阅收入加起来超过一万美金，也算是实现了一个里程碑。 我之前在哥飞公众号也有两篇文章 「产品经理从 0 开始做网站」 「3 个月实现每天从谷歌获取流量破千的网站」 感兴趣可以看看。今天打算给哥飞的群友们分享一点个人的小经验，仅限于个人的经验，每个人的方法不一样，大家作为参考即可。 \n1、第一个想要分享的是关于聚焦，这个点我觉得可以分为是否拿到正反馈来讨论。 \n先说如果已经拿到正反馈的情况，比如我拿正反馈还是比较快的，在一个站已经有不错的收入的情况下，中途还断断续续做了很多其他站。我算了下，出海到现在一共起了 10 个 nextjs 项目，虽然其中有 6 个站收入都大于 1 美金，这个成功率好像看起来还行，但是加起来还不够主站的零头，并且耗费了很多精力。因为但凡做过 SEO 都知道，开发需求是最简单的事情，需求迭代、做外链、SEO 关键词优化这些才是会后续不断耗费精力的事情，并不是开发完就放那边一劳永逸。 如果我把精力聚焦在已经有正反馈的这么一两个站，收入可能会更高。（我至始至终就我一个人，如果你有团队那可能另说） \n另一种情况是还没拿到正反馈的朋友。 我发现很多新手一上来就喜欢做多语言，整了一堆垃圾海量页面，这里并不是要反对做多语言。因为我觉得对于新手朋友，多语言面临的问题是你需要的维护成本会翻很多倍。有的人可能觉得不就是写个脚本 AI 批量翻译 json，我之前也是这么干的。但是你做了就知道，并不是所有词在各自的语言都有搜索需求的，有的词可能在西语根本没人搜，或者 AI 翻译出来的并不是真正用户搜索的词。你们可以拿出 GSC 看看自己的页面，看看自己的真正有流量的页面占到所有页面的百分比是多少。并且每次想要新上线一个功能页面，就要多产生十几个页面，维护成本也比较高，如果你需求针对对不同语言调试不同的 prompt ，又是一块成本。所以我如果你之前没有做成功过，先踏踏实实做好一个语言，把这个语言的页面优化到极致，拿到流量了熟练了再考虑多语言。 还有就是也别一下做很多站，这里不是说不要去追新词什么的，而是先把一个站做好。我之前帮一个朋友看站，他做了好几个站，都没有什么声音。我看了他做的，连基础的 canonical 这些配置都没写好，然后外链也是换了一堆垃圾的全站外链，一个没做好就去赶着做下一个了。。 所以找到一个有价值的需求后（具体如何判断有价值下面说），踏踏实实的按照刚入哥飞群时候发的那一堆聊天记录的文章里的内容进行优化，查缺补漏，确保每个页面都是精品页面，是真正有谷歌搜索需求的页面，而不是靠自己臆想出的需求的页面。 以上是我分享的需要聚焦的内容。 \n2、第二点想要分享的是如何判断这个需求是否值得做。 注意我们需要去发现需求，而不是创造需求。说实话到目前为止我几乎没有去追过热点，我都是做老需求的重建。我分享一个我自己的判断理论，一个需求值不值得做，看两个点。 第一个点是 AI 的介入是否会提升使用体验。举个例子，我之前剪过一段时间视频，比如需要找海浪的音效，传统找音效的办法是去专门的音效网站，需要订阅会员，然后搜相关的词，但是你英语不好很难精准找到你想描述的感觉；而 AI 生成音效可以快速输入 prompt 生成你想要效果。这个就是 AI 介入提升了传统解决方案使用体验的例子，价格更低、找得更快。 第二个点是这个需求在之前是否有足够的商业价值。简单来说，这个需求没有 AI 之前，用户也不会付费，那你用 AI 想做付费也比较难。。我之前做过一个 AI 生成颜文字 kaomoji 生成的站，现在域名已经挂出去卖了。现在复盘这个站，核心原因就在于这是一个「维生素」需求，太弱了，不会有人为了这个需求付费，想做订阅比较难（做广告站可以，不过需要较大的流量）。 上面是基础判断，除此之外还要看有没有大型的初创公司介入或者已有有人早你一年两年做了。上面那个音效的例子是不是有人想要跃跃欲试去看搜索词了，但实际已经有头部的 elevenlabs 这种玩家在，虽然也可以分到一杯羹，但是你的 API 可能都得调用人家，怎么和人去竞争。还有一种情况下是即便没有大型初创公司的参与，但是这个赛道已有好多人在早一两年就做了这个需求，要超过已经比较难了，需要耗费很多精力，timing 很重要。我有个站花了几千块钱买外链、体验比对方好，但是排名就是比对方低，就在于对方做得比较早。 \n3、第三点想要分享的是注重产品体验。 你做 AI 工具站做 SEO 的核心是解决用户需求，不是欺骗谷歌让他给你好的排名。所以在开发的时候除了兼顾 SEO 需求词分布外，也需要注重用户的交互体验 应该是六月底的时候谷歌核心算法更新了一波，我的几个站流量涨了不少。我个人感觉是谷歌把用户交互好的站都「奖励」了。所以一上来不着急发各种外链，先好好打磨自己的产品，以解决用户的需求为主，辅以一些高权重的外链，流量自然会上来的。 \n4、第四点想要分享的是关于外链 外链质量远大于数量。如果让我现在重新做一个站，我可能只会提交那几个头部的导航站就行了，不会去和导航站交换外链。然后再做做 guest post、niche edit、甚至 digital PR、HARO 等。 这个可以根据自己预算量力而行，我最开始还没收入的时候，觉得买 toolify 之类的 99 美金都觉得贵。现在做 digital PR 一个 campaign 就要五千多美金，一个 guest post 300 美金都是很正常的。 外链这块我是找专业的人付费咨询，根据自己的预算、关键词排名等情况，规划好未来几个月的外链策略，然后外包出去。 \n5、第五点想要分享的是要舍得花钱，节约时间 简单来说能用 vercel 就用 vercel，别为了省钱自己买服务器，好的产品值得你付费。能用 supabase 就别自己自建数据库浪费时间。写代码的模型能用 Claude 写就别为了省钱用便宜的模型写，SAAS 服务能用最好的尽量用最好的。无形中给你节约很多时间，相当于你也是在用这些小杠杆组合去撬动更大的东西。大家如果在大厂日薪一天 1000 人民币算，浪费时间去折腾基建，算下可以订阅多少个 SAAS 服务。还有就是也可以适当去付费咨询，少走弯路。 \n6、第六点想要分享的是保持高精力 之前有一段时间很焦虑，晚上睡不着，第二天睡到大中午。当我一个月赚 6000 美金的时候想着一个月 赚 10000 美金，实现了之后又想着一个月赚 3 万美金，欲望是无止境的。再加上有一些像素级抄袭你的站搞你心态的情况下，其实每天状态不是很好，确实比上班累多了。上班至少旱涝保收，你做不好是老板公司给你兜底，你至少还有工资可以拿，做好了还有奖金。但是自己给自己打工没人给你兜底的，需要保持每天的产出。 我觉得最好的办法就是早睡早起，这个确实很难。可以花时间研究下如何快速睡觉。我最近保持了差不多 2 周早睡早起，白天别太累，吃点清淡的，晚上好像更容易睡着。 以上就是关于分享的所有内容，谢谢阅读。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/AndyRoamer",
+        "text": "Andy 四海为家",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/AndyRoamer/status/1955565077882654963?t=8vnF_FPG3EmQZiD-KPxuEQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTKtYmzduBv"
+  },
+  {
+    "fields": {
+      "id": "1083",
+      "发布时间": 1755056400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "自媒体",
+        "商业",
+        "写作"
+      ],
+      "标题": [
+        {
+          "text": "Yangyi on X: \"自媒体一人公司万金流：\n搬运改写翻译+费曼赚钱法+成果展示\n\n- 国内搬国外，国外搬国内，带个翻译，你就抢跑90%的人了\n- 费曼赚钱法，自己学什么实践什么，就分享什么，一边分享一边写材料沉淀，然后分享的内容引流，材料卖钱\n-\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "自媒体一人公司万金流： 搬运改写翻译+费曼赚钱法+成果展示 - 国内搬国外，国外搬国内，带个翻译，你就抢跑90%的人了 - 费曼赚钱法，自己学什么实践什么，就分享什么，一边分享一边写材料沉淀，然后分享的内容引流，材料卖钱 - 成果展示，展示一下自己在这个过程里收获了啥，什么五线城市三本学生就靠写作，一个月涨了xx粉赚了xx钱 搬运改写翻译是基础流量池，最Low就是原封不动照抄，高级一点儿是把别人的观念换成自己的风格重新表达 费曼赚钱法是塑造IP信任感，他人基于你实践的东西和分享的东西，产生信任度进而买单 成果展示是让别人知道你行，慢慢就自有大儒为我辩经，然后就有人说你行，就有行的人说你行，从而不断吸收资源进入规模经济实现马太效应 有人做第一步，然后卖别人的货 有人是做第二步，然后卖自己的电子资料或者课程 有人是做第三步，build in public 大道至简，但细节很多，需要经过实践过程领悟",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Yangyixxxx",
+        "text": "Yangyi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Yangyixxxx/status/1955474575443288295?t=LY5-sq3Ey06Tkvs4HUmNZw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTJA2j8e4X1"
+  },
+  {
+    "fields": {
+      "id": "1084",
+      "发布时间": 1755056400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "自媒体",
+        "商业",
+        "写作"
+      ],
+      "标题": [
+        {
+          "text": "Yangyi on X: \"自媒体一人公司万金流：\n搬运改写翻译+费曼赚钱法+成果展示\n\n- 国内搬国外，国外搬国内，带个翻译，你就抢跑90%的人了\n- 费曼赚钱法，自己学什么实践什么，就分享什么，一边分享一边写材料沉淀，然后分享的内容引流，材料卖钱\n-\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "自媒体一人公司万金流： 搬运改写翻译+费曼赚钱法+成果展示 - 国内搬国外，国外搬国内，带个翻译，你就抢跑90%的人了 - 费曼赚钱法，自己学什么实践什么，就分享什么，一边分享一边写材料沉淀，然后分享的内容引流，材料卖钱 - 成果展示，展示一下自己在这个过程里收获了啥，什么五线城市三本学生就靠写作，一个月涨了xx粉赚了xx钱 搬运改写翻译是基础流量池，最Low就是原封不动照抄，高级一点儿是把别人的观念换成自己的风格重新表达 费曼赚钱法是塑造IP信任感，他人基于你实践的东西和分享的东西，产生信任度进而买单 成果展示是让别人知道你行，慢慢就自有大儒为我辩经，然后就有人说你行，就有行的人说你行，从而不断吸收资源进入规模经济实现马太效应 有人做第一步，然后卖别人的货 有人是做第二步，然后卖自己的电子资料或者课程 有人是做第三步，build in public 大道至简，但细节很多，需要经过实践过程领悟",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Yangyixxxx",
+        "text": "Yangyi",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Yangyixxxx/status/1955474575443288295?t=LY5-sq3Ey06Tkvs4HUmNZw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTJA2GcIatS"
+  },
+  {
+    "fields": {
+      "id": "1079",
+      "发布时间": 1755013920000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Eric_SF on X: \"如果不想一直打工，就请尽快将自己产品化！||如果不想一直打工，就要尽早将自己产品化，但是具体怎么做呢？早点照着拆解实践起来吧 https://t.co/HzWwXGjTj1\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "如果不想一直打工，就请尽快将自己产品化！||如果不想一直打工，就要尽早将自己产品化，但是具体怎么做呢？早点照着拆解实践起来吧",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Ericup2023",
+        "text": "Eric_SF",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Ericup2023/status/1955296466043347112?t=c5oA-LhMj3VMXDULyrZ91g&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTHQajEZijb"
+  },
+  {
+    "fields": {
+      "id": "1081",
+      "发布时间": 1754989500000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "blank on X: \"traffic cv 7 月榜单更新了，很多有意思的站和灵感，值得多刷几遍\n\nNew Websites: https://t.co/GwFUTkS0P7\n\nTrending Websites: https://t.co/iyzwId1A6U https://t.co/AqzizbI16K\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "traffic cv 7 月榜单更新了，很多有意思的站和灵感，值得多刷几遍\nNew Websites: [https://traffic.cv/leaderboard/traffic/2025/7/new…](https://t.co/GwFUTkS0P7)\nTrending Websites: [https://traffic.cv/leaderboard/traffic/2025/7/trending…](https://t.co/iyzwId1A6U)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/blankwebdev",
+        "text": "@blankwebdev",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/blankwebdev/status/1955193845353943537?t=YFGGUp8PA9Z_QC37ly-XTg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTIk5G41Epw"
+  },
+  {
+    "fields": {
+      "id": "1082",
+      "发布时间": 1754989500000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "blank on X: \"traffic cv 7 月榜单更新了，很多有意思的站和灵感，值得多刷几遍\n\nNew Websites: https://t.co/GwFUTkS0P7\n\nTrending Websites: https://t.co/iyzwId1A6U https://t.co/AqzizbI16K\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "traffic cv 7 月榜单更新了，很多有意思的站和灵感，值得多刷几遍\n",
+          "type": "text"
+        },
+        {
+          "text": "New Websites: [",
+          "type": "text"
+        },
+        {
+          "link": "https://traffic.cv/leaderboard/traffic/2025/7/new",
+          "text": "https://traffic.cv/leaderboard/traffic/2025/7/new",
+          "type": "url"
+        },
+        {
+          "text": "…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/GwFUTkS0P7",
+          "text": "https://t.co/GwFUTkS0P7",
+          "type": "url"
+        },
+        {
+          "text": ")\n",
+          "type": "text"
+        },
+        {
+          "text": "Trending Websites: [",
+          "type": "text"
+        },
+        {
+          "link": "https://traffic.cv/leaderboard/traffic/2025/7/trending",
+          "text": "https://traffic.cv/leaderboard/traffic/2025/7/trending",
+          "type": "url"
+        },
+        {
+          "text": "…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/iyzwId1A6U",
+          "text": "https://t.co/iyzwId1A6U",
+          "type": "url"
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/blankwebdev",
+        "text": "blank",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/blankwebdev/status/1955193845353943537?t=YFGGUp8PA9Z_QC37ly-XTg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTIl2S5yV3g"
+  },
+  {
+    "fields": {
+      "id": "1077",
+      "发布时间": 1754985960000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考",
+        "AI",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "凡人小北 on X: \"群里看到一个挺震撼的小事，讲出来你可能也会有点恍惚。\n\n网友半年前搞了个小项目，他当时手上有堆 MCP 工具的资料，干脆搭了个网站，把它们整理出来。\n\n一开始手动维护，还挺认真。后来工具更新越来越快，他顶不住了，就写了个 Agent，专门去 GitHub 上扫。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "群里看到一个挺震撼的小事，讲出来你可能也会有点恍惚。 网友半年前搞了个小项目，他当时手上有堆 MCP 工具的资料，干脆搭了个网站，把它们整理出来。 一开始手动维护，还挺认真。后来工具更新越来越快，他顶不住了，就写了个 Agent，专门去 GitHub 上扫。 新项目一出，就扒下来，分类整理，自动更新到网页。 然后他转身去忙别的事了。半年没管这个站。 反转来了，前几天他无聊随手 Google 一下，发现： 自己那个早就忘掉的网站，直接排在谷歌搜索第一。 重点是他这个站压根没干过 SEO，就靠一个很笨的 Agent，在那里不停地、规律地把事情做完。 故事讲完了，但是给我们留下了很大的思考空间，我突然有点明白了： 很多时候，我们以为 AI 要很聪明，但这个案例提醒我，其实光是持续这件事，AI 就已经做得比我们好了。 大部分人有个通病，很难长期坚持一件事情。但 AI 不一样，节奏稳定得吓人。 比如这个故事，你给它一个方向，它就能把一件很小的事做到不可忽视的程度。甚至你都忘了它，它还没忘记它的任务。 说多了还真有点小小的感动，那个被人遗忘的 Agent，还在执行最初的任务，没停过。 现比的 Claude Code、Trae Solo 这些新一代 AI coding 工具就在干这事儿，给它个任务，它能一直咕哒咕哒往前推。 这不就是我们最需要 AI 做的事吗？ 我们来负责探索，它用来坚守初心、一点点推进，知道跑完了我们原本放弃的那条路。 这或许就是我理想中的人和 AI 共生的最美好的样子。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/frxiaobei",
+        "text": "凡人小北",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/frxiaobei/status/1955178947039334813?t=skLOQKhRLljVNG0da8HFzQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTGVwzcKkVh"
+  },
+  {
+    "fields": {
+      "id": "1080",
+      "发布时间": 1754963520000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "流氓兔🐰 on X: \"如何锻炼一个人匪气？！👉\n\n温柔但不好惹， 如何修炼“内核匪气”，人生开挂？\n\n你是否：\n1.总怕得罪人，习惯性讨好？\n2.被冒犯也不敢反击，事后内耗？\n3.羡慕那些“不好惹”却活得爽的人？\n\n曾经的我也是“软柿子🍅”，直到领悟：\n\n真正的“匪气”在内核！\n\n是温柔外表下那份我自巍然不动的定力和反击力🤜 https://t.co/YJactzIEB9\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "如何锻炼一个人匪气？！👉 温柔但不好惹， 如何修炼“内核匪气”，人生开挂？ 你是否： 1.总怕得罪人，习惯性讨好？ 2.被冒犯也不敢反击，事后内耗？ 3.羡慕那些“不好惹”却活得爽的人？ 曾经的我也是“软柿子🍅”，直到领悟： 真正的“匪气”在内核！ 是温柔外表下那份我自巍然不动的定力和反击力🤜 修炼“温柔匪气”心法：",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/LiumangtuCrypto",
+        "text": "流氓兔🐰 （@LiumangtuCrypto）",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/LiumangtuCrypto/status/1955084843915874699?t=xywpWWvQfcyZS7Cow1PKFw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTHSXezDsE4"
+  },
+  {
+    "fields": {
       "id": "1076",
       "发布时间": 1754911920000,
       "平台": [
         "X"
       ],
       "标签": [
-        "文章",
         "AI",
+        "工具",
         "教程"
       ],
       "标题": [
@@ -19,7 +363,599 @@
       ],
       "正文": [
         {
-          "text": "小红书上刷到张咋啦总结的 YouTube AI 频道合集，全是一手 AI 信息，密度太高了。 不仅涵盖我订阅的大部分频道，还挖出了不少我之前根本没关注到的深水区。 我照着她分类做了个整理，直接把链接找出来放下面了，建议订阅，反复刷、持续进化。\n1. 访谈大佬的视频播客 -\nLenny’s Podcast [https://youtube.com/@LennysPodcast](https://t.co/vHhZZ5PCYj) -\nPeter Yang [https://youtube.com/@PeterYangYT](https://t.co/abF8AbUC7q) -\nAI and I（by Every） [https://youtube.com/@EveryInc](https://t.co/jLIY8Kf5mo) -\nUnsupervised Learning（by RedPoint Capital） [https://youtube.com/@RedpointAI](https://t.co/wwHoFFvR3t) -\nTraining Data（by Sequoia Capital） [https://youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8…](https://t.co/vxjCrr0pZR) -\nMinus One（by South Park Commons） [https://youtube.com/watch?v=TmWcsv jJG7E&list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7…](https://t.co/MIkXkG93GF) -\nGoogle DeepMind: The Podcast [https://youtube.com/watch?v=1O27hf 17BaY&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj…](https://t.co/Nvc84WifnW) -\nNo Priors [https://youtube.com/watch?v=l8fG5D cjucA&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1…](https://t.co/YvE4PobvmU) -\nAI+a16z [https://youtube.com/watch?v=8Je9Hz xYfm8&list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ&index=2…](https://t.co/jaWuqHSgJc) -\nLatent Space [https://youtube.com/@LatentSpacePod](https://t.co/8mh3MDqkYX) -\nThe AI Daily Brief [https://youtube.com/@AIDailyBrief](https://t.co/LuNUW7eDB3) -\nLightcone Podcast（Y Combinator） [https://youtube.com/watch?v=ShYKkP PhOoc&list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK…](https://t.co/L6Tuy65f1C) -\nLex Fridman [https://youtube.com/@lexfridman](https://t.co/oil5DgeGwd) -\nDwarkesh Podcast [https://youtube.com/watch?v=kWcPg8 t1kJ4&list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF…](https://t.co/67Qj2jVEJa)\n2. 大佬在活动 / 大会上演讲的录像 -\nYC Startup School [https://youtube.com/watch?v=BJjsfN O5JTo&list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB…](https://t.co/0ldLX5nSho) -\nAI Engineers World Fair [https://youtube.com/watch?v=U-fMsb Y-kHY…](https://t.co/lbxmIJTzlb) -\nSequoia AI Ascent [https://youtube.com/watch?v=v9JBMn xuPX8&list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08…](https://t.co/FA3lNBL7Ct) -\nStripe Sessions [https://youtube.com/watch?v=ONIexC hUpuw&list=PLcoWp8pBTM3CYTQho8i-a_lzx4cq7-ePh…](https://t.co/7BNsTIHVXH) -\nFigma Config [https://youtube.com/watch?v=5q8YAU TYAyk&list=PLXDU_eVOJTx6rKQR1JEIktXodeHUawC_T…](https://t.co/r8u3DgLu8A)\n3. OpenAI / Anthropic 的官方频道\n[https://youtube.com/@OpenAI](https://t.co/I2jqD9t0VO)\n[https://youtube.com/@anthropic-ai](https://t.co/xcMZeJQuMB)\n4. 手把手教你用 AI 工具的干货教程 -\nRiley Brown [https://youtube.com/@rileybrownai](https://t.co/TWcVHM6IQJ) -\nGreg Isenberg [https://youtube.com/@GregIsenberg](https://t.co/9ceHIRvod3) -\nRas Mic [https://youtube.com/@rasmic](https://t.co/Z203YAF8RI) -\nMckay Wrigley [https://youtube.com/@realmckaywrig ley…](https://t.co/gNbv5uxvVR)\n5. Andrej Karpathy\n[https://youtube.com/@AndrejKarpathy](https://t.co/2fIwFU0VBJ)",
+          "text": "小红书上刷到张咋啦总结的 YouTube AI 频道合集，全是一手 AI 信息，密度太高了。 不仅涵盖我订阅的大部分频道，还挖出了不少我之前根本没关注到的深水区。 我照着她分类做了个整理，直接把链接找出来放下面了，建议订阅，反复刷、持续进化。\n",
+          "type": "text"
+        },
+        {
+          "text": "1. 访谈大佬的视频播客 -\n",
+          "type": "text"
+        },
+        {
+          "text": "Lenny’s Podcast [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@LennysPodcast",
+          "text": "https://youtube.com/@LennysPodcast",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/vHhZZ5PCYj)",
+          "text": "https://t.co/vHhZZ5PCYj)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Peter Yang [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@PeterYangYT",
+          "text": "https://youtube.com/@PeterYangYT",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/abF8AbUC7q)",
+          "text": "https://t.co/abF8AbUC7q)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "AI and I（by Every） [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@EveryInc",
+          "text": "https://youtube.com/@EveryInc",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/jLIY8Kf5mo)",
+          "text": "https://t.co/jLIY8Kf5mo)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Unsupervised Learning（by RedPoint Capital） [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@RedpointAI",
+          "text": "https://youtube.com/@RedpointAI",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/wwHoFFvR3t)",
+          "text": "https://t.co/wwHoFFvR3t)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Training Data（by Sequoia Capital） [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+          "text": "https://youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+          "type": "url"
+        },
+        {
+          "text": "…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/vxjCrr0pZR",
+          "text": "https://t.co/vxjCrr0pZR",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Minus One（by South Park Commons） [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=TmWcsv",
+          "text": "https://youtube.com/watch?v=TmWcsv",
+          "type": "url"
+        },
+        {
+          "text": " jJG7E&list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/MIkXkG93GF",
+          "text": "https://t.co/MIkXkG93GF",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Google DeepMind: The Podcast [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=1O27hf",
+          "text": "https://youtube.com/watch?v=1O27hf",
+          "type": "url"
+        },
+        {
+          "text": " 17BaY&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/Nvc84WifnW",
+          "text": "https://t.co/Nvc84WifnW",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "No Priors [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=l8fG5D",
+          "text": "https://youtube.com/watch?v=l8fG5D",
+          "type": "url"
+        },
+        {
+          "text": " cjucA&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/YvE4PobvmU",
+          "text": "https://t.co/YvE4PobvmU",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "AI+a16z [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=8Je9Hz",
+          "text": "https://youtube.com/watch?v=8Je9Hz",
+          "type": "url"
+        },
+        {
+          "text": " xYfm8&list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ&index=2…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/jaWuqHSgJc",
+          "text": "https://t.co/jaWuqHSgJc",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Latent Space [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@LatentSpacePod",
+          "text": "https://youtube.com/@LatentSpacePod",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/8mh3MDqkYX)",
+          "text": "https://t.co/8mh3MDqkYX)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "The AI Daily Brief [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@AIDailyBrief",
+          "text": "https://youtube.com/@AIDailyBrief",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/LuNUW7eDB3)",
+          "text": "https://t.co/LuNUW7eDB3)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Lightcone Podcast（Y Combinator） [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=ShYKkP",
+          "text": "https://youtube.com/watch?v=ShYKkP",
+          "type": "url"
+        },
+        {
+          "text": " PhOoc&list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/L6Tuy65f1C",
+          "text": "https://t.co/L6Tuy65f1C",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Lex Fridman [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@lexfridman",
+          "text": "https://youtube.com/@lexfridman",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/oil5DgeGwd)",
+          "text": "https://t.co/oil5DgeGwd)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Dwarkesh Podcast [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=kWcPg8",
+          "text": "https://youtube.com/watch?v=kWcPg8",
+          "type": "url"
+        },
+        {
+          "text": " t1kJ4&list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/67Qj2jVEJa",
+          "text": "https://t.co/67Qj2jVEJa",
+          "type": "url"
+        },
+        {
+          "text": ")\n",
+          "type": "text"
+        },
+        {
+          "text": "2. 大佬在活动 / 大会上演讲的录像 -\n",
+          "type": "text"
+        },
+        {
+          "text": "YC Startup School [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=BJjsfN",
+          "text": "https://youtube.com/watch?v=BJjsfN",
+          "type": "url"
+        },
+        {
+          "text": " O5JTo&list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/0ldLX5nSho",
+          "text": "https://t.co/0ldLX5nSho",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "AI Engineers World Fair [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=U-fMsb",
+          "text": "https://youtube.com/watch?v=U-fMsb",
+          "type": "url"
+        },
+        {
+          "text": " Y-kHY…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/lbxmIJTzlb",
+          "text": "https://t.co/lbxmIJTzlb",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Sequoia AI Ascent [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=v9JBMn",
+          "text": "https://youtube.com/watch?v=v9JBMn",
+          "type": "url"
+        },
+        {
+          "text": " xuPX8&list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/FA3lNBL7Ct",
+          "text": "https://t.co/FA3lNBL7Ct",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Stripe Sessions [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=ONIexC",
+          "text": "https://youtube.com/watch?v=ONIexC",
+          "type": "url"
+        },
+        {
+          "text": " hUpuw&list=PLcoWp8pBTM3CYTQho8i-a_lzx4cq7-ePh…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/7BNsTIHVXH",
+          "text": "https://t.co/7BNsTIHVXH",
+          "type": "url"
+        },
+        {
+          "text": ") -\n",
+          "type": "text"
+        },
+        {
+          "text": "Figma Config [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/watch?v=5q8YAU",
+          "text": "https://youtube.com/watch?v=5q8YAU",
+          "type": "url"
+        },
+        {
+          "text": " TYAyk&list=PLXDU_eVOJTx6rKQR1JEIktXodeHUawC_T…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/r8u3DgLu8A",
+          "text": "https://t.co/r8u3DgLu8A",
+          "type": "url"
+        },
+        {
+          "text": ")\n",
+          "type": "text"
+        },
+        {
+          "text": "3. OpenAI / Anthropic 的官方频道\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@OpenAI",
+          "text": "https://youtube.com/@OpenAI",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/I2jqD9t0VO)",
+          "text": "https://t.co/I2jqD9t0VO)",
+          "type": "url"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@anthropic-ai",
+          "text": "https://youtube.com/@anthropic-ai",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/xcMZeJQuMB)",
+          "text": "https://t.co/xcMZeJQuMB)",
+          "type": "url"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "4. 手把手教你用 AI 工具的干货教程 -\n",
+          "type": "text"
+        },
+        {
+          "text": "Riley Brown [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@rileybrownai",
+          "text": "https://youtube.com/@rileybrownai",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/TWcVHM6IQJ)",
+          "text": "https://t.co/TWcVHM6IQJ)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Greg Isenberg [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@GregIsenberg",
+          "text": "https://youtube.com/@GregIsenberg",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/9ceHIRvod3)",
+          "text": "https://t.co/9ceHIRvod3)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Ras Mic [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@rasmic",
+          "text": "https://youtube.com/@rasmic",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/Z203YAF8RI)",
+          "text": "https://t.co/Z203YAF8RI)",
+          "type": "url"
+        },
+        {
+          "text": " -\n",
+          "type": "text"
+        },
+        {
+          "text": "Mckay Wrigley [",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@realmckaywrig",
+          "text": "https://youtube.com/@realmckaywrig",
+          "type": "url"
+        },
+        {
+          "text": " ley…](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/gNbv5uxvVR",
+          "text": "https://t.co/gNbv5uxvVR",
+          "type": "url"
+        },
+        {
+          "text": ")\n",
+          "type": "text"
+        },
+        {
+          "text": "5. Andrej Karpathy\n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "https://youtube.com/@AndrejKarpathy",
+          "text": "https://youtube.com/@AndrejKarpathy",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/2fIwFU0VBJ)",
+          "text": "https://t.co/2fIwFU0VBJ)",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
@@ -36,6 +972,134 @@
       ]
     },
     "record_id": "recuTE0S01bgIO"
+  },
+  {
+    "fields": {
+      "id": "1078",
+      "发布时间": 1754902260000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "商业",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "哥飞 on X: \"有个老外站长，一套模板做了多个网站，一个关键词一个网站，都是多语言单页工具。\n直接在首页就放工具的核心功能，一个网站只做一个事情，满足一个需求。\nhttps://t.co/dX3nuv40ja 月访问量 42.9K\nhttps://t.co/hvz4bPyzs9 月访问量 53.1K\nhttps://t.co/swq9rWSuho 月访问量 572K https://t.co/dm8AORKZ2Q\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "有个老外站长，一套模板做了多个网站，一个关键词一个网站，都是多语言单页工具。 直接在首页就放工具的核心功能，一个网站只做一个事情，满足一个需求。 \n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://watermarkimage.com",
+          "text": "http://watermarkimage.com",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/kGIAaztUY3",
+          "text": "https://t.co/kGIAaztUY3",
+          "type": "url"
+        },
+        {
+          "text": ") 月访问量 42.9K \n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://compressimage.com",
+          "text": "http://compressimage.com",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/LygInkI1mb",
+          "text": "https://t.co/LygInkI1mb",
+          "type": "url"
+        },
+        {
+          "text": ") 月访问量 53.1K \n",
+          "type": "text"
+        },
+        {
+          "text": "[",
+          "type": "text"
+        },
+        {
+          "link": "http://bulkresizephotos.com",
+          "text": "http://bulkresizephotos.com",
+          "type": "url"
+        },
+        {
+          "text": "](",
+          "type": "text"
+        },
+        {
+          "link": "https://t.co/YqO8TMJtNh",
+          "text": "https://t.co/YqO8TMJtNh",
+          "type": "url"
+        },
+        {
+          "text": ") 月访问量 572K \n",
+          "type": "text"
+        },
+        {
+          "text": "我们群里教的，就是把这些老外们的方法学到，但并不一定是跟他们抢流量，因为整体的流量太大了。 谷歌2025年一篇博客提到，一年谷歌要处理超过5万亿次搜索。 我们站长，其实就是去挖掘出谷歌里还没有很好被满足的搜索需求，做个网站来满足这些需求，从而获取到流量，最终靠流量变现，可以靠广告变现，也可以靠用户付费变现。 \n",
+          "type": "text"
+        },
+        {
+          "text": "海外的站长玩这一套已经玩了十几二十年了，但依然还有得玩。 这也是为什么过去两年，我们不少群友们都有赚到美元的原因。 尤其是即友们，时不时就有人跟我报喜，说靠Adsense赚到第一美金了，说做的工具站有人付费出单了。 \n",
+          "type": "text"
+        },
+        {
+          "text": "以前我们比较少人知道做网站能赚钱，现在让我们知道了，就可以行动起来了，我们中国的程序员聪明又能干，执行力又强，赚美元回中国花，是一件很美的事情。 月薪两万，换算成美元是3000美金，也就是每天100美金。 \n",
+          "type": "text"
+        },
+        {
+          "text": "而不管是靠广告变现，还是靠用户付费，还是靠混合变现，想要实现日入100美金，都是有方法可以跟着去做的。 靠广告可能会需要流量大一些，但靠用户付费的话，按照平均16美金的订单价格，只需要每天有6个订单就足够了。 \n",
+          "type": "text"
+        },
+        {
+          "text": "怎么保证每天都有用户给我们付费呢？ 当然就需要稳定的流量，而SEO流量，相对于其他流量，是更有可能长期稳定的。 更重要的是，SEO流量，不需要花钱买。 无本生意，这绝对是值得做的。 \n",
+          "type": "text"
+        },
+        {
+          "text": "上面说了那么多，不是让你加入我的社群，而是想让你知道有这么一条路，然后就可以探索，去实践。 不一定要加入哥飞社群，互联网上有大量免费的资料可以学习。 之前你可能是缺方向，但现在哥飞把方向告诉你了，你就可以大步向前冲了。 所有的程序员，都值得去试一试，反正成本并不高，即使不成，无非浪费的也是时间。 而如果你要去投资，需要用到本金赚收益，那万一失败，损失可就很大了。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/gefei55",
+        "text": "哥飞",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/gefei55/status/1954827984306946172?t=c5oA-LhMj3VMXDULyrZ91g&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTHPxfac2nK"
   },
   {
     "fields": {
@@ -630,7 +1694,33 @@
       ],
       "正文": [
         {
-          "text": "今天觉得自己公众号排版不好看，各种公众号排版工具乱七八糟还收费，干脆用Cursor搓了一个：nutllwhy.github.io\n支持4种样式，还支持给图片加对应样式的边框\n已开源，明天发教程：github.com",
+          "text": "今天觉得自己公众号排版不好看，各种公众号排版工具乱七八糟还收费，干脆用Cursor搓了一个：",
+          "type": "text"
+        },
+        {
+          "link": "http://nutllwhy.github.io",
+          "text": "nutllwhy.github.io",
+          "type": "url"
+        },
+        {
+          "text": "\n",
+          "type": "text"
+        },
+        {
+          "text": "支持4种样式，还支持给图片加对应样式的边框\n",
+          "type": "text"
+        },
+        {
+          "text": "已开源，明天发教程：",
+          "type": "text"
+        },
+        {
+          "link": "http://github.com",
+          "text": "github.com",
+          "type": "url"
+        },
+        {
+          "text": "",
           "type": "text"
         }
       ],
@@ -641,8 +1731,9 @@
       },
       "链接": [
         {
+          "link": "https://m.okjike.com/originalPosts/6888fed567132b7a3c14fcca?s=eyJ1IjoiNTY3ZmRiODA3MGQ1MjQxMTAwMjI2OGZkIn0%3D",
           "text": "https://m.okjike.com/originalPosts/6888fed567132b7a3c14fcca?s=eyJ1IjoiNTY3ZmRiODA3MGQ1MjQxMTAwMjI2OGZkIn0%3D",
-          "type": "text"
+          "type": "url"
         }
       ]
     },
@@ -1813,8 +2904,9 @@
       },
       "链接": [
         {
+          "link": "https://x.com/Wwwadesk/status/1948635581023748544",
           "text": "https://x.com/Wwwadesk/status/1948635581023748544",
-          "type": "text"
+          "type": "url"
         }
       ]
     },
