@@ -1,6 +1,81 @@
 [
   {
     "fields": {
+      "id": "1094",
+      "发布时间": 1755242018000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "工具",
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "Corey Chiu on X: \"昨天一个主打简化Stripe接入的工具Autumn拿下了ProductHunt的日榜第一\n\n接过Stripe的朋友应该都知道支付相关的代码、webhook代码，还有订阅方案、积分体系设计等都是很复杂的 https://t.co/4KE66g9E7F\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "昨天一个主打简化Stripe接入的工具Autumn拿下了ProductHunt的日榜第一 接过Stripe的朋友应该都知道支付相关的代码、webhook代码，还有订阅方案、积分体系设计等都是很复杂的 https://t.co/4KE66g9E7F",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/CoreyChiu",
+        "text": "Corey Chiu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/realcoreychiu/status/1956171315767075266?t=4c-GD6KpYMfwil-yCjgRmg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTVmDxSTBdh"
+  },
+  {
+    "fields": {
+      "id": "1093",
+      "发布时间": 1755173640000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "AppSail.dev on X: \"全流程分 3 个环节：  \n\n1️⃣开通港卡 \n赴港开户：可选中银香港、汇丰、渣打、工银亚洲、众安、天星、蚂蚁银行等，其中中银、汇丰、众安、天星、蚂蚁可以在线开通，工银亚洲 可以在部分地铁站 VTM 机上面开通，全年无休，渣打 需要到线下开通，可以私聊我介绍客户经理，满足门槛的话现场下卡\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "全流程分 3 个环节： \n1️⃣开通港卡 \n赴港开户：可选中银香港、汇丰、渣打、工银亚洲、众安、天星、蚂蚁银行等，其中中银、汇丰、众安、天星、蚂蚁可以在线开通，工银亚洲 可以在部分地铁站 VTM 机上面开通，全年无休，渣打 需要到线下开通，可以私聊我介绍客户经理，满足门槛的话现场下卡 \n不便赴港：可在大陆远程见证开户，直接开通 [#汇丰卓越](https://x.com/hashtag/%E6%B1%87%E4%B8%B0%E5%8D%93%E8%B6%8A?src=hashtag_click)（50 万资金门槛），再通过大陆账户同步开通香港汇丰卓越。 \n2️⃣开通 Stripe \n境外公司（英国/美国/香港公司）可直接注册 Stripe 主账户。 香港个人也能开（港澳通行证注册）。 \n替代方案：Stripe Express —— 属于 Stripe Connect 账户类型，适用于 Twitter/X、Shopify 等平台的创作者与自由职业者。通过平台邀请，填写姓名、邮箱、银行卡、税务信息即可几分钟搞定。 \n3️⃣港卡资金回流大陆 \n同名账户转账：中银、汇丰、渣打、工银，香港大陆相互转账，同名账户大多可免手续费。 \n跨境支付通：支持多家港陆银行互转，目前 0 手续费。 \n额度分配：以上两项合计占用 5 万美元年度额度； \n日常消费可通过微信、支付宝、银联绑定港卡刷卡，一年也能花掉几万港币/人民币。 \n以及其他更多资金无损快速的回国的方法。 \n本 thread 将一个一个详细分享开通方法以及注意事项，有需要的朋友请点赞收藏加关注，迟早用得上，现在群里很多人都有这个强需求！ [#港卡](https://x.com/hashtag/%E6%B8%AF%E5%8D%A1?src=hashtag_click)[#Stripe](https://x.com/hashtag/Stripe?src=hashtag_click)[#资金回国](https://x.com/hashtag/%E8%B5%84%E9%87%91%E5%9B%9E%E5%9B%BD?src=hashtag_click)\n\n终于把 香港个人 Stripe 绑定到 Twitter 上啦，【可以不用去香港开户，且所有流程都是合规的】 可以获得创作者收入分成了，看看马老板什么时候发工资 下个月试试把收入提取到国内 CNY 银行卡中 如果一切顺利，我就写个教程出来，有需要的朋友不要错过了",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/AppSaildotDEV",
+        "text": "AppSail.dev",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/AppSaildotDEV/status/1955966303581429953?t=AmB5ZA29QZr-UySRRfuv7A&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTVlEsoNved"
+  },
+  {
+    "fields": {
       "id": "1090",
       "发布时间": 1755155820000,
       "平台": [
@@ -35,6 +110,44 @@
       ]
     },
     "record_id": "recuTPHQB3Dzn7"
+  },
+  {
+    "fields": {
+      "id": "1092",
+      "发布时间": 1755134640000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "AI",
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "迈克 Mike Chong on X: \"剩下的机会不多了，剩下的时间也不多了，所以大家应该尽快建立自己的小企业，自己的side project。为什么呢？\n\nAI 工具对老板是利好，对员工来说是利空。所以即使大家私下里对 AI 工具非常了解，也没有兴趣在工作中使用，这只会导致竞争更加内卷，然后工资也没有上涨。这也是我离开创业的原因之一。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "剩下的机会不多了，剩下的时间也不多了，所以大家应该尽快建立自己的小企业，自己的side project。为什么呢？ AI 工具对老板是利好，对员工来说是利空。所以即使大家私下里对 AI 工具非常了解，也没有兴趣在工作中使用，这只会导致竞争更加内卷，然后工资也没有上涨。这也是我离开创业的原因之一。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/mike_chong_zh",
+        "text": "迈克 Mike Chong",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/mike_chong_zh/status/1955802677998445054?t=qqa0oIugDuvFgWhx6G9OFQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTT4tTuYfJz"
   },
   {
     "fields": {
@@ -418,6 +531,43 @@
       ]
     },
     "record_id": "recuTIl2S5yV3g"
+  },
+  {
+    "fields": {
+      "id": "1091",
+      "发布时间": 1754986560000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Corey Chiu on X: \"这个网站的footer内页建设简直教科书级别，足够我学一年！ https://t.co/Bep9K1b0TS\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "这个网站的footer内页建设简直教科书级别，足够我学一年！",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/realcoreychiu",
+        "text": "Corey Chiu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/realcoreychiu/status/1955181502687482152?s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuTT3rSacaWK"
   },
   {
     "fields": {
