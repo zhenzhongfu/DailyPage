@@ -1,6 +1,82 @@
 [
   {
     "fields": {
+      "id": "1101",
+      "发布时间": 1755511980000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "文章"
+      ],
+      "标题": [
+        {
+          "text": "Corey Chiu on X: \"分享一个DR30，免费提交的导航站 findly[dot]tools🚀\n\n是openlaunch @open_launch_  的作者 @Ericbn09 的最新产品，之前是付费收录的，今天看支持免费收录了🔥\n\n跟500tools有点像，但是网站UI看起来要更大气简洁，是我喜欢的风格，并且付费的话是一次性付费，而不是订阅 https://t.co/gFk3SqyFDz\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "分享一个DR30，免费提交的导航站findly[dot]tools🚀 是openlaunch @open_launch_ 的作者 @Ericbn09 的最新产品，之前是付费收录的，今天看支持免费收录了🔥 跟500tools有点像，但是网站UI看起来要更大气简洁，是我喜欢的风格，并且付费的话是一次性付费，而不是订阅",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/realcoreychiu",
+        "text": "Corey Chiu",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/realcoreychiu/status/1957385466136928574?t=tgMtrnfnqO690wsFT4HaGg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUhg2vycBcS"
+  },
+  {
+    "fields": {
+      "id": "1100",
+      "发布时间": 1755491940000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "文章",
+        "思考",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Shen Huang on X: \"一个几乎0粉丝的独立开发者，怎么靠AI赚到钱的？\n\n我扒了一下那个每月被Anthropic“追杀”的Claude Code榜一大哥（月耗5万美金那位 @bourneliu66 ），发现了一个被所有人都严重低估的流量密码。\n\n这哥们最开始X上只有60个粉，完全不靠社交媒体引流。\n\n但他做的AI声音克隆网站anyvoice https://t.co/kfIn7rhqYH\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "一个几乎0粉丝的独立开发者，怎么靠AI赚到钱的？ 我扒了一下那个每月被Anthropic“追杀”的Claude Code榜一大哥（月耗5万美金那位 @bourneliu66 ），发现了一个被所有人都严重低估的流量密码。\n这哥们最开始X上只有60个粉，完全不靠社交媒体引流。 但他做的AI声音克隆网站anyvoice 。net，在Google上“voice cloning ai”这种神仙打架的关键词里，排名仅次于行业巨头ElevenLabs！（截图为证）\n怎么做到的？ 我深挖后发现，他根本没玩什么复杂的增长黑客，就用了一招最朴素的“笨办法”：把自己的产品手动提交到AI导航站（AI Directory）。\n逻辑很简单：\n1. 导航站收录 -> 获得第一批高质量外链 (SEO基础) - 比如aibase 的tool 35704\n2. 科技媒体、Newsletter作者会去导航站找新产品 -> 你的项目被二次报道 -> 获得更多、更强的外链 - 比如科技爱好者周刊（第 333 期）有提到anyvoice\n3. Google权重飙升 -> 搜索排名提升 -> 自然流量滚滚而来\n这套打法完美诠释了什么叫“闷声发大财”。\n受到启发，我立马花了$300请了个国外的SEO专家，让他帮我把自己的小项目也提交了一遍。效果惊人。\n专家那100多个AI导航站的秘籍清单，我直接放下面了，方便大家自取。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/ShenHuang_",
+        "text": "Shen Huang",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/ShenHuang_/status/1957301370106880412?t=86I-YHXs62OAjTLOrry4bw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUfKm3rVApH"
+  },
+  {
+    "fields": {
       "id": "1098",
       "发布时间": 1755449160000,
       "平台": [
