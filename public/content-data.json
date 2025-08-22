@@ -1,6 +1,119 @@
 [
   {
     "fields": {
+      "id": "1109",
+      "发布时间": 1755822600000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"在日常工作中，技术文档、需求说明、会议纪要等等 Word 文档可谓是无处不在。\n\n但对经常在终端工作的开发者来说，每次查看文档都要切换到桌面打开笨重的 Office 工具，挺麻烦的。\n\n最近 GitHub 上诞生了首个专为终端设计的 Word 文档查看器：doxx，不再需要 Microsoft Word 了。\n\n基于 Rust https://t.co/40nHMuUeny\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "在日常工作中，技术文档、需求说明、会议纪要等等Word文档可谓是无处不在。 但对经常在终端工作的开发者来说，每次查看文档都要切换到桌面打开笨重的Office工具，挺麻烦的。 最近GitHub上诞生了首个专为终端设计的Word文档查看器：doxx，不再需要Microsoft Word了。 基于Rust开发，启动快内存占用低，同时保留了文档的完整格式和表格结构，还提供了搜索、导航和多格式导出等实用功能。 GitHub：[http://github.com/bgreenwell/doxx](https://t.co/zmk7JfXFd5) 主要功能： - 终端中完美渲染Word文档，支持格式和颜色保留 - 智能表格显示，自动对齐和专业边框样式 - 交互式导航界面，支持大纲视图和全文搜索 - 多格式导出功能，可转换为Markdown、CSV、JSON - 剪贴板集成，直接复制内容到其他应用 - 图像支持（开发中），在支持的终端中显示图片 提供预编译包下载，也可以通过命令行安装，支持Windows、macOS以及Linux系统。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://GitHubDaily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1958688218863587338?t=-HkWVoGInYz9T4un0tYB2w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUyPJDLgqGe"
+  },
+  {
+    "fields": {
+      "id": "1107",
+      "发布时间": 1755785940000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Ethan-AI 效率玩家 on X: \"作为 Claude Code 重度用户，最让我头疼的是官方 API 的使用费用实在太贵，每次调用都让我感到肉疼。\n\n在网上找了很多的工具例如claude-code-router, claude-code-open 都不是让我很满意，偶然发现了 Claude Code Companion (https://t.co/tJSkC1x3HX)\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "作为 Claude Code 重度用户，最让我头疼的是官方 API 的使用费用实在太贵，每次调用都让我感到肉疼。 在网上找了很多的工具例如claude-code-router, claude-code-open 都不是让我很满意，偶然发现了 Claude Code Companion (https://t.co/tJSkC1x3HX)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/etanphu",
+        "text": "Ethan-AI 效率玩家",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/etanphu/status/1958534454777196722?t=kr4gdI7sEFP27WD2cnZMJQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUymwScLDZW"
+  },
+  {
+    "fields": {
+      "id": "1108",
+      "发布时间": 1755783180000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "思考",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Truman on X: \"一个seo友好，并且能提高用户停留时长的落地页应该怎样设计？这是我今天花了3个小时重写了一个ai工具站做出来的结构：\n\nHeader\nTool Section\nTrustBadges,\nFeatures,\nHowToUse,\nYouTubeVideo,\nXPosts,\nYouMightAlsoLike,\nFAQ\nCTA\nFooter https://t.co/YxOlovPKJT\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "一个seo友好，并且能提高用户停留时长的落地页应该怎样设计？这是我今天花了3个小时重写了一个ai工具站做出来的结构： Header Tool Section TrustBadges, Features, HowToUse, YouTubeVideo, XPosts, YouMightAlsoLike, FAQ CTA Footer 并且从代码层面来看，把这些结构都变成一个一个组件，全部组件里边都没有硬编码的内容，而是从多语言的json文件里边导入内容 以后上内页也方便很多了，原本可能1小时上1个月内页，现在只要整理好内容，10分钟就能完成。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/rumanT260775",
+        "text": "Truman",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/rumanT260775/status/1958522859317559524?t=sl1lZEI0by8bQthXM7uS1Q&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUyspo0NRvj"
+  },
+  {
+    "fields": {
       "id": "1104",
       "发布时间": 1755663600000,
       "平台": [
@@ -1091,6 +1204,43 @@
       ]
     },
     "record_id": "recuTHSXezDsE4"
+  },
+  {
+    "fields": {
+      "id": "1110",
+      "发布时间": 1754957160000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "湾区Kony on X: \"A股、港股还有哪些低估值的科技股和ETF？\n\nA股、港股的科技股和ETF里，\n低估值洼地还藏着不少金子！\n\n别被美股高飞的泡沫晃眼，\n中国市场这波政策红利和资金流入正让科技板块热血沸腾。\n恒生科技指数PE才16倍，A股科创板PE30倍不到，\n远低于纳斯达克的40倍，机会摆在眼前！\n\n低估值科技股仍是香饽饽。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "A股、港股还有哪些低估值的科技股和ETF？ A股、港股的科技股和ETF里， 低估值洼地还藏着不少金子！ 别被美股高飞的泡沫晃眼， 中国市场这波政策红利和资金流入正让科技板块热血沸腾。 恒生科技指数PE才16倍，A股科创板PE30倍不到， 远低于纳斯达克的40倍，机会摆在眼前！ 低估值科技股仍是香饽饽。 \nA股里，兆易创新（存储芯片，PE约25倍）、浪潮信息（AI服务器，PE20倍）、歌尔股份（VR/AR，PE18倍）性价比高，政策推国产替代，业绩增速稳超15%。 \n港股中，腾讯（PE15倍）、中芯国际（PE22倍）被南向资金猛扫，盈利修复势头猛。 \nETF是抓机会的快车道。 恒生科技ETF（513180）年内涨超30%，覆盖腾讯、阿里，费率低至0.2%。 A股中证红利ETF（510880，PE10倍）、科创芯片ETF（588200）吸金凶猛，攻守兼备。 别傻等美股回调，赶紧定投这些ETF， 或者逢低捡点科技龙头。 地缘风险还在，黄金、国债留点底仓， 稳住钱包，搭上中国科技的顺风车！",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/wanquKony",
+        "text": "湾区Kony",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/wanquKony/status/1955058236799033792?t=nuWOxIvbyAohnHVLK88hCQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUzI2ayVpMH"
   },
   {
     "fields": {
