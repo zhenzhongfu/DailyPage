@@ -1,6 +1,83 @@
 [
   {
     "fields": {
+      "id": "1113",
+      "发布时间": 1756044300000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI",
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "AIGCLINK on X: \"这个工具火了，可以用自然语言一键生成安卓和iOS App，Emergent刚上的新功能\n\n以前可以用vibecoding做网页，现在直接出Android / iOS 安装包，比如“帮我做个记账App”即可\n\n另外还上了一个Emergent Pro模式，Agent能力更强，能处理错误、动态调整计划，内置Linux 虚拟机，可访问互联网 https://t.co/KbIVWAwQdm\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "这个工具火了，可以用自然语言一键生成安卓和iOS App，Emergent刚上的新功能 以前可以用vibecoding做网页，现在直接出Android / iOS 安装包，比如“帮我做个记账App”即可 另外还上了一个Emergent Pro模式，Agent能力更强，能处理错误、动态调整计划，内置Linux 虚拟机，可访问互联网 网友反馈Emergent的一键生成体验比较好，输入需求即可获得完整应用，从规划到编程、测试、调试和部署，端到端自动化 [#AIagent](https://x.com/hashtag/AIagent?src=hashtag_click)[#Emergent](https://x.com/hashtag/Emergent?src=hashtag_click)[#APP生成工具](https://x.com/hashtag/APP%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7?src=hashtag_click)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/aigclink",
+        "text": "AIGCLINK",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/aigclink/status/1959618057313349956?s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUQ9wATrasy"
+  },
+  {
+    "fields": {
+      "id": "1112",
+      "发布时间": 1756030380000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "工具",
+        "AI",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "饼干哥哥🍪 on X: \"花了2天时间，整理了 GitHub 上 17 个优秀的 Claude Code 开源项目，希望能帮你打造出效率拉满的 AI 编程工作站。\n\n类型一：工作流编排 / 多代理协作\n\n1. Claude Taskmaster (推测式开发助理) (★ 20.9k)\nhttps://t.co/eQ6PMRxUEf\n一款 AI 驱动的任务管理 https://t.co/PvTybER3h9\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "花了2天时间，整理了GitHub上17个优秀的Claude Code开源项目，希望能帮你打造出效率拉满的AI编程工作站。\n类型一：工作流编排 / 多代理协作\n1. Claude Taskmaster (推测式开发助理) (★ 20.9k) [https://github.com/eyaltoledano/c laude-task-master…](https://t.co/VK4w4rLzlx) 一款AI驱动的任务管理CLI，可将产品规格（PRD）自动转化为可执行的开发任务。\n2. Claude-Flow (★ 6.7k) [https://github.com/ruvnet/claude-flow…](https://t.co/4wrrwvbS4U) 一个先进的AI编排框架，能协调多个Claude代理以“蜂群”形式协同处理复杂任务。\n3. Claude Squad (★ 4.3k) [https://github.com/smtg-ai/claude-squad…](https://t.co/dd0QFw454s) 一个终端应用，允许你通过文本用户界面（TUI）并行管理多个AI编码代理。\n4. Claude Code Spec-Workflow (Spec-Driven Dev) (★ 1.7k) [https://github.com/Pimzino/claude-code-spec-workflow…](https://t.co/qTQMpgPUaX) 一个自动化的规范驱动开发工作流，为功能和错误修复引入了结构化的处理流程。\n5. SuperClaude Framework (★ 13.7k) [https://github.com/SuperClaude-Or g/SuperClaude_Framework…](https://t.co/R2xuK3UQjF) 一个配置框架，通过内置的专业命令和“认知角色”模式来增强Claude Code的能力。\n类型二：后端路由与模型替换\n6. Claude Code Router (★ 14.8k) [https://github.com/musistudio/cla ude-code-router…](https://t.co/bmyb4STKC8) 一个代理工具，能让你的Claude Code前端与OpenAI、Gemini等不同模型后端结合使用。\n7. Claude Code Proxy (OpenAI/Gemini Router) (★ 2.0k) [https://github.com/1rgs/claude-co de-proxy…](https://t.co/QfKup4yCxc) 一个Anthropic API代理，允许Claude Code在非Anthropic模型（如GPT）上运行。\n类型三：交互界面与编辑器集成\n8. Claudia - Claude Code GUI & Toolkit (★ 13.9k) [https://github.com/getAsterisk/cl audia…](https://t.co/5H2rRid4c5) 一款功能强大的桌面GUI应用程序，为Claude Code提供了完整的图形化操作界面。\n9. Claude Code UI (Web/Mobile) (★ 3.3k) [https://github.com/siteboon/claud ecodeui…](https://t.co/xrELCaO8DK) 一个基于Web和移动端的客户端，让你可以在浏览器中远程管理Claude Code会话。\n10. Claude Code Neovim Extension (★ 0.9k) [https://github.com/coder/claudeco de.nvim…](https://t.co/OVrjXQufku) 一个Neovim插件，将Claude Code的完整体验（聊天、代码生成等）无缝集成到编辑器中。\n类型四：生态扩展与能力增强\n11. Awesome Claude Code (★ 12.1k) [https://github.com/hesreallyhim/a wesome-claude-code…](https://t.co/D2EtKZwEYc) 一个精心策划的资源列表，包含了各类命令、模板和CLI工具，是社区的知识库。\n12. Claude Code Subagents Collection (★ 9.9k) [https://github.com/wshobson/agents](https://t.co/VJYGAIefCC) 一个包含超过75个专业子代理的集合，每个代理都充当特定领域的专家。\n13. Claude Code Templates (★ 4.7k) [https://github.com/davila7/claude-code-templates…](https://t.co/dtdBE3V25h) 一个CLI工具，为新项目提供快速启动的配置模板和监控功能。\n14. Awesome Claude Code MCP Servers (★ 3.6k) [https://github.com/appcypher/awes ome-mcp-servers…](https://t.co/9t9v8aA4mf) 一个精选的MCP服务器列表，用于扩展Claude Code与文件系统、数据库等外部工具的交互能力。\n15. CCPlugins - Claude Code Plugins (★ 2.0k) [https://github.com/brennercruvine l/CCPlugins…](https://t.co/lchEPCWzls) 一个包含24个预定义斜杠命令的插件包，用于自动化常见的CLI操作。\n类型五：监控与度量\n16. Claude Code Usage Monitor (★ 4.5k) [https://github.com/Maciek-roboblo g/Claude-Code-Usage-Monitor…](https://t.co/M6oxuunkDy) 一个实时的终端仪表盘，用于在当前会话中监控Token使用量和成本。\n17. CC Usage (Claude Code Usage Analyzer) (★ 7.2k) [https://github.com/ryoppippi/ccus age…](https://t.co/kRF8YNy0Tt) 一个命令行工具，能从本地日志文件中深度分析你的历史Token消耗和成本。\n这些工具不必全都安装，组合使用才能发挥最大威力。\n例如： \n✅ 环境搭建：安装Claude Code Usage Monitor实时监控成本，并使用Claudia获得完整的GUI操作体验。\n✅ 能力增强：在Claudia中集成Claude Code Subagents Collection以获得领域专家能力，并安装CCPlugins封装常用命令。\n✅ 工作流自动化：在项目启动时，用Claude Taskmaster直接读取PRD并自动分解为开发任务。\n你的Claude Code工作流是怎样的？ 还有什么好用的工具没在这份清单里？ 欢迎评论分享。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/binggandata",
+        "text": "饼干哥哥🍪",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/binggandata/status/1959559794408493562?s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuUQ977cXbnd"
+  },
+  {
+    "fields": {
       "id": "1111",
       "发布时间": 1755846840000,
       "平台": [
