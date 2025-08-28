@@ -1,6 +1,192 @@
 [
   {
     "fields": {
+      "id": "1120",
+      "发布时间": 1756350360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"我去，Claude Code 太强了\n\n只要上下文给到位，一把梭做了个Chrome插件。\n\n点击任意页面自动保持到飞书多维表格。 https://t.co/H6JtWoJsIX\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我去，Claude Code 太强了 只要上下文给到位，一把梭做了个Chrome插件。 点击任意页面自动保持到飞书多维表格。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1960901895880421405?t=Aqma6xmrDqrUMAHwyKqxUw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuV96xgWGkTQ"
+  },
+  {
+    "fields": {
+      "id": "1121",
+      "发布时间": 1756350360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"我去，Claude Code 太强了\n\n只要上下文给到位，一把梭做了个Chrome插件。\n\n点击任意页面自动保持到飞书多维表格。 https://t.co/H6JtWoJsIX\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我去，Claude Code 太强了 只要上下文给到位，一把梭做了个Chrome插件。 点击任意页面自动保持到飞书多维表格。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1960901895880421405?t=Aqma6xmrDqrUMAHwyKqxUw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuV9e3InPZpC"
+  },
+  {
+    "fields": {
+      "id": "1122",
+      "发布时间": 1756350360000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"我去，Claude Code 太强了\n\n只要上下文给到位，一把梭做了个Chrome插件。\n\n点击任意页面自动保持到飞书多维表格。 https://t.co/H6JtWoJsIX\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我去，Claude Code 太强了 只要上下文给到位，一把梭做了个Chrome插件。 点击任意页面自动保持到飞书多维表格。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1960901895880421405?t=Aqma6xmrDqrUMAHwyKqxUw&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuV9eZdMHOBE"
+  },
+  {
+    "fields": {
+      "id": "1118",
+      "发布时间": 1756301700000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "云风 on X: \"我教可可从左到右计算减法的竖式草稿，已经完全取代了学校里教的从右向左借位竖式的地位。看来从左至右计算才符合人性。 https://t.co/lbNI0NAcJw\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我教可可从左到右计算减法的竖式草稿，已经完全取代了学校里教的从右向左借位竖式的地位。看来从左至右计算才符合人性。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/cloudwu",
+        "text": "云风",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/cloudwu/status/1960697766944104481?s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuV7rc4eZwfG"
+  },
+  {
+    "fields": {
+      "id": "1119",
+      "发布时间": 1756282320000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "教程",
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"Claude Code 用国产大模型设置方法详细步骤\n\n一、 电脑安装Nodejs 18+\n\n没有的这里下载安装\n\n https://t.co/UinMU6oMUH\n\n安装后，终端中输入下面指令回车：\n\nnpm install -g @anthropic-ai/claude-code\n\n备注：-g  参数代表全局安装，未来在任何终端 Tab 都能用。\n\n二. 设置国产模型 API\n\n核心逻辑： https://t.co/9iIOBqm5OW\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Claude Code 用国产大模型设置方法详细步骤 \n一、 电脑安装Nodejs 18+\n没有的这里下载安装 [https://nodejs.org](https://t.co/3tnWBdhOZH)\n安装后，终端中输入下面指令回车：\n npm install -g @anthropic-ai/claude-code \n备注：-g 参数代表全局安装，未来在任何终端 Tab 都能用。 \n\n二. 设置国产模型 API \n核心逻辑：获取API，设置环境变量 \nAPI：全称 Application Programming Interface，应用程序接口，用于软件间的“交流”和“数据交换”的“桥梁”。 \n环境变量： 用于存储配置信息的“变量”，比如存 API 密钥，让程序知道用哪个国产模型的 API。 \n1. Deepseek 配置 \n获取 API 地址： [https://platform.deepseek.com/api_keys](https://t.co/thyp1ASniJ)\n终端输入以下环境变量并回车\n export ANTHROPIC_BASE_URL=[https://api.deepseek.com/anthropic](https://t.co/3kCuTk1209)\n export ANTHROPIC_AUTH_TOKEN=\"换成你的API\"\n export ANTHROPIC_MODEL=deepseek-chat\n export ANTHROPIC_SMALL_FAST_MODEL=deepseek-chat\n备注： export 的核心作用，让环境变量从\"私人信息\"变成\"公共信息\"，确保启动的程序都能读取到配置。 注意，这也只是临时设置，关闭终端就没了。 要永久保留，需写入终端配置文件，以MacOS 的 zsh Shell为例，输入下面指令回车：\n echo ' export ANTHROPIC_BASE_URL=[https://api.deepseek.com/anthropic](https://t.co/3kCuTk1209) export ANTHROPIC_AUTH_TOKEN=\"换成你的API\" export ANTHROPIC_MODEL=deepseek-chat export ANTHROPIC_SMALL_FAST_MODEL=deepseek-chat' >> ~/.zshrc && source ~/.zshrc \n2. 智谱GLM 4.5 \n获取 API 地址： [https://bigmodel.cn/usercenter/pro j-mgmt/apikeys…](https://t.co/GvGNtNaoxS)\n终端输入以下环境变量并回车\n export ANTHROPIC_BASE_URL=[https://open.bigmodel.cn/api/anthropic](https://t.co/DzBRM4wkhX)\n export ANTHROPIC_AUTH_TOKEN=你的API \n3. Kimi K2 \n获取 API 地址： [https://platform.moonshot.cn/console/api-ke ys…](https://t.co/B8VxWUz0iS)\n终端输入以下环境变量并回车\n export ANTHROPIC_BASE_URL=\"[https://api.moonshot.cn/anthropic/](https://t.co/o1WDVZFcNe)\"\n export ANTHROPIC_API_KEY=\"你的API\"\n\n三、启动国产模型 API 的 Claude \n终端输入 claude 启动。 \n如果想让 AI 自动执行，不需要你的确认，则输入： claude --dangerously-skip-permissions \n\n四、Claude Code 教程 \n强烈推荐吴恩达和Anthropic公司推出的CC教程。 [https://bilibili.com/video/BV1k1bBz TEF5/…](https://t.co/p9b4gt5RNe)\n\n五、小技巧 \n技巧1： 输入 /init ，可以创建一个名字叫[http://CLAUDE.md](https://t.co/lxxWYsskhN)的文件。 能写入编程规范和重要记忆，类似Cursor的Rules功能。 甚至每个文件夹都可创建一个。 让AI写代码更聪明些。 例如，X上著名产品经理 Datou的推荐的这段提示词，亲测好用。 提示词地址： [https://xiangyangqiaomu.feishu.cn/wiki/HfOqw18eU i0nLtkrsxScPEbynmc…](https://t.co/rdTaD5GhC4)\n技巧2： 输入下面指令，每当任务或子任务完成，都有塞尔达音效提示，非常带感。 \n> npm install -g zelda-claude-code@latest",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1960616499519086817?t=QgIMuF_9dmHIDOqg22TTHg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuV7PX9T0Ovp"
+  },
+  {
+    "fields": {
       "id": "1117",
       "发布时间": 1756197554115,
       "平台": [
