@@ -1,6 +1,44 @@
 [
   {
     "fields": {
+      "id": "1123",
+      "发布时间": 1756369680000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "AI",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Viking on X: \"最近 AI 编程的最佳实践：使用 https://t.co/zMCM3R82gv 替换了之前的各种各样的指令文件，每家都有一个格式，维护起来非常麻烦。\n\n如果有人不太熟悉 AGNETS md 可以去它的官网看看：\nhttps://t.co/TyqER0oIq4（这网址厉害，就是文件的名称）\n由 OpenAI、Google https://t.co/3SUZ8BIGQ4\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "最近 AI 编程的最佳实践：使用 [http://AGNETS.md](https://t.co/1VUti7nm4M) 替换了之前的各种各样的指令文件，每家都有一个格式，维护起来非常麻烦。 如果有人不太熟悉 AGNETS md 可以去它的官网看看： [https://agents.md](https://t.co/cFlM033QJ8)（这网址厉害，就是文件的名称） 由 OpenAI、Google 等组织的协作开发，是一个开放格式，得到广泛采用已有 2 万多个开源项目使用，就是一个标准的 Markdown 文件，兼容多个 AI 编码代理（如 OpenAI Codex、Cursor 等，现在12个工具支持），一个文件即可服务于不同工具，减少重复配置，官网里还有怎样写，最佳实践等等。 而且支持嵌套，离文件最近的文件会生效，替换以后就会非常清爽了，只不过 CLAUDE 还不支持，现在还需要单独创建一个文件。 注意替换的时候有个小技巧： 替换完毕以后可以用 \"ln -s [http://AGENTS.md](https://t.co/0sAxFhNavU)[http://AGENT.md](https://t.co/PDvCfJnbwL)\" 创建一个链接，这样可以做到向后兼容。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vikingmute",
+        "text": "Viking",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vikingmute/status/1960982879485485132?t=Or8Xrc8HG-90VhfxL-jHNg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuVdF5vBQVEh"
+  },
+  {
+    "fields": {
       "id": "1120",
       "发布时间": 1756350360000,
       "平台": [
