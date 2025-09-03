@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "1126",
+      "发布时间": 1756781880000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "Nexmoe - Daydreamer & Creator on X: \"OpenDia 让浏览器AI自动化变得简单\n1.  无需切换浏览器，直接在Chrome或Arc中使用\n2.  支持Claude、ChatGPT等多种AI模型，自动操作网页\n3.  保留登录状态和历史记录，实现无缝自动化   \n\n搜索：OpenDia\nhttps://t.co/NuJUKznI4L\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "OpenDia 让浏览器AI自动化变得简单 \n1. 无需切换浏览器，直接在Chrome或Arc中使用 \n2. 支持Claude、ChatGPT等多种AI模型，自动操作网页 \n3. 保留登录状态和历史记录，实现无缝自动化 \n搜索：OpenDia",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/nexmoe",
+        "text": "Nexmoe - Daydreamer & Creator",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/nexmoe/status/1962711696323354808?t=f8ZCNO1GwZqFjYdejcNzYQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuVG72qgQ1vR"
+  },
+  {
+    "fields": {
       "id": "1124",
       "发布时间": 1756704420000,
       "平台": [
