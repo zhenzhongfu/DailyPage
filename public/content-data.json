@@ -1,6 +1,82 @@
 [
   {
     "fields": {
+      "id": "1127",
+      "发布时间": 1756994340000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "饼干哥哥🍪 on X: \"n8n+FastAPI=王炸！免费开源我年入7位数的小红书AI矩阵工作流\n\n拆解我在Vibe Marketing复盘中提过的n8n工作流 ，包含4部分:\n1. 定时触发、多角度生成选题\n2. 逐个生成笔记内容，包括标题、正文\n3. 后端Python把Markdown转成备忘录图片\n4. 笔记内容和图片上传飞书\n\njson&py文件放到了评论区的原文里 🧵 https://t.co/tvZpAHL5Cg\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "n8n+FastAPI=王炸！免费开源我年入7位数的小红书AI矩阵工作流 \n拆解我在Vibe Marketing复盘中提过的n8n工作流 ，包含4部分:\n1. 定时触发、多角度生成选题 \n2. 逐个生成笔记内容，包括标题、正文 \n3. 后端Python把Markdown转成备忘录图片 \n4. 笔记内容和图片上传飞书 \njson&py文件放到了评论区的原文里 🧵",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/binggandata",
+        "text": "饼干哥哥🍪",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/binggandata/status/1963602721287934145",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuVT3aHXXIIt"
+  },
+  {
+    "fields": {
+      "id": "1128",
+      "发布时间": 1756994340000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "文章",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "饼干哥哥🍪 on X: \"n8n+FastAPI=王炸！免费开源我年入7位数的小红书AI矩阵工作流\n\n拆解我在Vibe Marketing复盘中提过的n8n工作流 ，包含4部分:\n1. 定时触发、多角度生成选题\n2. 逐个生成笔记内容，包括标题、正文\n3. 后端Python把Markdown转成备忘录图片\n4. 笔记内容和图片上传飞书\n\njson&py文件放到了评论区的原文里 🧵 https://t.co/tvZpAHL5Cg\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "n8n+FastAPI=王炸！免费开源我年入7位数的小红书AI矩阵工作流 \n拆解我在Vibe Marketing复盘中提过的n8n工作流 ，包含4部分:\n1. 定时触发、多角度生成选题 \n2. 逐个生成笔记内容，包括标题、正文 \n3. 后端Python把Markdown转成备忘录图片 \n4. 笔记内容和图片上传飞书 \njson&py文件放到了评论区的原文里 🧵 https://t.co/tvZpAHL5Cg",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/binggandata",
+        "text": "饼干哥哥🍪",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/binggandata/status/1963602721287934145",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuVT3aLSBtir"
+  },
+  {
+    "fields": {
       "id": "1126",
       "发布时间": 1756781880000,
       "平台": [
