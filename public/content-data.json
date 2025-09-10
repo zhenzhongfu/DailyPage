@@ -1,6 +1,119 @@
 [
   {
     "fields": {
+      "id": "1136",
+      "发布时间": 1757460328986,
+      "平台": [
+        "微博"
+      ],
+      "标签": [
+        "AI",
+        "工具",
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Claude Code使用建议",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "推荐看看这位网友分享的写代码的提示词：http://t.cn/AXPKSCC3 网页链接 ，专业程序员写提示词是不一样的，更精准，引用一目了然👍\n\n我以前用Cursor也这么写，要精确的引用，现在用Claude Code简单省心多了，一般只是关键的文件引用一下，其他的都是让它自己去找，CC在找代码补气上下文方面相当强。\n\n对于不那么专业或者想偷懒省心的话，我的建议是这样的：\n- 首先一定要配合git，因为CC没法回滚代码\n- 有了git，养成好习惯每次让CC更新代码前commit一下，你也可以加到Claude MD文件，让它每次完成任务都帮你commit\n- 配合好git就放心的加 --dangerously-skip-permissions 参数，别中间还要确认，CC最佳实践就是抽卡，也就是你也别想太多太细，先扔个提示词让它写个版本试试看，然后根据结果再调整，要么追加一点要求，要么回滚调整提示词重试\n- 对于复杂一点的任务，shift + tab两次进入plan mode，先让它定个任务计划，确认计划没问题再开始，这样可以有效避免走岔\n- 写好的代码要审查，不要偷懒，审查配合VSCode的 源代码对比视图最直观，GitHub Desktop官方客户端也不错。审查的时候小问题手动就修改了，也不一定要再让它继续。\n- 让CC写单元测试代码或者修复单元测试，要告诉它怎么运行验证单元测试（只运行单个测试文件），这样它就会在写完单元测试代码后运行验证，如果出错了就自己修改，知道运行通过。当然也要审查，有时候它会为了通过测试“不择手段”。\n- 改bug的话，最好就是把错误日志扔给它，那种有错误堆栈的最好，有错误信息、代码行、文件路径的最好，CC能精准的定位到文件和可能的错误位置。\n- 如果没有错误日志就难一些，最好还是先人工复现，能复现后告诉CC重现的步骤、期望的结果、实际结果，可以配合截图。\n- CC的截图很坑，Mac上是Ctrl + V而不是CMD + V，新手很难知道。但截图很有用，在做UI的时候，一图胜千言。\n- 用CC或者AI做项目，多用流行的技术栈，比如React、Nextjs、shadcn/UI、Tailwind CSS这些，效果最好，你不需要教它API怎么写。\n- 如果需要引用外部文档，最好手动把相关文档复制粘贴过去，而不要让它自己联网检索，因为网页内容无关信息太多，不如手动复制粘贴精准。也可以本地建一个文档，让它可以直接读取。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://未提及",
+        "text": "未提及",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/1727858283/5207837774970938",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWlur8ujJmS"
+  },
+  {
+    "fields": {
+      "id": "1135",
+      "发布时间": 1757459822074,
+      "平台": [
+        "微博"
+      ],
+      "标签": [
+        "AI",
+        "新闻",
+        "评论"
+      ],
+      "标题": [
+        {
+          "text": "硅谷版《伪君子现形记》：Anthropic的闹剧",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "### 第一幕：先知出埃及，圣徒觅金主\n话说2019年，OpenAI虽未称霸武林，却已炼出GPT-2这只“小怪兽”。团队里的Dario Amodei大哥，盯着AI生成的文字，仿佛看到世界末日。他高呼AI“失准”的风险，却如对牛弹琴，遂带着悲壮摔门而去，创立Anthropic，要打造“安全”AI。这AI讲笑话都得先写伦理风险评估报告，简直是AI出家。Amodei找到“有效利他主义”信徒投资，领头的“爆炸头”SBF大笔一挥，几亿美金投进Anthropic。\n\n### 第二幕：起了个大早，赶了个晚集\n手握重金，Amodei精心雕琢“数字圣人”Claude。工程师们慢工出细活，给AI套上“安全”紧箍咒。结果Claude推出时，GPT-4已在信息高速上狂飙，Anthropic完美错过“GPT时刻”，Claude安全却能力不足，像被拔了牙的老虎。Amodei见打不过，便跑去告国会。\n\n### 第三幕：道貌岸然上国会，数据表里藏魔鬼\nAmodei摇身一变成为监管拥护者，跑到华盛顿向议员哭诉“开源AI”的危害，实则想让行业跟他们一样“怂”。可训练Claude需要海量知识，实习生提议用盗版网站Libgen的数据，Amodei权衡后决定“干了”。于是Anthropic一边在国会当道德警察，一边用盗版书籍喂养AI，如同用贼赃说教当铺老板。\n\n### 第四幕：圣徒终“殉道”，赔到裤子掉\n很快，作家们发现Claude抄袭，诉状如雪片般飞来。Anthropic人赃并获，因版权盗窃被判赔偿超15亿美元。那位先知最终缔造了一个以“行善”为名，行最大“恶”的公司，所谓“讲台上是道貌岸然的圣徒，数据表里是鸡鸣狗盗的魔鬼”。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://未提及",
+        "text": "未提及",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/1727858283/5208916859553447",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWlsjgtN0CN"
+  },
+  {
+    "fields": {
+      "id": "1137",
+      "发布时间": 1757388780000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"如果你用Claude Code编程，这个网站很值得收藏！\n\n有点像Claude Code插件商店，挑选需要的：\n\n① MCP（比如Context 7、Exa搜索）\n② Agent（如前端开发、Ruby开发提示词和规则）\n③ Hook（比如Telegram、Slack通知、Vercel自动部署）\n\n可以单个复制安装，也可以点击添加到Stack https://t.co/kuhXsoEgAG\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "如果你用Claude Code编程，这个网站很值得收藏！ 有点像Claude Code插件商店，挑选需要的： ① MCP（比如Context 7、Exa搜索） ② Agent（如前端开发、Ruby开发提示词和规则） ③ Hook（比如Telegram、Slack通知、Vercel自动部署） 可以单个复制安装，也可以点击添加到Stack Stack可理解为购物车，选好以后。 自动生成一个统一的指令。 一键安装到你的Claude Code，快速提升AI的专业水平。 也方便团队共享插件协作。 网址见评论区",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1965257306125549881?t=uAK3QZ3DB_U1X2gvPwVaUA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWlLeUEA7r2"
+  },
+  {
+    "fields": {
       "id": "1130",
       "发布时间": 1757378264772,
       "平台": [
@@ -114,6 +227,80 @@
       ]
     },
     "record_id": "recuWg7wszkeS3"
+  },
+  {
+    "fields": {
+      "id": "1139",
+      "发布时间": 1757351580000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Tz on X: \"补充一点额外信息：\n\nTwitterX 插件在 Chrome 的下载地址是：\n\nhttps://t.co/I6oqWau4JH\n\n官网地址是：\n\nhttps://t.co/g2CWAj6aXh\n\n不需要去官网注册订阅付费，就可以使用这个插件的基础功能（例如可以追踪看到一个推特账号最近30天都有发哪些热帖等）\n\n比如这是我自己的： https://t.co/avpSrG1kSW\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "补充一点额外信息： TwitterX 插件在 Chrome 的下载地址是： [https://chromewebstore.google.com/detail/superx-twitter-analytics/bjobgelaoehgbnklgcaaehdpckmhkplk…](https://t.co/I6oqWau4JH) 官网地址是： [https://app.superx.so](https://t.co/g2CWAj6aXh) 不需要去官网注册订阅付费，就可以使用这个插件的基础功能（例如可以追踪看到一个推特账号最近30天都有发哪些热帖等） 比如这是我自己的：",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Tz_2022",
+        "text": "Tz",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Tz_2022/status/1965101285360947510?t=4cXXKxe8vydJcIKPYyP3NQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWnLSSIFJtq"
+  },
+  {
+    "fields": {
+      "id": "1138",
+      "发布时间": 1757343780000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "自媒体",
+        "写作",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "AppSail.dev on X: \"大家经常看到谁谁谁发了一篇文章、一条推特获得了 10w+，甚至是几百万的流量，但是自己却苦于没有内容沉淀，不知道创作什么，发的内容也没有多少人看\n\n今天 @Jackywine  在  XBC 推特助推群 里面分享了两个找到优质信源的策略\n\n1️⃣基于 ReadWise 榜单，以 Top threads saved https://t.co/KzU0jH1h8f\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "大家经常看到谁谁谁发了一篇文章、一条推特获得了 10w+，甚至是几百万的流量，但是自己却苦于没有内容沉淀，不知道创作什么，发的内容也没有多少人看 今天 @Jackywine 在 XBC 推特助推群 里面分享了两个找到优质信源的策略 1️⃣基于 ReadWise 榜单，以 Top threads saved https://t.co/KzU0jH1h8f 为例，这个排行榜汇聚了成千上万推特用户精心收藏的优质 thread，那这些内容就是推上面最受欢迎的内容，基于这些内容进行创作，极大概率也很获得很好的流量，各个平台流行的【天涯神贴 】也是这个道理，本质都是：优质内容在社交网络永远不过时。 2️⃣把 推特助推群 的列表（[https://x.com/i/lists/194602 4931587973394…](https://x.com/i/lists/1946024931587973394)，目前聚集了中推100 位大V）打开，随便选中一位，通过最好用的插件，这里推荐 @tibo_maker 开发的 superX，如截图所示，可以快速了解一位推友的内容数据， 转发他的最高赞内容，并且写上真诚的推荐语，重点在于向你的关注者讲述为什么关注他们 这条 thread 将以这两个策略为出发点，进一步挖掘优质信源，以及基于这些信源的创作方法，感兴趣朋友请评论转发收藏，大家也可以分享一些榜单和优质的推特列表",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/AppSaildotDEV",
+        "text": "AppSail.dev",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/AppSaildotDEV/status/1965068471454343279?t=4cXXKxe8vydJcIKPYyP3NQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWnLK1jUVfo"
   },
   {
     "fields": {
