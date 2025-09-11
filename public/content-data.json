@@ -1,6 +1,44 @@
 [
   {
     "fields": {
+      "id": "1140",
+      "发布时间": 1757506860000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI",
+        "商业"
+      ],
+      "标题": [
+        {
+          "text": "Samruddhi | AI Agents & Automations on X: \"Nano Banana + N8N = AI Creatives Factory\n\nThis AI system creates scroll-stopping visuals at scale using Google's newest image model.\n\nNo designers. No agencies. No $50K creative budgets.\n\nJust endless professional-grade ads that look like top brands made them.\n\nHere's how it https://t.co/OAcYwaUP4M\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Nano Banana + N8N = AI Creatives Factory This AI system creates scroll-stopping visuals at scale using Google's newest image model. No designers. No agencies. No $50K creative budgets. Just endless professional-grade ads that look like top brands made them. Here's how it works: \n→ Upload your product catalog to Airtable \n→ N8N automation scrapes product details and images \n→ Nano Banana creates multiple creative angles for each product \n→ System generates different backgrounds, styles, and compositions automatically \n→ All variations get organized in Airtable with performance tracking ready \nEach visual pennies to generate. You own 100% of the assets forever. Runs 24/7 without touching it. While competitors spend hours in Photoshop or pay agencies thousands per month, you'll be cranking out unlimited variations automatically. Perfect brand consistency across every creative. Built 100% in N8N. Want the complete workflow? Comment \"NANO\" + RT + Like I'll DM you the entire N8N template + Airtable setup (Must be following so I can DM) Skip this and keep paying designers $200 per ad variation.",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/samruddhi_mokal",
+        "text": "Samruddhi | AI Agents & Automations",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/samruddhi_mokal/status/1965752590358237543?t=njsSyg9HztFE22ZtMIdbYg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWrfZZMtNTv"
+  },
+  {
+    "fields": {
       "id": "1136",
       "发布时间": 1757460328986,
       "平台": [
