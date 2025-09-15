@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "1142",
+      "发布时间": 1757849400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "凡人小北 on X: \"看到微软开源的一个项目 MarkItDown，这么小的一个工具获得了 7w+ star。\n 但它干的事儿特别朴素，把各种格式的文件（Word、PDF、Excel、PPT、图片、音频、HTML、JSON、甚至 zip 包）一键变成结构化 Markdown。\n\n是的，保留标题、列表、表格、链接结构的那种 Markdown。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "看到微软开源的一个项目 MarkItDown，这么小的一个工具获得了 7w+ star。 但它干的事儿特别朴素，把各种格式的文件（Word、PDF、Excel、PPT、图片、音频、HTML、JSON、甚至 zip 包）一键变成结构化 Markdown。 是的，保留标题、列表、表格、链接结构的那种 Markdown。\n为什么我会觉得这个工具值得讲讲？因为这其实解决了一个我们常常下意识忽略的问题： 在做 AI 工具链 / 多模态 Agent 的时候，非结构化文件怎么喂给模型？怎么结构保留？怎么对齐输入？ MarkItDown 把这事儿做成了入口标准件。\n它让我们可以构建一条干净的链路：\n1. 业务文件/网页/对话记录/OCR 结果 → Markdown with structure\n2. 再接入 LLM、embedding、Agent 或私有知识库系统\n整个链条让每一个本来不适合进 AI 的文件，都变得适合进 AI。 就这一点，已经超越了文件格式转换工具的定位，把它当成 AI 里文档智能的基建模块也不为过。\npip install 或者用它提供的mcp版本，就全搞定了。微软这波是真的懂工程师在处理数据入口时的痛点。\n这项目能有这么多 star 是因为它处理的恰恰是所有 AI 工作流都要面对的最前一公里。文件乱、格式多、结构丢失等一系列这琐碎问题解决不了，后面你那套 pipeline 其实跑不通的。\n未来我们肯定会有越来越多“agent + 数据 + 多模态”的场景，那些 agent 想干活，第一件事就是把一堆烂七八糟的原始资料读懂，还原出它的结构和语义。 MarkItDown 说白了就是把这个入口的苦活累活都干了。\n这种不 infra 的工具往往才是最重要的 infra。推荐给所有做 LLM 产品的人。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/frxiaobei",
+        "text": "凡人小北",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/frxiaobei/status/1967189317887172866?t=wSABw-IshEY2ZPVGZCnLGQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWQL5IAWbVt"
+  },
+  {
+    "fields": {
       "id": "1141",
       "发布时间": 1757561520000,
       "平台": [
