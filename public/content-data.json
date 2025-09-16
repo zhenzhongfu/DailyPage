@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "1145",
+      "发布时间": 1757913540000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "Harshil Tomar on X: \"X Founder's that Inspire me Everyday :\n\n- @zach_yadegari → 19, Cal AI, $3M MRR\n- @euboid → 20, Senja, $70K MRR\n- @rexan_wong → 17, 400K+ users\n- @desmondhth → $100K from B2C app\n- @alexcooldev → $20k/m from 200k+ users\n- @marc_louvion → code fast founder, millionare\n-\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "X Founder's that Inspire me Everyday : - \n[@zach_yadegari](https://x.com/zach_yadegari)\n → 19, Cal AI, $3M MRR - \n[@euboid](https://x.com/euboid)\n → 20, Senja, $70K MRR - \n[@rexan_wong](https://x.com/rexan_wong)\n → 17, 400K+ users - \n[@desmondhth](https://x.com/desmondhth)\n → $100K from B2C app - \n[@alexcooldev](https://x.com/alexcooldev)\n → $20k/m from 200k+ users - \n[@marc_louvion](https://x.com/marc_louvion)\n → code fast founder, millionare - \n[@levelsio](https://x.com/levelsio)\n → photo ai founder, lex featured - \n[@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE)\n → 7 Apps, $52000 MRR - \n[@nico_jeannen](https://x.com/nico_jeannen)\n → Ads guys, $200k exit - \n[@heysatya_](https://x.com/heysatya_)\n → Agency Founder, Banger Design - \n[@johnrushx](https://x.com/johnrushx)\n → super cracked org w/ scale - \n[@_mattwelter](https://x.com/_mattwelter)\n → reel farm founder, marketing guru - \n[@tibo_maker](https://x.com/tibo_maker)\n → $8 M exit, apps w/ $130k+ MRR - \n[@jia_seed](https://x.com/jia_seed)\n → built sprint $48k rev, 20k users - \n[@robj3d3](https://x.com/robj3d3)\n→ founder superX, $8k MRR, banger product Drop more in the comments for the community to discover !",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Hartdrawss",
+        "text": "Harshil Tomar",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Hartdrawss/status/1967458353199886686",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWW91JtDrEm"
+  },
+  {
+    "fields": {
       "id": "1142",
       "发布时间": 1757849400000,
       "平台": [
@@ -35,6 +72,79 @@
       ]
     },
     "record_id": "recuWQL5IAWbVt"
+  },
+  {
+    "fields": {
+      "id": "1144",
+      "发布时间": 1757753700000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Dalong.AI on X: \"每次做新网站都要疯了\n先找个logo生成器，做完logo再去找favicon工具，然后还要各种尺寸的图标，apple touch icon，最后为了SEO还得搞og图片...\n\n实在受不了，就自己做了个https://t.co/chrUUJCILz\n\n现在一个工具就能搞定所有图片需求，终于不用到处找工具了😂\n\n#WebDev #Logo #Favicon\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "每次做新网站都要疯了 先找个logo生成器，做完logo再去找favicon工具，然后还要各种尺寸的图标，apple touch icon，最后为了SEO还得搞og图片... 实在受不了，就自己做了个[http://logofast.app](https://t.co/chrUUJCILz) 现在一个工具就能搞定所有图片需求，终于不用到处找工具了😂 #WebDev #Logo #Favicon",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Dalong_AI",
+        "text": "Dalong.AI",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Dalong_AI/status/1966787763891536324?t=ZeZsVcV8P7Mw5fKhlWlfug&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWUWniKjlNO"
+  },
+  {
+    "fields": {
+      "id": "1143",
+      "发布时间": 1757686560000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "Nexmoe - Dreamweaver on X: \"爬不到整页数据时我抓狂了。\n以前用别家不是收费就是残页。现在我一句`crwl https://t.co/YCJcWngE5G --deep-crawl bfs`，整站干净 Markdown 秒到，省 16 刀会员。开源、无需账号，它就是 Crawl4AI\nhttps://t.co/0Ern4IcmZW\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "爬不到整页数据时我抓狂了。 以前用别家不是收费就是残页。现在我一句`crwl [https://bbc.com](https://t.co/YCJcWngE5G) --deep-crawl bfs`，整站干净 Markdown 秒到，省 16 刀会员。开源、无需账号，它就是 Crawl4AI",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/nexmoe",
+        "text": "Nexmoe - Dreamweaver",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/nexmoe/status/1966506311387844646?t=r6fAAmnIqW0iYjroZLMgUA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuWUUexJOw6O"
   },
   {
     "fields": {
