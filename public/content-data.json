@@ -1,6 +1,112 @@
 [
   {
     "fields": {
+      "id": "1153",
+      "发布时间": 1758268950329,
+      "平台": [
+        "微博"
+      ],
+      "标题": [
+        {
+          "text": "每天睡前命令AI通宵加班的Prompt",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "我先睡觉了，所有产品和技术决策由你来掌控，明早我来验收成果\n大概睡8小时，所以不要急着出结果，所有细节你慢慢做，不要节约token，做对最重要\n遇到不确定的，先查一下context7里的文档，还不确定地，网上搜索一下\n所有子任务分阶段执行，每个阶段完了都跑一下单测，以免全搞完了发现不行要推倒重来\nUI部分不要纠结，尽量用主流通俗写法，明天我来打磨细节，你搞定功能就行",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "http://Lex Tang",
+        "text": "Lex Tang",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://weibo.com/2194035935/5212313080299742",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXedkudOUGM"
+  },
+  {
+    "fields": {
+      "id": "1152",
+      "发布时间": 1758258000000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "新闻"
+      ],
+      "标题": [
+        {
+          "text": "向阳乔木 on X: \"GitHub 发布了一个包含 39个官方合作伙伴 MCP。\n\n支持一键点击安装在VS Code中。\n\n看了一眼，多数是开发倾向工具，比如Content7、Playwright、Github、Firecrawl等。\n\n地址见评论 https://t.co/UhXiBNhsMQ\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "GitHub 发布了一个包含 39个官方合作伙伴 MCP。 支持一键点击安装在VS Code中。 看了一眼，多数是开发倾向工具，比如Content7、Playwright、Github、Firecrawl等。 地址见评论",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/vista8",
+        "text": "向阳乔木",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/vista8/status/1968902911959662800?t=Ak7A2aLCRuOamZ0LQWGNLQ&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXe4FK3AXYS"
+  },
+  {
+    "fields": {
+      "id": "1151",
+      "发布时间": 1758248280000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "李举刚 on X: \"md2wechat是@seekjourney 做的一款md排版工具，非常优雅，是我用过的md中颜值最高的一个，我很喜欢这种风格。\n\n之前就在赛博禅心公众号看到这个排版，当时感觉非常不错，一直不知道使用哪个工具，今天偶然看到了md2wechat ，一看原来是这款产品。\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "md2wechat是@seekjourney 做的一款md排版工具，非常优雅，是我用过的md中颜值最高的一个，我很喜欢这种风格。 之前就在赛博禅心公众号看到这个排版，当时感觉非常不错，一直不知道使用哪个工具，今天偶然看到了md2wechat ，一看原来是这款产品。 顺带吆喝一下，大家可以试试看，作者也超励志的一个人，优秀的人、优秀的产品，值得被大家关注。 [https://md2wechat.cn](https://t.co/PV9ngDAe6V)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/justinleei",
+        "text": "李举刚",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/justinleei/status/1968862342063820969",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXdHbIxizEt"
+  },
+  {
+    "fields": {
       "id": "1150",
       "发布时间": 1758200940000,
       "平台": [
@@ -20328,215 +20434,5 @@
       ]
     },
     "record_id": "recuRaCh8mVFnI"
-  },
-  {
-    "fields": {
-      "id": "902",
-      "发布时间": 1726587290000,
-      "封面": [
-        {
-          "text": "http://sns-webpic-qc.xhscdn.com/202506181025/5e78046214bee27e760d14c12ce6839e/1040g2sg317rr01rik6c05pb21lfk17gftovvftg!nd_dft_wlteh_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202506181025/f6bd389f4be52ab4a7b0abf5991867b3/1040g2sg317rr01rik6b05pb21lfk17gffictu90!nd_dft_wlteh_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202506181025/9f2f71ab75130eadbd5f3dda17760e93/1040g2sg317rr01rik6bg5pb21lfk17gf6vg2r08!nd_dft_wlteh_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202506181025/173351bf72bb3753ef70012e553020f5/1040g2sg317rr01rik6d05pb21lfk17gfqlv4fvg!nd_dft_wgth_jpg_3\nhttp://sns-webpic-qc.xhscdn.com/202506181025/46c8ef0dc5959d978af259f8e9aef76b/1040g2sg317rr01rik6905pb21lfk17gf0b0urm0!nd_dft_wgth_jpg_3",
-          "type": "text"
-        }
-      ],
-      "平台": [
-        "小红书"
-      ],
-      "标签": [
-        "文章"
-      ],
-      "标题": [
-        {
-          "text": "（安卓！）轻度时间管理也能度过充实的假期",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "你还在眼红ios用户漂亮充实的日历视图吗？作为日历📅的重度使用者，我好像探索出了属于【安卓】用户自己的时间管理路径🥹🫶🏻\n",
-          "type": "text"
-        },
-        {
-          "text": "-\n",
-          "type": "text"
-        },
-        {
-          "text": "更适用于这样的生活管理观念：侧重于【记录】而非【计划】（准备写篇稿子分享我的看法）\n",
-          "type": "text"
-        },
-        {
-          "text": "-\n",
-          "type": "text"
-        },
-        {
-          "text": "请结合日历看我中秋三天不高效但是很集中地做了些啥！\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅ 进行了轻度运动\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅看了一部电影\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅啃完了pre指定的著作并做了读书笔记（虽然过程非常抓狂差点没坚持下来）\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅把上周的课程笔记差不多都补完了（不过老师上课1.5h我下来要花3h重新梳理😱效率有望提升！！不能当太贪心的完美主义者）\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅收尾搞定了我对学习使用obsidian的大部分需求\n",
-          "type": "text"
-        },
-        {
-          "text": "• ✅写了一篇分享小笔记然后收获了这个号最多的小♥️\n",
-          "type": "text"
-        },
-        {
-          "text": "根据我的日历视图，我发现可以改进的有：🙅🏻‍♀️刷某站的时间太长了，🙅🏻‍♀️这几天一直熬夜但是早上又醒得很早，🙅🏻‍♀️没有给时间在notion记录三餐，🙅🏻‍♀️出门时间太短！\n",
-          "type": "text"
-        },
-        {
-          "text": "--\n",
-          "type": "text"
-        },
-        {
-          "text": "而这些，都是通过我自己在macrodroid上写的自动化宏来完成的！（你可以理解为ios的快捷指令和自动化运行，而我的其中一个宏就是calflow的软件计入日历功能）\n",
-          "type": "text"
-        },
-        {
-          "text": "💡通过🍅番茄todo+日历的集成，基本实现了每次行动都能有数据记录、并且可视化的诉求。对比几个月前我发的求助笔记，我发现通过开发属于自己的“程序”，我的完美主义也在得到改善。\n",
-          "type": "text"
-        },
-        {
-          "text": "-\n",
-          "type": "text"
-        },
-        {
-          "text": "😶以前我想的是一劳永逸地解决时间管理的问题，但是在自己摸索的过程中，我越来越意识到，它是是一个不断改进的动态发展，而我的需求和我的观念会改变，“一劳永逸”本来就是一个固化思维！\n",
-          "type": "text"
-        },
-        {
-          "text": "• 所以现在我的方式是，用番茄todo来计时，并使用它的数据分析来观察自己一天【可支配时间】（睡眠/上课之外）的用途类别。用日历分类的不同颜色，来宏观地复盘自己每个时间段和专注度！\n",
-          "type": "text"
-        },
-        {
-          "text": "（这个宏的教程和展示还在写，所以要慢一点分享🥲最近太忙了）\n",
-          "type": "text"
-        },
-        {
-          "text": "        \n",
-          "type": "text"
-        },
-        {
-          "text": "你好，我是吞拿鱼手卷tuna，关注我，来请和我一起见证我们共同的成长吧🎆🎆\n",
-          "type": "text"
-        },
-        {
-          "text": "        \n",
-          "type": "text"
-        },
-        {
-          "text": "#时间管理[话题]# #安卓[话题]# #人生管理[话题]# #自我提升[话题]# #个人成长[话题]# #成长[话题]# #学习[话题]# #study_account[话题]#",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "http://吞拿鱼手卷",
-        "text": "吞拿鱼手卷",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "http://xhslink.com/a/GilbzoCX5hefb",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuOr3z4E0QdT"
-  },
-  {
-    "fields": {
-      "id": "869",
-      "发布时间": 1709004633000,
-      "封面": [
-        {
-          "text": "http://sns-webpic-qc.xhscdn.com/202506082057/e5397b5eeef84e5d887fc25be1e05091/1040g00830vlr50ct5s005o82isfg8gl61hsk0lg!nd_dft_wlteh_jpg_3",
-          "type": "text"
-        }
-      ],
-      "平台": [
-        "小红书"
-      ],
-      "标签": [
-        "文章",
-        "思考"
-      ],
-      "标题": [
-        {
-          "text": "火箭男孩—如何让孩子的兴趣变成长期爱好？",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "首先常规的就是买相关的玩具和书，在自己的预算内不断的买，然后也要慢慢引导孩子自己去找书单和玩具，毕竟随着孩子兴趣的深入，家长基本已经get不到孩子的关注点了，所以这一步很重要，让他参与书和玩具的选择和购买。嗯，是不是突然发现孩子会比价格、比产品、逛网站了，然后就是假期找时间逛相关的科技馆、博物馆和景点以及论坛，让他去安排行程和规划路线，这一步挺烧时间和金钱的，量力而行。这一套操作下来，是不是发现孩子会认地理地图和时间管理了？后边就是骚操作了。为了让孩子获得更大的成就感，一定要让他知道，家长为他的兴趣和努力自豪。比如早期我家为了孩子有荣誉感，就时常把他的成就和作品。赖在家里，把他的绘画、涂鸦做成抱枕、马克杯、装饰画等等，让他给身边的人讲课，鼓励他去分享他的知识和见解，这样他就会再次返回来巩固确认自己的学识，这就是费曼学习法，通过输出，然后检验自己的能力。在此期间可以让他去学简单的WPS三件套，去做课件，好，是不是这样又学会了3个软件？当他了解到他的理论知识理解的极限之后，就开始鼓励他动手实操了。乐高拼搭砖块玩多了之后就是去玩各类科学盒子、化学小实验、电路、拼搭玩具等等，看这样一套操作入门的物化生是不是就开始了，然后就去鼓励他用纸壳、剪刀、马克笔去做一些相关兴趣的模型，时间长了，孩子就会发现自己做的模型太糙了，怎么办？兴趣在这儿，能力又不够，那就可以开始让他去学电脑建模，你喜欢动物就去建模做动物，喜欢飞机大炮就用电脑去做飞机大炮啊。三维软件也开始学了，然后做完模型是不是又发现这只是电脑文件，没有实物呀？3D打印机这时候就可以安排了当他用3D打印机打印完之后，发现这全都是摆件啊。没有灵动性那怎么办？至少也得给模型加个灯泡开关啥的啦。之前玩电子积木，基本电路已经懂了，这就开始深入电子电路的学科，模型做完之后是不是就可以开始想办法控制它控制那就需要学编程和嵌入了，这又可以让他自发性的去对这些知识深入学习了吧？做着做着是不是发现3D打印的材料全都是塑料呀，各种材料学是不是可以安排学习了？全部搞定了，是不是发现做完的成品没有自己想象的好，电脑各类仿真软件和相关基础理论学科是不是要去学习？就这样从一个兴趣给他拓展开，让他不断去探索新的方向，从喜好到实践再到理论，不断的反复验证自己和提升自己。Reference：谁家那小谁\n#育儿分享[话题]# #小学生[话题]#",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "http://芋头崽儿",
-        "text": "芋头崽儿",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "http://xhslink.com/a/84N9tmv9cOseb",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuNx9sOBUb3b"
-  },
-  {
-    "fields": {
-      "id": "884",
-      "发布时间": 1704104820000,
-      "平台": [
-        "即刻"
-      ],
-      "标签": [
-        "自媒体",
-        "商业"
-      ],
-      "标题": [
-        {
-          "text": "在小红书赚钱 打开想象力 - 即刻App",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "从在小红书赚钱 打开想象力 - 即刻App\n\n即刻App 年轻人的同好社区\n下载\n[在web版打开](https://web.okjike.com/originalPost/684aab98083a31536e8894e5)\n\n[](https://m.okjike.com/users/42C8DD94-64EC-4D3E-9CCC-C8F00A01F135)\n\n在小红书赚钱\n打开想象力\n\n![Image 1](https://cdnv2.ruguoapp.com/FpLOuJHgyDEji1Azo-El96VKpbCyv3.png?imageMogr2/auto-orient/thumbnail/1500x2000%3E)\n\n8 0 0\n来自圈子\n----\n[![Image 2: 圈子图片](https://cdnv2.ruguoapp.com/FiA_br4bHNQlhHnu0txNLLZii_-C.png?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/120x120%3E) ### 运营的日常 114690 人已经加入 加入](https://m.okjike.com/topics/5ab9c9ed2ca389001ba1feb5)",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://m.okjike.com/users/42C8DD94-64EC-4D3E-9CCC-C8F00A01F135",
-        "text": "Luuuuke",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://m.okjike.com/originalPosts/684aab98083a31536e8894e5?s=eyJ1IjoiNTY3ZmRiODA3MGQ1MjQxMTAwMjI2OGZkIn0%3D",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuNTYG1p2rNi"
   }
 ]
