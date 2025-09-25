@@ -1,6 +1,118 @@
 [
   {
     "fields": {
+      "id": "1159",
+      "发布时间": 1758791760000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "商业",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "Dan Kulkov on X: \"my SEO strategy:\n\n1. build 28 free tools\n2. do p-seo on them (business plan for X, Y, Z)\n\nresults:\n- 1500+ clicks from Google / day\n- $6000+ in revenue / mo https://t.co/GnjLT320ap\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "my SEO strategy: 1. build 28 free tools 2. do p-seo on them (business plan for X, Y, Z)\nresults: - 1500+ clicks from Google / day - $6000+ in revenue / mo",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/DanKulkov",
+        "text": "Dan Kulkov",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/DanKulkov/status/1971141824480936424?t=X-JNWEqXcqnA2aDbM67JXg&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXOrrM3x4j2"
+  },
+  {
+    "fields": {
+      "id": "1158",
+      "发布时间": 1758785400000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "AI"
+      ],
+      "标题": [
+        {
+          "text": "GitHubDaily on X: \"想要时刻了解 AI 发展最新动态，社区 Reddit 上面的帖子讨论是一个不错的渠道，但日常比较忙，怕错过一些重要信息。\n\n刚刚，在 GitHub 上找到了 Reddit Ai Trends 这个开源工具，自动监控多个 Reddit AI 社区并为我们生成综合趋势分析。\n\n通过它可以每日自动收集各 AI https://t.co/wBtSU6lXwD\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "想要时刻了解 AI 发展最新动态，社区 Reddit 上面的帖子讨论是一个不错的渠道，但日常比较忙，怕错过一些重要信息。 刚刚，在 GitHub 上找到了 Reddit Ai Trends 这个开源工具，自动监控多个 Reddit AI 社区并为我们生成综合趋势分析。 通过它可以每日自动收集各 AI 社区的热门讨论，智能分析技术趋势和突破性进展，还支持中英双语报告输出，轻松了解 AI 发展趋势。 GitHub：[http://github.com/liyedanpdx/red dit-ai-trends…](https://t.co/zdPtoqkC3h) 主要功能： - 实时监控多个 AI 相关 subreddit，全面覆盖行业讨论； - 智能生成深度趋势分析，包含今日焦点和历史对比； - 支持中英双语报告，满足不同用户阅读需求； - 按年月日有序存储报告，便于查阅历史趋势； - MongoDB 数据持久化，支持长期数据分析； - Docker 容器化部署，一键启动自动化监控。 通过 Docker Compose 即可快速部署，配置 Reddit 和 Groq API 密钥后即可开始使用。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/GitHub_Daily",
+        "text": "GitHubDaily",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/GitHub_Daily/status/1971114951076135107?s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXNSShx3FXN"
+  },
+  {
+    "fields": {
+      "id": "1157",
+      "发布时间": 1758642540000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "自媒体",
+        "AI",
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "dontbesilent on X: \"已提现实现布局 150+ 国家和地区的自媒体业务\n\n人物替换：Wan-AI/Wan2.2-Animate\n数字人配音：Eleven Labs\n多语种视频翻译：Heygen https://t.co/G3ZWDYp8mJ\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "已提现实现布局 150+ 国家和地区的自媒体业务\n人物替换：Wan-AI/Wan2.2-Animate\n数字人配音：Eleven Labs\n多语种视频翻译：Heygen",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/dontbesilent12",
+        "text": "dontbesilent",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/dontbesilent12/status/1970515803742339274?t=poLopmdjESNz8kxop3H_Ew&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXLr47luT0n"
+  },
+  {
+    "fields": {
       "id": "1156",
       "发布时间": 1758630420000,
       "平台": [
@@ -20316,115 +20428,5 @@
       ]
     },
     "record_id": "recuFMbdvJHrxK"
-  },
-  {
-    "fields": {
-      "id": "517",
-      "发布时间": 1742278440000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "工具"
-      ],
-      "标题": [
-        {
-          "text": "Ping. on X: \"没有公网 IP 的推荐大家这个工具，这也太方便了\nhttps://t.co/5FoPNK5snJ\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "没有公网 IP 的推荐大家这个工具，这也太方便了",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/pingchn",
-        "text": "Ping.",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/pingchn/status/1901879759115857923?t=DiUW79u79A48JQRdopaHlQ&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFVLw6l6ssW"
-  },
-  {
-    "fields": {
-      "id": "652",
-      "发布时间": 1742265360000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "AI",
-        "工具"
-      ],
-      "标题": [
-        {
-          "text": "Justin3go on X: \"2025，你完全可以成为一人公司，超级个体的时代已经到来！\n\n日常AI使用？ -> https://t.co/5XjJiMDhhu(可自部署)、https://t.co/OKDkySXFCL\n网站模版？ -> https://t.co/9PTVAvO4B8(全免费) + AI编码\n网站搭建？ -> https://t.co/uKTBvuAaSP、https://t.co/trnV35aXyU\n不会编码？ -> https://t.co/FGQNsSoTlp\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "2025，你完全可以成为一人公司，超级个体的时代已经到来！\n日常AI使用？ -> [http://LobeChat.com](https://t.co/0FuNi3OLAM)(可自部署)、[http://Juchat.com](https://t.co/JgGX6xr2Jc)\n网站模版？ -> [http://Template0.com](https://t.co/M9su5wu25J)(全免费) + AI编码\n网站搭建？ -> [http://Framer.com](https://t.co/azuAVcAg0m)、[http://Webflow.com](https://t.co/KHyuPTLBO9)\n不会编码？ -> [http://Cursor.com](https://t.co/sMKDo6ghO4)(体验好)、[http://Trae.ai](https://t.co/crZMtR22IH)(免费)\n口播卡顿？ -> [http://Capcat.com](https://t.co/WLWLG1RFBX)(智能口播、AI数字人)\n画流程图？ -> [http://Excildraw.com](https://t.co/e8hNcRouka)(AI生图)、[http://Draw.io](https://t.co/J6mFpIqFuA)\n宣传图？ -> [http://Canva.com](https://t.co/gXNGclDx8Z)、稿定设计(更适合国内宝宝)、[http://Shot.so](https://t.co/qGYHxP2KPj)(截图美化)\n智能体搭建？ -> [http://Coze.com](https://t.co/KJX9Kxoq4z)(助你提效)、[http://Dify.ai](https://t.co/K4cTRz1fR8)(开源)\n个人知识库？ -> [http://Obsidian.md](https://t.co/sDllJFcyVR)(免费)、[http://Feishu.cn](https://t.co/n4S4868uLJ)(生态)\n图文视频？ -> [http://Klingai.com](https://t.co/V8LLv5EWJz)、[http://Recraft.ai](https://t.co/ibpVzVVfgi)(每天50次)\n教程演示录制？ -> Focusee(实惠)、ScreenStudio(功能丰富)\n以前不敢想的事，现在都能自己做！",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/Justin1024go",
-        "text": "Justin3go",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/Justin1024go/status/1901824909506154700?t=1gfaxExnmUYzWoUN_18H4Q&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuIeGLniD55I"
-  },
-  {
-    "fields": {
-      "id": "520",
-      "发布时间": 1742226180000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "新闻",
-        "AI"
-      ],
-      "标题": [
-        {
-          "text": "@levelsio on X: \"I'm organizing the\n\n🌟 2025 Vibe Coding Game Jam\n\nDeadline to enter: 25 March 2025, so you have 7 days\n\n- anyone can enter with their game\n- at least 80% code has to be written by AI \n- game has to be accessible on web without any login or signup and free-to-play (preferrably its https://t.co/xh1A8SXO9P\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "I'm organizing the 🌟 2025 Vibe Coding Game Jam Deadline to enter: 25 March 2025, so you have 7 days - anyone can enter with their game - at least 80% code has to be written by AI - game has to be accessible on web without any login or signup and free-to-play (preferrably its own domain or subdomain) - game has to be multiplayer by default - can use any engine but usually ThreeJS is recommended - NO loading screens and heavy downloads (!!!) has to be almost instantly in the game (except maybe ask username if you want) The jury: me, and I will ask some real game dev people to jury too Gold, silver and bronze winners will be tweeted out and if companies want to sponsor prizes that works too General sponsors welcome to, just DM me! I hope this will help give the best vibe coded games more distribution! I'll add a form to enter your game below this tweet",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/levelsio",
-        "text": "levelsio",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/levelsio/status/1901660771505021314?t=KWjIC1lPgZjbKtaddck9yg&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFVUMuXuJA6"
   }
 ]
