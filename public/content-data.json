@@ -1,6 +1,43 @@
 [
   {
     "fields": {
+      "id": "1160",
+      "发布时间": 1758860700000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具",
+        "讨论"
+      ],
+      "标题": [
+        {
+          "text": "极客杰尼 on X: \"独立开发者最痛苦的时刻，代码不是卡点，我发现要花大量时间，去搞那些上架用的截图和图标？\n\n我之前从 0 到 1 上线自己的谷歌浏览器插件 feishu-md2wechat 时，就被这堆杂事折磨得够呛，确实是一个很大的痛点。\n\n截图要一张张调尺寸和样式，应用图标要做一堆不同 size 的，来回导出命名。。。 https://t.co/Jngd2cexq2\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "独立开发者最痛苦的时刻，代码不是卡点，我发现要花大量时间，去搞那些上架用的截图和图标？ 我之前从 0 到 1 上线自己的谷歌浏览器插件 feishu-md2wechat 时，就被这堆杂事折磨得够呛，确实是一个很大的痛点。 截图要一张张调尺寸和样式，应用图标要做一堆不同 size 的，来回导出命名。。。 提审的材料步骤太多，我专门还整理一个 Chrome Web Store 提交审核完整指南，后续再有产品上架直接丢给大模型生成所有提审物料即可。 我当时就觉得，这堆繁琐的事完全可以 SOP 化，搜了一下发现真的有人在这种细分场景做产品。只不过大部分人不知道，今天我毫无不留的分享一下，详见评论区![Image 2: 👇](https://abs-0.twimg.com/emoji/v2/svg/1f447.svg)。 1. 神器一：应用商店截图生成器 2. 神器二：谷歌插件图标尺寸生成器 欢迎大家补充自己的效率神器，只要能解决任何一个小环节的痛点都可以分享一下，Web 建站，App 上架，浏览器插件等等。 独立开发时间很宝贵，一定要聚焦到产品本身，用好工具，省下时间去创造真正有价值的东西。",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/seekjourney",
+        "text": "极客杰尼",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/seekjourney/status/1971430992104829343?t=lFoHEZhD2m6DDbeNgDfi2A&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuXTpHOGhXSt"
+  },
+  {
+    "fields": {
       "id": "1159",
       "发布时间": 1758791760000,
       "平台": [
@@ -20373,60 +20410,5 @@
       ]
     },
     "record_id": "recuFMkXfutiVV"
-  },
-  {
-    "fields": {
-      "id": "480",
-      "发布时间": 1742280451307,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "教程",
-        "工具"
-      ],
-      "标题": [
-        {
-          "text": "被减数 on X: \"简易复刻下这个被很多人问的动态流程图\n\n每次底下都很多人问怎么制作，就是不回答😅\n\nhttps://t.co/uvwQ5HJVpS https://t.co/EHUJxbsqVc\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "简易复刻下这个被很多人问的动态流程图 每次底下都很多人问怎么制作，就是不回答😅 ",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/uvwQ5HJVpS",
-          "text": "https://t.co/uvwQ5HJVpS",
-          "type": "url"
-        },
-        {
-          "text": " ",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/EHUJxbsqVc",
-          "text": "https://t.co/EHUJxbsqVc",
-          "type": "url"
-        },
-        {
-          "text": "",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/Lessnoise365",
-        "text": "被减数",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/Lessnoise365/status/1900679997612052627",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFMbdvJHrxK"
   }
 ]
