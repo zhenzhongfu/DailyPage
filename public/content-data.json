@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "1161",
+      "发布时间": 1759160700000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "思考"
+      ],
+      "标题": [
+        {
+          "text": "Tungcq431 on X: \"非常认同哥飞大佬的观点，GEO要做，但SEO更要做（SEO是基础），现在一般都是两条线GEO/SEO一起做，这是底层逻辑~\n\n最近在研读Zac大神的《SEO实战密码·第5版》，相较第4版，其中就加了GEO的部分，非常值得大家也去阅读此书，并关注此网站：SEO每天一贴https://t.co/tlx6QsELdx\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "非常认同哥飞大佬的观点，GEO要做，但SEO更要做（SEO是基础），现在一般都是两条线GEO/SEO一起做，这是底层逻辑~ 最近在研读Zac大神的《SEO实战密码·第5版》，相较第4版，其中就加了GEO的部分，非常值得大家也去阅读此书，并关注此网站：SEO每天一贴[https://seozac.com](https://t.co/tlx6QsELdx)",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/Tungcq431",
+        "text": "Tungcq431",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/Tungcq431/status/1972689221220774311?t=E6IYaOcElAsoiMs6cd6ikA&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuYf7BGjTVGY"
+  },
+  {
+    "fields": {
       "id": "1160",
       "发布时间": 1758860700000,
       "平台": [
@@ -20048,367 +20084,5 @@
       ]
     },
     "record_id": "recuFMstMbmu0t"
-  },
-  {
-    "fields": {
-      "id": "481",
-      "发布时间": 1742282772076,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "AI",
-        "工具",
-        "商业"
-      ],
-      "标题": [
-        {
-          "text": "Justin3go on X: \"2025，你完全可以成为一人公司，超级个体的时代已经到来！\n\n日常AI使用？ -> https://t.co/5XjJiMDhhu(可自部署)、https://t.co/OKDkySXFCL\n网站模版？ -> https://t.co/9PTVAvO4B8(全免费) + AI编码\n网站搭建？ -> https://t.co/uKTBvuAaSP、https://t.co/trnV35aXyU\n不会编码？ -> https://t.co/FGQNsSoTlp\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "2025，你完全可以成为一人公司，超级个体的时代已经到来！ 日常AI使用？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://LobeChat.com",
-          "text": "http://LobeChat.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/0FuNi3OLAM",
-          "text": "https://t.co/0FuNi3OLAM",
-          "type": "url"
-        },
-        {
-          "text": ")(可自部署)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Juchat.com",
-          "text": "http://Juchat.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/JgGX6xr2Jc",
-          "text": "https://t.co/JgGX6xr2Jc",
-          "type": "url"
-        },
-        {
-          "text": ") 网站模版？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Template0.com",
-          "text": "http://Template0.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/M9su5wu25J",
-          "text": "https://t.co/M9su5wu25J",
-          "type": "url"
-        },
-        {
-          "text": ")(全免费) + AI编码 网站搭建？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Framer.com",
-          "text": "http://Framer.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/azuAVcAg0m",
-          "text": "https://t.co/azuAVcAg0m",
-          "type": "url"
-        },
-        {
-          "text": ")、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Webflow.com",
-          "text": "http://Webflow.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/KHyuPTLBO9",
-          "text": "https://t.co/KHyuPTLBO9",
-          "type": "url"
-        },
-        {
-          "text": ") 不会编码？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Cursor.com",
-          "text": "http://Cursor.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/sMKDo6ghO4",
-          "text": "https://t.co/sMKDo6ghO4",
-          "type": "url"
-        },
-        {
-          "text": ")(体验好)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Trae.ai",
-          "text": "http://Trae.ai",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/crZMtR22IH",
-          "text": "https://t.co/crZMtR22IH",
-          "type": "url"
-        },
-        {
-          "text": ")(免费) 口播卡顿？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Capcat.com",
-          "text": "http://Capcat.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/WLWLG1RFBX",
-          "text": "https://t.co/WLWLG1RFBX",
-          "type": "url"
-        },
-        {
-          "text": ")(智能口播、AI数字人) 画流程图？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Excildraw.com",
-          "text": "http://Excildraw.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/e8hNcRouka",
-          "text": "https://t.co/e8hNcRouka",
-          "type": "url"
-        },
-        {
-          "text": ")(AI生图)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Draw.io",
-          "text": "http://Draw.io",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/J6mFpIqFuA",
-          "text": "https://t.co/J6mFpIqFuA",
-          "type": "url"
-        },
-        {
-          "text": ") 宣传图？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Canva.com",
-          "text": "http://Canva.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/gXNGclDx8Z",
-          "text": "https://t.co/gXNGclDx8Z",
-          "type": "url"
-        },
-        {
-          "text": ")、稿定设计(更适合国内宝宝)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Shot.so",
-          "text": "http://Shot.so",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/qGYHxP2KPj",
-          "text": "https://t.co/qGYHxP2KPj",
-          "type": "url"
-        },
-        {
-          "text": ")(截图美化) 智能体搭建？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Coze.com",
-          "text": "http://Coze.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/KJX9Kxoq4z",
-          "text": "https://t.co/KJX9Kxoq4z",
-          "type": "url"
-        },
-        {
-          "text": ")(助你提效)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Dify.ai",
-          "text": "http://Dify.ai",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/K4cTRz1fR8",
-          "text": "https://t.co/K4cTRz1fR8",
-          "type": "url"
-        },
-        {
-          "text": ")(开源) 个人知识库？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Obsidian.md",
-          "text": "http://Obsidian.md",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/sDllJFcyVR",
-          "text": "https://t.co/sDllJFcyVR",
-          "type": "url"
-        },
-        {
-          "text": ")(免费)、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Feishu.cn",
-          "text": "http://Feishu.cn",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/n4S4868uLJ",
-          "text": "https://t.co/n4S4868uLJ",
-          "type": "url"
-        },
-        {
-          "text": ")(生态) 图文视频？ -> [",
-          "type": "text"
-        },
-        {
-          "link": "http://Klingai.com",
-          "text": "http://Klingai.com",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/V8LLv5EWJz",
-          "text": "https://t.co/V8LLv5EWJz",
-          "type": "url"
-        },
-        {
-          "text": ")、[",
-          "type": "text"
-        },
-        {
-          "link": "http://Recraft.ai",
-          "text": "http://Recraft.ai",
-          "type": "url"
-        },
-        {
-          "text": "](",
-          "type": "text"
-        },
-        {
-          "link": "https://t.co/ibpVzVVfgi",
-          "text": "https://t.co/ibpVzVVfgi",
-          "type": "url"
-        },
-        {
-          "text": ")(每天50次) 教程演示录制？ -> Focusee(实惠)、ScreenStudio(功能丰富) 以前不敢想的事，现在都能自己做！",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/Justin1024go",
-        "text": "Justin3go",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/Justin1024go/status/1901824909506154700?t=1gfaxExnmUYzWoUN_18H4Q&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFMkXfutiVV"
   }
 ]
