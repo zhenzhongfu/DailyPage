@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "1162",
+      "发布时间": 1759979040000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "教程"
+      ],
+      "标题": [
+        {
+          "text": "Blake Emal on X: \"17 quick tips to help your site convert:\n\n1. Avoid over-designing\n2. Use GIFs of your product\n3. Increase site speed ASAP\n4. Use only 1 CTA if possible\n5. Make the page interactive\n6. Make pricing easily accessible\n7. Clear language > clever language\n8. Make your above-the-fold\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "17 quick tips to help your site convert: \n1. Avoid over-designing \n2. Use GIFs of your product \n3. Increase site speed ASAP \n4. Use only 1 CTA if possible \n5. Make the page interactive \n6. Make pricing easily accessible \n7. Clear language > clever language \n8. Make your above-the-fold simple \n9. Keep it focused on your main offer \n10. Spend 80% of your time on the H1 \n11. Speak about pain points, not yourself \n12. Only use imagery to boost the story \n13. Don't use buzzwords; use value props \n14. Use micro-interactions to delight users \n15. Inject social proof throughout the page \n16. Button copy should tell you what's next \n17. Use video social proof whenever possible",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/heyblake",
+        "text": "Blake Emal",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/heyblake/status/1976121445291000052?t=B0IvSOowfsN5LsE5CZOA4w&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuZ76kHac3RL"
+  },
+  {
+    "fields": {
       "id": "1161",
       "发布时间": 1759160700000,
       "平台": [
@@ -20045,44 +20081,5 @@
       ]
     },
     "record_id": "recuFWSdkREJTU"
-  },
-  {
-    "fields": {
-      "id": "482",
-      "发布时间": 1742284565408,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "文章",
-        "工具",
-        "AI",
-        "教程"
-      ],
-      "标题": [
-        {
-          "text": "宝玉 on X: \"网友分享的在不同任务场景选择的最佳模型：\n\n> Gemini Flash 2.0 用于 OCR  \n> Sonnet 3.7 用于编程  \n> GPT-4o 用于写作  \n> o3-high 用于推理  \n> Flux Pro Ultra 用于图像生成  \n> 可灵 1.6 用于视频生成  \n> Eleven Labs 用于音频处理  \n> Gemini Flash 用于图像编辑  \n> GPT-4o 用于语音模式  \n>\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "网友分享的在不同任务场景选择的最佳模型： > Gemini Flash 2.0 用于 OCR > Sonnet 3.7 用于编程 > GPT-4o 用于写作 > o3-high 用于推理 > Flux Pro Ultra 用于图像生成 > 可灵 1.6 用于视频生成 > Eleven Labs 用于音频处理 > Gemini Flash 用于图像编辑 > GPT-4o 用于语音模式 > Deepseek R1 和通义千问，因为我们热爱开源",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/dotey",
-        "text": "宝玉",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/dotey/status/1901863697942725104?s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFMstMbmu0t"
   }
 ]
