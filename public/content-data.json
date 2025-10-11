@@ -1,6 +1,42 @@
 [
   {
     "fields": {
+      "id": "1164",
+      "发布时间": 1760061120000,
+      "平台": [
+        "X"
+      ],
+      "标签": [
+        "工具"
+      ],
+      "标题": [
+        {
+          "text": "karminski-牙医 on X: \"Gemini CLI 的扩展已经有90多个了，给大家介绍几个特别有用的插件\n\n所有插件地址：https://t.co/Wz7MGcPGEX https://t.co/JYXPRdI6tl\" / X",
+          "type": "text"
+        }
+      ],
+      "正文": [
+        {
+          "text": "Gemini CLI 的扩展已经有90多个了，给大家介绍几个特别有用的插件 \n所有插件地址：[http://geminicli.com/extensions/bro wse/…](https://t.co/Wz7MGcPGEX)\nhttps://t.co/JYXPRdI6tl",
+          "type": "text"
+        }
+      ],
+      "账号": {
+        "link": "https://x.com/karminski3",
+        "text": "karminski-牙医",
+        "type": "url"
+      },
+      "链接": [
+        {
+          "text": "https://x.com/karminski3/status/1976465950779244742?t=UH2wMM4XLo7kMbrhcPtm1A&s=19",
+          "type": "text"
+        }
+      ]
+    },
+    "record_id": "recuZiamTjVpuC"
+  },
+  {
+    "fields": {
       "id": "1162",
       "发布时间": 1759979040000,
       "平台": [
@@ -20043,43 +20079,5 @@
       ]
     },
     "record_id": "recuFWrcBLlWuf"
-  },
-  {
-    "fields": {
-      "id": "514",
-      "发布时间": 1742292060000,
-      "平台": [
-        "X"
-      ],
-      "标签": [
-        "AI",
-        "思考",
-        "讨论"
-      ],
-      "标题": [
-        {
-          "text": "铁锤人 on X: \"你们学AI的方法都错的。\n\n别再浪费时间了用什么客户端，哪个模型牛逼了，幻想哪个模型出来的结果比自己思考牛逼\n\n你要做的是找到自己的思考回路，然后你用AI来优化和加速你的思考\n\n其次是让AI协助你思考自己没有思考过的角度\n\n你没有自己的思考回路，AI也加速不了太多。\" / X",
-          "type": "text"
-        }
-      ],
-      "正文": [
-        {
-          "text": "你们学AI的方法都错的。 别再浪费时间了用什么客户端，哪个模型牛逼了，幻想哪个模型出来的结果比自己思考牛逼 你要做的是找到自己的思考回路，然后你用AI来优化和加速你的思考 其次是让AI协助你思考自己没有思考过的角度 你没有自己的思考回路，AI也加速不了太多。 也就是说你能获得到结果比不上一个张口就来普通人。 如何是这样的话，你就错过AI纪元到来的最后翻身机会了。",
-          "type": "text"
-        }
-      ],
-      "账号": {
-        "link": "https://x.com/lxfater",
-        "text": "铁锤人",
-        "type": "url"
-      },
-      "链接": [
-        {
-          "text": "https://x.com/lxfater/status/1901936916192542831?t=RZwjlxi9kVQOUwtwsC8SGA&s=19",
-          "type": "text"
-        }
-      ]
-    },
-    "record_id": "recuFSavGUv2kd"
   }
 ]
